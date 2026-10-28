@@ -1,0 +1,56 @@
+---
+description: Fantrax weekly report — Cursor is the data engine and first-draft writer
+alwaysApply: true
+---
+
+# Weekly Report Roles
+
+When the user says **이번 주 리포트 작성해줘** (or equivalent), Cursor is the data engine + first-draft writer. Do not wait for a more detailed prompt.
+
+## Required pipeline
+
+Run from the project root, with a fetch unless the user says to reuse saved JSON:
+
+```bash
+python3 report_generator.py
+```
+
+If they name a gameweek (`GW7`, `--period 7`), pass that period:
+
+```bash
+python3 report_generator.py --period 7
+```
+
+The script must:
+
+1. Lock historical GW N data into `fantrax_data/historical/period_N/` (`getTeamRosters?period=N`, period player stats, matchups). Do not overwrite completed/in_progress roster snapshots
+2. Compute Round Results, POTW (historical roster ownership), Power Ranking through N, Luck Index, manager analysis, and position rankings (`historical/period_N/player_rankings.json`) from historical data only
+3. Fresh-fetch CURRENT data into `fantrax_data/current/` (roster, season FP/G, standings, league info)
+4. Compute Next Round Preview from current data only; write `fantrax_data/previews/period_{N+1}_preview.json`
+5. Write `output/gw_X_report.md`
+
+Never compute Preview from `historical/period_N` rosters or a stale `players_season.json`.
+
+## Cursor vs ChatGPT
+
+- Cursor writes a **data-accurate first draft** for ChatGPT to edit later.
+- Do **not** invent scores, ranks, injuries, goals, or narratives that are not in API / player JSON / `analytics.py`.
+- Prefer numbers, ranks, and one-line evidence over magazine prose.
+- ChatGPT (outside this repo) will polish tone, drip, and storylines after the user uploads the markdown.
+
+## Draft constraints
+
+- Section order is fixed: Round Results → POTW → Power Ranking → Luck Index → Next Round Preview
+- `teamId` is the join key; `teamName` is display-only
+- Player join is by player ID
+- A true 0-point lineup is not an error
+- GW roster snapshots are immutable after lock; never rebuild a past GW from the current roster
+- Next Round Preview always uses `current/` (fresh fetch). Historical files are for results/manager/POTW/luck/power only
+- If ACTIVE FPts sum ≠ Fantrax matchup score, flag a data limit — do not invent a lineup to force a match
+- Missing POTW/Preview data → write `data unavailable`, do not guess
+- Keep the markdown headings stable so ChatGPT can edit mechanically
+
+## Period safety
+
+`latest_completed_period()` uses Fantrax `endDate`, not “some games have scores”.
+An in-progress window must not be auto-selected. The user can force it with `--period N`.

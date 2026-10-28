@@ -1,0 +1,5318 @@
+{
+  "075zi": {
+    "name": "Cresswell, Alfie",
+    "fantraxId": "075zi",
+    "team": "LEE",
+    "position": "M"
+  },
+  "07app": {
+    "name": "Okoli, Chuks",
+    "fantraxId": "07app",
+    "team": "CRY",
+    "position": "M"
+  },
+  "02m5b": {
+    "rotowireId": 17846,
+    "name": "Wood, Chris",
+    "fantraxId": "02m5b",
+    "team": "NOT",
+    "position": "F"
+  },
+  "07apq": {
+    "name": "Sealey, Amaari",
+    "fantraxId": "07apq",
+    "team": "CRY",
+    "position": "M"
+  },
+  "07apn": {
+    "name": "Lee, Harry",
+    "fantraxId": "07apn",
+    "team": "CRY",
+    "position": "G"
+  },
+  "07apo": {
+    "name": "James Kalembo, Nathanael",
+    "fantraxId": "07apo",
+    "team": "CRY",
+    "position": "D"
+  },
+  "110011#5030": {
+    "teamName": "Aston Villa",
+    "name": "Team Outfielder",
+    "fantraxId": "110011#5030",
+    "teamShortName": "AVL",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "06onv": {
+    "rotowireId": 44062,
+    "name": "Armstrong, Harrison",
+    "fantraxId": "06onv",
+    "team": "EVE",
+    "position": "M"
+  },
+  "06uzy": {
+    "rotowireId": 35018,
+    "name": "Tanaka, Ao",
+    "fantraxId": "06uzy",
+    "team": "LEE",
+    "position": "M"
+  },
+  "02ltw": {
+    "rotowireId": 17584,
+    "name": "Forster, Fraser",
+    "fantraxId": "02ltw",
+    "team": "BOU",
+    "position": "G"
+  },
+  "05os8": {
+    "rotowireId": 25272,
+    "name": "Andersen, Joachim",
+    "fantraxId": "05os8",
+    "team": "FUL",
+    "position": "D"
+  },
+  "04lnu": {
+    "rotowireId": 25819,
+    "name": "Nmecha, Lukas",
+    "fantraxId": "04lnu",
+    "team": "LEE",
+    "position": "F"
+  },
+  "06uzw": {
+    "rotowireId": 41737,
+    "name": "Cairns, Alex",
+    "fantraxId": "06uzw",
+    "team": "LEE",
+    "position": "G"
+  },
+  "06uzu": {
+    "name": "Mamadou Sarr",
+    "fantraxId": "06uzu",
+    "team": "CHE",
+    "position": "D"
+  },
+  "05os4": {
+    "rotowireId": 25771,
+    "name": "Ait-Nouri, Rayan",
+    "fantraxId": "05os4",
+    "team": "MCI",
+    "position": "D"
+  },
+  "06uzv": {
+    "name": "Dario Essugo",
+    "fantraxId": "06uzv",
+    "team": "CHE",
+    "position": "M"
+  },
+  "04mr4": {
+    "rotowireId": 25426,
+    "name": "Dubravka, Martin",
+    "fantraxId": "04mr4",
+    "team": "TOT",
+    "position": "G"
+  },
+  "062x7": {
+    "rotowireId": 37574,
+    "name": "Lewis, Rico",
+    "fantraxId": "062x7",
+    "team": "MCI",
+    "position": "D"
+  },
+  "06uzt": {
+    "rotowireId": 44123,
+    "name": "Penders, Mike",
+    "fantraxId": "06uzt",
+    "team": "CHE",
+    "position": "G"
+  },
+  "110090#5030": {
+    "teamName": "Manchester United",
+    "name": "Team Outfielder",
+    "fantraxId": "110090#5030",
+    "teamShortName": "MUN",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "110141#5030": {
+    "teamName": "Sunderland",
+    "name": "Team Outfielder",
+    "fantraxId": "110141#5030",
+    "teamShortName": "SUN",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "06uzo": {
+    "rotowireId": 37452,
+    "name": "Flemming, Zian",
+    "fantraxId": "06uzo",
+    "team": "IPS",
+    "position": "F"
+  },
+  "045c8": {
+    "rotowireId": 23283,
+    "name": "Gabriel Jesus",
+    "fantraxId": "045c8",
+    "team": "ARS",
+    "position": "F"
+  },
+  "04rzl": {
+    "rotowireId": 26412,
+    "name": "Awoniyi, Taiwo",
+    "fantraxId": "04rzl",
+    "team": "COV",
+    "position": "F"
+  },
+  "06r2g": {
+    "rotowireId": 45708,
+    "name": "Ngumoha, Rio",
+    "fantraxId": "06r2g",
+    "team": "LIV",
+    "position": "F"
+  },
+  "04ge6": {
+    "rotowireId": 26488,
+    "name": "Willock, Joe",
+    "fantraxId": "04ge6",
+    "team": "NEW",
+    "position": "M"
+  },
+  "04ge9": {
+    "rotowireId": 25374,
+    "name": "Nketiah, Eddie",
+    "fantraxId": "04ge9",
+    "team": "CRY",
+    "position": "F"
+  },
+  "04ge8": {
+    "rotowireId": 25780,
+    "name": "Nelson, Reiss",
+    "fantraxId": "04ge8",
+    "team": "ARS",
+    "position": "F"
+  },
+  "110040#5030": {
+    "teamName": "Chelsea",
+    "name": "Team Outfielder",
+    "fantraxId": "110040#5030",
+    "teamShortName": "CHE",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "110011#5040": {
+    "teamName": "Aston Villa",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110011#5040",
+    "teamShortName": "AVL",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "03jlw": {
+    "rotowireId": 18525,
+    "name": "Paddy McNair",
+    "fantraxId": "03jlw",
+    "team": "HUL",
+    "position": "D"
+  },
+  "05nns": {
+    "rotowireId": 29213,
+    "name": "Ballard, Danny",
+    "fantraxId": "05nns",
+    "team": "SUN",
+    "position": "D"
+  },
+  "110090#5040": {
+    "teamName": "Manchester United",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110090#5040",
+    "teamShortName": "MUN",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06zbz": {
+    "rotowireId": 34089,
+    "name": "Ekitike, Hugo",
+    "fantraxId": "06zbz",
+    "team": "LIV",
+    "position": "F"
+  },
+  "06yb9": {
+    "rotowireId": 27118,
+    "name": "Reinildo",
+    "fantraxId": "06yb9",
+    "team": "SUN",
+    "position": "D"
+  },
+  "06zbx": {
+    "rotowireId": 35015,
+    "name": "Stach, Anton",
+    "fantraxId": "06zbx",
+    "team": "LEE",
+    "position": "M"
+  },
+  "063y7": {
+    "rotowireId": 33338,
+    "name": "Destiny Udogie",
+    "fantraxId": "063y7",
+    "team": "TOT",
+    "position": "D"
+  },
+  "06yb7": {
+    "rotowireId": 35627,
+    "name": "Gudmundsson, Gabriel",
+    "fantraxId": "06yb7",
+    "team": "LEE",
+    "position": "D"
+  },
+  "06zbw": {
+    "rotowireId": 20085,
+    "name": "Lecomte, Benjamin",
+    "fantraxId": "06zbw",
+    "team": "FUL",
+    "position": "G"
+  },
+  "05opl": {
+    "rotowireId": 27949,
+    "name": "Wesley Fofana",
+    "fantraxId": "05opl",
+    "team": "CHE",
+    "position": "D"
+  },
+  "05ye7": {
+    "rotowireId": 37935,
+    "name": "Bobb, Oscar",
+    "fantraxId": "05ye7",
+    "team": "FUL",
+    "position": "M"
+  },
+  "06ezb": {
+    "rotowireId": 35610,
+    "name": "van de Ven, Micky",
+    "fantraxId": "06ezb",
+    "team": "TOT",
+    "position": "D"
+  },
+  "05opj": {
+    "rotowireId": 34207,
+    "name": "Anderson, Elliot",
+    "fantraxId": "05opj",
+    "team": "MCI",
+    "position": "M"
+  },
+  "05yct": {
+    "rotowireId": 32662,
+    "name": "Patterson, Nathan",
+    "fantraxId": "05yct",
+    "team": "EVE",
+    "position": "D"
+  },
+  "06zbp": {
+    "rotowireId": 46874,
+    "name": "Dowman, Max",
+    "fantraxId": "06zbp",
+    "team": "ARS",
+    "position": "F"
+  },
+  "06zbn": {
+    "name": "Salmon, Marli",
+    "fantraxId": "06zbn",
+    "team": "ARS",
+    "position": "D"
+  },
+  "05r4h": {
+    "rotowireId": 35382,
+    "name": "Bogarde, Lamare",
+    "fantraxId": "05r4h",
+    "team": "AVL",
+    "position": "M"
+  },
+  "0635j": {
+    "rotowireId": 27137,
+    "name": "Richards, Chris",
+    "fantraxId": "0635j",
+    "team": "CRY",
+    "position": "D"
+  },
+  "110271#5040": {
+    "teamName": "Ipswich",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110271#5040",
+    "teamShortName": "IPS",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06r5b": {
+    "rotowireId": 39929,
+    "name": "Diego Gomez",
+    "fantraxId": "06r5b",
+    "team": "BHA",
+    "position": "M"
+  },
+  "110040#5040": {
+    "teamName": "Chelsea",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110040#5040",
+    "teamShortName": "CHE",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "05gcs": {
+    "rotowireId": 29740,
+    "name": "Berge, Sander",
+    "fantraxId": "05gcs",
+    "team": "FUL",
+    "position": "M"
+  },
+  "06mn7": {
+    "rotowireId": 41212,
+    "name": "Bergvall, Lucas",
+    "fantraxId": "06mn7",
+    "team": "TOT",
+    "position": "M"
+  },
+  "06pry": {
+    "name": "Braithwaite, Kaden",
+    "fantraxId": "06pry",
+    "team": "MCI",
+    "position": "D"
+  },
+  "05gcr": {
+    "rotowireId": 21086,
+    "name": "Bruno Fernandes",
+    "fantraxId": "05gcr",
+    "team": "MUN",
+    "position": "M"
+  },
+  "110011#5050": {
+    "teamName": "Aston Villa",
+    "name": "Team",
+    "fantraxId": "110011#5050",
+    "teamShortName": "AVL",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "03p9y": {
+    "rotowireId": 23540,
+    "name": "Palmer, Alex",
+    "fantraxId": "03p9y",
+    "team": "IPS",
+    "position": "G"
+  },
+  "06jh3": {
+    "rotowireId": 41215,
+    "name": "King, Joshua",
+    "fantraxId": "06jh3",
+    "team": "FUL",
+    "position": "M"
+  },
+  "110090#5050": {
+    "teamName": "Manchester United",
+    "name": "Team",
+    "fantraxId": "110090#5050",
+    "teamShortName": "MUN",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "110141#5050": {
+    "teamName": "Sunderland",
+    "name": "Team",
+    "fantraxId": "110141#5050",
+    "teamShortName": "SUN",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "06prt": {
+    "name": "Rowe, Triston",
+    "fantraxId": "06prt",
+    "team": "AVL",
+    "position": "D"
+  },
+  "032aa": {
+    "rotowireId": 16872,
+    "name": "Butland, Jack",
+    "fantraxId": "032aa",
+    "team": "HUL",
+    "position": "G"
+  },
+  "06mn1": {
+    "rotowireId": 41236,
+    "name": "Osman, Ibrahim",
+    "fantraxId": "06mn1",
+    "team": "BHA",
+    "position": "F"
+  },
+  "03fgl": {
+    "rotowireId": 31306,
+    "name": "da Silva, Jay",
+    "fantraxId": "03fgl",
+    "team": "COV",
+    "position": "D"
+  },
+  "03m3q": {
+    "rotowireId": 18579,
+    "name": "Maitland-Niles, Ainsley",
+    "fantraxId": "03m3q",
+    "team": "EVE",
+    "position": "M"
+  },
+  "03fgo": {
+    "rotowireId": 18544,
+    "name": "Solanke, Dominic",
+    "fantraxId": "03fgo",
+    "team": "TOT",
+    "position": "F"
+  },
+  "05r94": {
+    "rotowireId": 34436,
+    "name": "Iliman Ndiaye",
+    "fantraxId": "05r94",
+    "team": "MCI",
+    "position": "F"
+  },
+  "05a6e": {
+    "rotowireId": 30731,
+    "name": "Williams, Neco",
+    "fantraxId": "05a6e",
+    "team": "NOT",
+    "position": "D"
+  },
+  "06mn0": {
+    "rotowireId": 37737,
+    "name": "Igor Thiago",
+    "fantraxId": "06mn0",
+    "team": "BRF",
+    "position": "F"
+  },
+  "061vp": {
+    "rotowireId": 27217,
+    "name": "Aaronson, Brenden",
+    "fantraxId": "061vp",
+    "team": "LEE",
+    "position": "M"
+  },
+  "0626q": {
+    "rotowireId": 37070,
+    "name": "Adingra, Simon",
+    "fantraxId": "0626q",
+    "team": "SUN",
+    "position": "F"
+  },
+  "061vq": {
+    "rotowireId": 29664,
+    "name": "Haaland, Erling",
+    "fantraxId": "061vq",
+    "team": "MCI",
+    "position": "F"
+  },
+  "05gcc": {
+    "rotowireId": 33116,
+    "name": "Dewsbury-Hall, Kiernan",
+    "fantraxId": "05gcc",
+    "team": "EVE",
+    "position": "M"
+  },
+  "06jfe": {
+    "rotowireId": 41144,
+    "name": "Valdimarsson, Hakon",
+    "fantraxId": "06jfe",
+    "team": "BRF",
+    "position": "G"
+  },
+  "061vk": {
+    "rotowireId": 33344,
+    "name": "Anthony, Jaidon",
+    "fantraxId": "061vk",
+    "team": "BRF",
+    "position": "F"
+  },
+  "061vn": {
+    "rotowireId": 35865,
+    "name": "Rodrigo Muniz",
+    "fantraxId": "061vn",
+    "team": "FUL",
+    "position": "F"
+  },
+  "063zi": {
+    "rotowireId": 35654,
+    "name": "Matheus Nunes",
+    "fantraxId": "063zi",
+    "team": "MCI",
+    "position": "M"
+  },
+  "110271#5030": {
+    "teamName": "Ipswich",
+    "name": "Team Outfielder",
+    "fantraxId": "110271#5030",
+    "teamShortName": "IPS",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "061ve": {
+    "rotowireId": 22867,
+    "name": "Christie, Ryan",
+    "fantraxId": "061ve",
+    "team": "BOU",
+    "position": "M"
+  },
+  "110040#5050": {
+    "teamName": "Chelsea",
+    "name": "Team",
+    "fantraxId": "110040#5050",
+    "teamShortName": "CHE",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "061vb": {
+    "rotowireId": 36419,
+    "name": "Hill, James",
+    "fantraxId": "061vb",
+    "team": "BOU",
+    "position": "D"
+  },
+  "06zef": {
+    "rotowireId": 41148,
+    "name": "Aznou, Adam",
+    "fantraxId": "06zef",
+    "team": "EVE",
+    "position": "D"
+  },
+  "061va": {
+    "rotowireId": 23566,
+    "name": "Kamara, Boubacar",
+    "fantraxId": "061va",
+    "team": "AVL",
+    "position": "M"
+  },
+  "05n09": {
+    "rotowireId": 32876,
+    "name": "Gillespie, Mark",
+    "fantraxId": "05n09",
+    "team": "NEW",
+    "position": "G"
+  },
+  "05n07": {
+    "rotowireId": 26581,
+    "name": "Porro, Pedro",
+    "fantraxId": "05n07",
+    "team": "TOT",
+    "position": "D"
+  },
+  "06r3w": {
+    "name": "Rees-Dottin, Remy",
+    "fantraxId": "06r3w",
+    "team": "BOU",
+    "position": "F"
+  },
+  "06c6g": {
+    "rotowireId": 39645,
+    "name": "Minteh, Yankuba",
+    "fantraxId": "06c6g",
+    "team": "BHA",
+    "position": "F"
+  },
+  "0722t": {
+    "rotowireId": 47333,
+    "name": "McAidoo, Ryan",
+    "fantraxId": "0722t",
+    "team": "MCI",
+    "position": "F"
+  },
+  "110141#5040": {
+    "teamName": "Sunderland",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110141#5040",
+    "teamShortName": "SUN",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06ybq": {
+    "rotowireId": 38878,
+    "name": "Talbi, Chemsdine",
+    "fantraxId": "06ybq",
+    "team": "SUN",
+    "position": "F"
+  },
+  "057cr": {
+    "rotowireId": 23618,
+    "name": "Danso, Kevin",
+    "fantraxId": "057cr",
+    "team": "SUN",
+    "position": "D"
+  },
+  "02m5l": {
+    "rotowireId": 28920,
+    "name": "Egan, John",
+    "fantraxId": "02m5l",
+    "team": "HUL",
+    "position": "D"
+  },
+  "056as": {
+    "rotowireId": 33310,
+    "name": "Dennis, William",
+    "fantraxId": "056as",
+    "team": "BOU",
+    "position": "G"
+  },
+  "06ybp": {
+    "rotowireId": 44100,
+    "name": "Barry, Thierno",
+    "fantraxId": "06ybp",
+    "team": "EVE",
+    "position": "F"
+  },
+  "072pc": {
+    "rotowireId": 44448,
+    "name": "Alex Toth",
+    "fantraxId": "072pc",
+    "team": "BOU",
+    "position": "M"
+  },
+  "06mfy": {
+    "rotowireId": 40194,
+    "name": "Woolfenden, Luke",
+    "fantraxId": "06mfy",
+    "team": "COV",
+    "position": "D"
+  },
+  "06ews": {
+    "name": "Mee, Dermot",
+    "fantraxId": "06ews",
+    "team": "MUN",
+    "position": "G"
+  },
+  "0427d": {
+    "rotowireId": 21464,
+    "name": "Tarkowski, James",
+    "fantraxId": "0427d",
+    "team": "EVE",
+    "position": "D"
+  },
+  "06ewn": {
+    "rotowireId": 39974,
+    "name": "De Fougerolles, Luc",
+    "fantraxId": "06ewn",
+    "team": "FUL",
+    "position": "D"
+  },
+  "06ewm": {
+    "name": "Borto, Alex",
+    "fantraxId": "06ewm",
+    "team": "FUL",
+    "position": "G"
+  },
+  "05omu": {
+    "rotowireId": 21071,
+    "name": "Ruben Dias",
+    "fantraxId": "05omu",
+    "team": "MCI",
+    "position": "D"
+  },
+  "05r34": {
+    "rotowireId": 30618,
+    "name": "Diallo, Amad",
+    "fantraxId": "05r34",
+    "team": "MUN",
+    "position": "F"
+  },
+  "03r93": {
+    "rotowireId": 19162,
+    "name": "Gomez, Joseph",
+    "fantraxId": "03r93",
+    "team": "LIV",
+    "position": "D"
+  },
+  "0414o": {
+    "rotowireId": 20951,
+    "name": "Maddison, James",
+    "fantraxId": "0414o",
+    "team": "TOT",
+    "position": "M"
+  },
+  "04tzt": {
+    "rotowireId": 20711,
+    "name": "Lerma, Jefferson",
+    "fantraxId": "04tzt",
+    "team": "CRY",
+    "position": "M"
+  },
+  "02lpf": {
+    "rotowireId": 17201,
+    "name": "Barkley, Ross",
+    "fantraxId": "02lpf",
+    "team": "AVL",
+    "position": "M"
+  },
+  "04p0d": {
+    "rotowireId": 26658,
+    "name": "McNeil, Dwight",
+    "fantraxId": "04p0d",
+    "team": "CRY",
+    "position": "F"
+  },
+  "02lpi": {
+    "name": "Bidwell, Jake",
+    "fantraxId": "02lpi",
+    "team": "COV",
+    "position": "D"
+  },
+  "06fxu": {
+    "rotowireId": 21982,
+    "name": "Sangare, Ibrahim",
+    "fantraxId": "06fxu",
+    "team": "NOT",
+    "position": "M"
+  },
+  "06ex4": {
+    "rotowireId": 29769,
+    "name": "Gvardiol, Josko",
+    "fantraxId": "06ex4",
+    "team": "MCI",
+    "position": "D"
+  },
+  "06crm": {
+    "rotowireId": 25009,
+    "name": "Torres, Pau",
+    "fantraxId": "06crm",
+    "team": "AVL",
+    "position": "D"
+  },
+  "06crn": {
+    "rotowireId": 39985,
+    "name": "Collyer, Toby",
+    "fantraxId": "06crn",
+    "team": "MUN",
+    "position": "M"
+  },
+  "06mg4": {
+    "rotowireId": 40208,
+    "name": "Humphreys, Cameron",
+    "fantraxId": "06mg4",
+    "team": "IPS",
+    "position": "M"
+  },
+  "06mg2": {
+    "rotowireId": 35815,
+    "name": "Taylor, Jack",
+    "fantraxId": "06mg2",
+    "team": "IPS",
+    "position": "M"
+  },
+  "05244": {
+    "rotowireId": 29193,
+    "name": "Jack Clarke",
+    "fantraxId": "05244",
+    "team": "IPS",
+    "position": "F"
+  },
+  "110237#5050": {
+    "teamName": "Brentford",
+    "name": "Team",
+    "fantraxId": "110237#5050",
+    "teamShortName": "BRF",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "0558w": {
+    "rotowireId": 26575,
+    "name": "Saliba, William",
+    "fantraxId": "0558w",
+    "team": "ARS",
+    "position": "D"
+  },
+  "06fxe": {
+    "rotowireId": 30875,
+    "name": "Gravenberch, Ryan",
+    "fantraxId": "06fxe",
+    "team": "LIV",
+    "position": "M"
+  },
+  "0328q": {
+    "rotowireId": 26126,
+    "name": "Cairney, Tom",
+    "fantraxId": "0328q",
+    "team": "FUL",
+    "position": "M"
+  },
+  "03rxs": {
+    "rotowireId": 23803,
+    "name": "Wilson, Harry",
+    "fantraxId": "03rxs",
+    "team": "LEE",
+    "position": "F"
+  },
+  "06fwz": {
+    "rotowireId": 40313,
+    "name": "Murillo",
+    "fantraxId": "06fwz",
+    "team": "NOT",
+    "position": "D"
+  },
+  "0788g": {
+    "rotowireId": 33659,
+    "name": "Hornicek, Lukas",
+    "fantraxId": "0788g",
+    "team": "NEW",
+    "position": "G"
+  },
+  "0522h": {
+    "rotowireId": 29041,
+    "name": "Mac Allister, Alexis",
+    "fantraxId": "0522h",
+    "team": "LIV",
+    "position": "M"
+  },
+  "06zbm": {
+    "rotowireId": 35765,
+    "name": "Mosquera, Cristhian",
+    "fantraxId": "06zbm",
+    "team": "ARS",
+    "position": "D"
+  },
+  "02lsa": {
+    "rotowireId": 17416,
+    "name": "Burn, Dan",
+    "fantraxId": "02lsa",
+    "team": "NEW",
+    "position": "D"
+  },
+  "06uyc": {
+    "rotowireId": 32767,
+    "name": "Truffert, Adrien",
+    "fantraxId": "06uyc",
+    "team": "BOU",
+    "position": "D"
+  },
+  "06on5": {
+    "name": "Shahar, Leo",
+    "fantraxId": "06on5",
+    "team": "NEW",
+    "position": "D"
+  },
+  "06ya6": {
+    "rotowireId": 43788,
+    "name": "Takai, Kota",
+    "fantraxId": "06ya6",
+    "team": "TOT",
+    "position": "D"
+  },
+  "110237#5040": {
+    "teamName": "Brentford",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110237#5040",
+    "teamShortName": "BRF",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06zc8": {
+    "rotowireId": 46524,
+    "name": "Thompson, Tynan",
+    "fantraxId": "06zc8",
+    "team": "MUN",
+    "position": "F"
+  },
+  "068a0": {
+    "rotowireId": 23997,
+    "name": "Andrey Santos",
+    "fantraxId": "068a0",
+    "team": "MUN",
+    "position": "M"
+  },
+  "05ybq": {
+    "rotowireId": 30475,
+    "name": "Mykolenko, Vitalii",
+    "fantraxId": "05ybq",
+    "team": "EVE",
+    "position": "D"
+  },
+  "068a1": {
+    "rotowireId": 35699,
+    "name": "Mudryk, Mykhailo",
+    "fantraxId": "068a1",
+    "team": "TOT",
+    "position": "M"
+  },
+  "06f8y": {
+    "rotowireId": 35937,
+    "name": "Scott, Alex",
+    "fantraxId": "06f8y",
+    "team": "BOU",
+    "position": "M"
+  },
+  "0646f": {
+    "rotowireId": 23369,
+    "name": "Isak, Alexander",
+    "fantraxId": "0646f",
+    "team": "LIV",
+    "position": "F"
+  },
+  "072py": {
+    "rotowireId": 47685,
+    "name": "Souza",
+    "fantraxId": "072py",
+    "team": "TOT",
+    "position": "D"
+  },
+  "06qq8": {
+    "name": "Olusesi, Callum",
+    "fantraxId": "06qq8",
+    "team": "TOT",
+    "position": "M"
+  },
+  "06qq9": {
+    "rotowireId": 44803,
+    "name": "Williams-Barnett, Luca",
+    "fantraxId": "06qq9",
+    "team": "TOT",
+    "position": "M"
+  },
+  "05t6z": {
+    "rotowireId": 34720,
+    "name": "Iroegbunam, Tim",
+    "fantraxId": "05t6z",
+    "team": "HUL",
+    "position": "M"
+  },
+  "05t6x": {
+    "rotowireId": 34736,
+    "name": "Osula, William",
+    "fantraxId": "05t6x",
+    "team": "NEW",
+    "position": "F"
+  },
+  "03r8x": {
+    "rotowireId": 19048,
+    "name": "Wilson, Callum",
+    "fantraxId": "03r8x",
+    "team": "BRF",
+    "position": "F"
+  },
+  "02ls8": {
+    "rotowireId": 26120,
+    "name": "Bettinelli, Marcus",
+    "fantraxId": "02ls8",
+    "team": "MCI",
+    "position": "G"
+  },
+  "06nk0": {
+    "name": "Setford, Tommy",
+    "fantraxId": "06nk0",
+    "team": "ARS",
+    "position": "G"
+  },
+  "06mgk": {
+    "rotowireId": 41068,
+    "name": "Meghoma, Jayden",
+    "fantraxId": "06mgk",
+    "team": "BRF",
+    "position": "D"
+  },
+  "06exa": {
+    "rotowireId": 40149,
+    "name": "Matheus Franca",
+    "fantraxId": "06exa",
+    "team": "CRY",
+    "position": "F"
+  },
+  "110237#5030": {
+    "teamName": "Brentford",
+    "name": "Team Outfielder",
+    "fantraxId": "110237#5030",
+    "teamShortName": "BRF",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "03rzp": {
+    "rotowireId": 26508,
+    "name": "Antonee Robinson",
+    "fantraxId": "03rzp",
+    "team": "FUL",
+    "position": "D"
+  },
+  "06mgd": {
+    "rotowireId": 37842,
+    "name": "Abdul Fatawu",
+    "fantraxId": "06mgd",
+    "team": "IPS",
+    "position": "F"
+  },
+  "078i7": {
+    "rotowireId": 30591,
+    "name": "Araujo, Ronald",
+    "fantraxId": "078i7",
+    "team": "LIV",
+    "position": "D"
+  },
+  "110000#5050": {
+    "teamName": "Arsenal",
+    "name": "Team",
+    "fantraxId": "110000#5050",
+    "teamShortName": "ARS",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "06msb": {
+    "rotowireId": 43571,
+    "name": "Yalcouye, Malick",
+    "fantraxId": "06msb",
+    "team": "BHA",
+    "position": "M"
+  },
+  "05uel": {
+    "rotowireId": 22869,
+    "name": "Ajer, Kristoffer",
+    "fantraxId": "05uel",
+    "team": "BRF",
+    "position": "D"
+  },
+  "06msc": {
+    "rotowireId": 35924,
+    "name": "Greaves, Jacob",
+    "fantraxId": "06msc",
+    "team": "IPS",
+    "position": "D"
+  },
+  "078gh": {
+    "name": "Heath, Fred",
+    "fantraxId": "078gh",
+    "team": "MUN",
+    "position": "G"
+  },
+  "078gi": {
+    "name": "Johnson, Henry",
+    "fantraxId": "078gi",
+    "team": "NEW",
+    "position": "D"
+  },
+  "078gf": {
+    "name": "Mawene, Theo",
+    "fantraxId": "078gf",
+    "team": "BRF",
+    "position": "F"
+  },
+  "078gg": {
+    "name": "Middleton, Jesse",
+    "fantraxId": "078gg",
+    "team": "BHA",
+    "position": "M"
+  },
+  "04fjz": {
+    "rotowireId": 24507,
+    "name": "Walton, Christian",
+    "fantraxId": "04fjz",
+    "team": "IPS",
+    "position": "G"
+  },
+  "078gd": {
+    "name": "Grey, Andre",
+    "fantraxId": "078gd",
+    "team": "BRF",
+    "position": "M"
+  },
+  "03rec": {
+    "rotowireId": 19134,
+    "name": "Mings, Tyrone",
+    "fantraxId": "03rec",
+    "team": "AVL",
+    "position": "D"
+  },
+  "078ge": {
+    "name": "Picotto, Luca",
+    "fantraxId": "078ge",
+    "team": "BRF",
+    "position": "M"
+  },
+  "078gc": {
+    "name": "Avenell, Caelan",
+    "fantraxId": "078gc",
+    "team": "BRF",
+    "position": "D"
+  },
+  "078fy": {
+    "name": "Lynch, Luka",
+    "fantraxId": "078fy",
+    "team": "AVL",
+    "position": "F"
+  },
+  "03ysd": {
+    "rotowireId": 20927,
+    "name": "Byram, Sam",
+    "fantraxId": "03ysd",
+    "team": "LEE",
+    "position": "D"
+  },
+  "076d9": {
+    "rotowireId": 42215,
+    "name": "Mason-Clark, Ephron",
+    "fantraxId": "076d9",
+    "team": "COV",
+    "position": "F"
+  },
+  "078fz": {
+    "rotowireId": 48923,
+    "name": "Hjerto-Dahl, Jens",
+    "fantraxId": "078fz",
+    "team": "HUL",
+    "position": "M"
+  },
+  "076d7": {
+    "rotowireId": 41034,
+    "name": "Torp, Victor",
+    "fantraxId": "076d7",
+    "team": "COV",
+    "position": "M"
+  },
+  "05udw": {
+    "rotowireId": 35169,
+    "name": "Mundle, Romaine",
+    "fantraxId": "05udw",
+    "team": "SUN",
+    "position": "F"
+  },
+  "078fx": {
+    "name": "Asemota, Owen",
+    "fantraxId": "078fx",
+    "team": "AVL",
+    "position": "G"
+  },
+  "05ylx": {
+    "rotowireId": 25834,
+    "name": "Kulusevski, Dejan",
+    "fantraxId": "05ylx",
+    "team": "TOT",
+    "position": "M"
+  },
+  "076d6": {
+    "rotowireId": 33218,
+    "name": "Eccles, Josh",
+    "fantraxId": "076d6",
+    "team": "COV",
+    "position": "M"
+  },
+  "076d3": {
+    "rotowireId": 37330,
+    "name": "Rudoni, Jack",
+    "fantraxId": "076d3",
+    "team": "COV",
+    "position": "M"
+  },
+  "06p6j": {
+    "rotowireId": 30584,
+    "name": "Evanilson",
+    "fantraxId": "06p6j",
+    "team": "BOU",
+    "position": "F"
+  },
+  "05uds": {
+    "rotowireId": 29845,
+    "name": "Scherpen, Kjell",
+    "fantraxId": "05uds",
+    "team": "IPS",
+    "position": "G"
+  },
+  "05ylw": {
+    "rotowireId": 24952,
+    "name": "Bentancur, Rodrigo",
+    "fantraxId": "05ylw",
+    "team": "TOT",
+    "position": "M"
+  },
+  "076d4": {
+    "rotowireId": 40160,
+    "name": "Sakamoto, Tatsuhiro",
+    "fantraxId": "076d4",
+    "team": "COV",
+    "position": "M"
+  },
+  "110000#5040": {
+    "teamName": "Arsenal",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110000#5040",
+    "teamShortName": "ARS",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "076d1": {
+    "name": "Brau, Miguel Angel",
+    "fantraxId": "076d1",
+    "team": "COV",
+    "position": "D"
+  },
+  "076d0": {
+    "rotowireId": 40218,
+    "name": "van Ewijk, Milan",
+    "fantraxId": "076d0",
+    "team": "COV",
+    "position": "D"
+  },
+  "05ylj": {
+    "rotowireId": 24214,
+    "name": "Bruno Guimaraes",
+    "fantraxId": "05ylj",
+    "team": "ARS",
+    "position": "M"
+  },
+  "03vlj": {
+    "rotowireId": 19194,
+    "name": "van Dijk, Virgil",
+    "fantraxId": "03vlj",
+    "team": "LIV",
+    "position": "D"
+  },
+  "06lox": {
+    "rotowireId": 41501,
+    "name": "Moore, Mikey",
+    "fantraxId": "06lox",
+    "team": "TOT",
+    "position": "F"
+  },
+  "04fk8": {
+    "rotowireId": 18234,
+    "name": "Lindelof, Victor",
+    "fantraxId": "04fk8",
+    "team": "AVL",
+    "position": "D"
+  },
+  "05l27": {
+    "rotowireId": 30751,
+    "name": "Branthwaite, Jarrad",
+    "fantraxId": "05l27",
+    "team": "EVE",
+    "position": "D"
+  },
+  "06r9w": {
+    "rotowireId": 40143,
+    "name": "Khusanov, Abdukodir",
+    "fantraxId": "06r9w",
+    "team": "MCI",
+    "position": "D"
+  },
+  "06nu7": {
+    "rotowireId": 30620,
+    "name": "Calafiori, Riccardo",
+    "fantraxId": "06nu7",
+    "team": "ARS",
+    "position": "D"
+  },
+  "06r9x": {
+    "name": "Vitor Reis",
+    "fantraxId": "06r9x",
+    "team": "MCI",
+    "position": "D"
+  },
+  "04fk1": {
+    "rotowireId": 19912,
+    "name": "Gross, Pascal",
+    "fantraxId": "04fk1",
+    "team": "BHA",
+    "position": "M"
+  },
+  "072zs": {
+    "rotowireId": 38161,
+    "name": "Angulo, Nilson",
+    "fantraxId": "072zs",
+    "team": "SUN",
+    "position": "F"
+  },
+  "05ue7": {
+    "rotowireId": 33835,
+    "name": "Onyeka, Frank",
+    "fantraxId": "05ue7",
+    "team": "COV",
+    "position": "M"
+  },
+  "05oz3": {
+    "rotowireId": 34122,
+    "name": "Trafford, James",
+    "fantraxId": "05oz3",
+    "team": "LEE",
+    "position": "G"
+  },
+  "072zr": {
+    "rotowireId": 32415,
+    "name": "Netz, Luca",
+    "fantraxId": "072zr",
+    "team": "NOT",
+    "position": "D"
+  },
+  "072zp": {
+    "rotowireId": 35669,
+    "name": "Ellborg, Melker",
+    "fantraxId": "072zp",
+    "team": "SUN",
+    "position": "G"
+  },
+  "06mul": {
+    "name": "Jack Fletcher",
+    "fantraxId": "06mul",
+    "team": "MUN",
+    "position": "M"
+  },
+  "110000#5030": {
+    "teamName": "Arsenal",
+    "name": "Team Outfielder",
+    "fantraxId": "110000#5030",
+    "teamShortName": "ARS",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "068n8": {
+    "rotowireId": 29972,
+    "name": "Madueke, Noni",
+    "fantraxId": "068n8",
+    "team": "ARS",
+    "position": "F"
+  },
+  "068lx": {
+    "rotowireId": 35229,
+    "name": "Ouattara, Dango",
+    "fantraxId": "068lx",
+    "team": "BRF",
+    "position": "F"
+  },
+  "06muk": {
+    "rotowireId": 43833,
+    "name": "Scanlon, James",
+    "fantraxId": "06muk",
+    "team": "ARS",
+    "position": "M"
+  },
+  "049tq": {
+    "rotowireId": 23240,
+    "name": "Calvert-Lewin, Dominic",
+    "fantraxId": "049tq",
+    "team": "LEE",
+    "position": "F"
+  },
+  "052cb": {
+    "rotowireId": 32666,
+    "name": "Maatsen, Ian",
+    "fantraxId": "052cb",
+    "team": "AVL",
+    "position": "D"
+  },
+  "052ce": {
+    "rotowireId": 39982,
+    "name": "Jaros, Vitezslav",
+    "fantraxId": "052ce",
+    "team": "LIV",
+    "position": "G"
+  },
+  "052cd": {
+    "rotowireId": 26346,
+    "name": "Mount, Mason",
+    "fantraxId": "052cd",
+    "team": "MUN",
+    "position": "M"
+  },
+  "04abn": {
+    "rotowireId": 25787,
+    "name": "Barnes, Harvey",
+    "fantraxId": "04abn",
+    "team": "NEW",
+    "position": "M"
+  },
+  "052ca": {
+    "rotowireId": 29290,
+    "name": "Konsa, Ezri",
+    "fantraxId": "052ca",
+    "team": "ARS",
+    "position": "D"
+  },
+  "06znb": {
+    "rotowireId": 46776,
+    "name": "Roefs, Robin",
+    "fantraxId": "06znb",
+    "team": "SUN",
+    "position": "G"
+  },
+  "06zna": {
+    "rotowireId": 32713,
+    "name": "Ndoye, Dan",
+    "fantraxId": "06zna",
+    "team": "NOT",
+    "position": "F"
+  },
+  "062a9": {
+    "rotowireId": 26857,
+    "name": "Botman, Sven",
+    "fantraxId": "062a9",
+    "team": "NEW",
+    "position": "D"
+  },
+  "076dw": {
+    "name": "Mehmeti, Anis",
+    "fantraxId": "076dw",
+    "team": "IPS",
+    "position": "M"
+  },
+  "05rb8": {
+    "rotowireId": 34431,
+    "name": "Moises Caicedo",
+    "fantraxId": "05rb8",
+    "team": "CHE",
+    "position": "M"
+  },
+  "076dx": {
+    "name": "Egeli, Sindre",
+    "fantraxId": "076dx",
+    "team": "IPS",
+    "position": "F"
+  },
+  "076du": {
+    "rotowireId": 35734,
+    "name": "Matusiwa, Azor",
+    "fantraxId": "076du",
+    "team": "IPS",
+    "position": "M"
+  },
+  "076dv": {
+    "rotowireId": 38385,
+    "name": "Nunez, Marcelino",
+    "fantraxId": "076dv",
+    "team": "IPS",
+    "position": "M"
+  },
+  "04abb": {
+    "rotowireId": 24854,
+    "name": "Foden, Phil",
+    "fantraxId": "04abb",
+    "team": "MCI",
+    "position": "M"
+  },
+  "033l8": {
+    "rotowireId": 17147,
+    "name": "Moore, Simon",
+    "fantraxId": "033l8",
+    "team": "SUN",
+    "position": "G"
+  },
+  "063c2": {
+    "rotowireId": 27640,
+    "name": "Slonina, Gabriel",
+    "fantraxId": "063c2",
+    "team": "CHE",
+    "position": "G"
+  },
+  "076dq": {
+    "rotowireId": 44636,
+    "name": "Belloumi, Mohamed",
+    "fantraxId": "076dq",
+    "team": "HUL",
+    "position": "F"
+  },
+  "076dr": {
+    "name": "Akintola, David",
+    "fantraxId": "076dr",
+    "team": "HUL",
+    "position": "F"
+  },
+  "078j4": {
+    "rotowireId": 38747,
+    "name": "Diomande, Ousmane",
+    "fantraxId": "078j4",
+    "team": "NOT",
+    "position": "D"
+  },
+  "076dn": {
+    "rotowireId": 33139,
+    "name": "Crooks, Matt",
+    "fantraxId": "076dn",
+    "team": "HUL",
+    "position": "M"
+  },
+  "076dl": {
+    "rotowireId": 32865,
+    "name": "Matazo, Eliot",
+    "fantraxId": "076dl",
+    "team": "HUL",
+    "position": "M"
+  },
+  "06nvb": {
+    "rotowireId": 44735,
+    "name": "Kporha, Caleb",
+    "fantraxId": "06nvb",
+    "team": "CRY",
+    "position": "D"
+  },
+  "076di": {
+    "rotowireId": 38431,
+    "name": "Jacob, Matty",
+    "fantraxId": "076di",
+    "team": "HUL",
+    "position": "D"
+  },
+  "078hi": {
+    "rotowireId": 48188,
+    "name": "Stroud, Elliot",
+    "fantraxId": "078hi",
+    "team": "HUL",
+    "position": "M"
+  },
+  "076dg": {
+    "rotowireId": 35797,
+    "name": "Coyle, Lewie",
+    "fantraxId": "076dg",
+    "team": "HUL",
+    "position": "D"
+  },
+  "078hj": {
+    "name": "Chabot, Max-Edgar",
+    "fantraxId": "078hj",
+    "team": "MCI",
+    "position": "G"
+  },
+  "076dh": {
+    "rotowireId": 38428,
+    "name": "Hughes, Charlie",
+    "fantraxId": "076dh",
+    "team": "HUL",
+    "position": "D"
+  },
+  "076de": {
+    "rotowireId": 31319,
+    "name": "Phillips, Dillon",
+    "fantraxId": "076de",
+    "team": "HUL",
+    "position": "G"
+  },
+  "076df": {
+    "name": "Howard, Archie",
+    "fantraxId": "076df",
+    "team": "HUL",
+    "position": "G"
+  },
+  "05l2z": {
+    "rotowireId": 32466,
+    "name": "Thomas, Bobby",
+    "fantraxId": "05l2z",
+    "team": "COV",
+    "position": "D"
+  },
+  "076da": {
+    "rotowireId": 21266,
+    "name": "Wright, Haji",
+    "fantraxId": "076da",
+    "team": "COV",
+    "position": "F"
+  },
+  "076db": {
+    "rotowireId": 38472,
+    "name": "Thomas-Asante, Brandon",
+    "fantraxId": "076db",
+    "team": "COV",
+    "position": "F"
+  },
+  "06fg0": {
+    "rotowireId": 33257,
+    "name": "Hamer, Gustavo",
+    "fantraxId": "06fg0",
+    "team": "COV",
+    "position": "M"
+  },
+  "076cz": {
+    "rotowireId": 35915,
+    "name": "Kitching, Liam",
+    "fantraxId": "076cz",
+    "team": "COV",
+    "position": "D"
+  },
+  "076cx": {
+    "name": "Wilson, Ben",
+    "fantraxId": "076cx",
+    "team": "COV",
+    "position": "G"
+  },
+  "056iy": {
+    "rotowireId": 25329,
+    "name": "Pedro Neto",
+    "fantraxId": "056iy",
+    "team": "CHE",
+    "position": "F"
+  },
+  "076cw": {
+    "name": "Dovin, Oliver",
+    "fantraxId": "076cw",
+    "team": "COV",
+    "position": "G"
+  },
+  "05o8o": {
+    "rotowireId": 31344,
+    "name": "Bogle, Jayden",
+    "fantraxId": "05o8o",
+    "team": "LEE",
+    "position": "D"
+  },
+  "04xjr": {
+    "rotowireId": 29475,
+    "name": "Elliott, Harvey",
+    "fantraxId": "04xjr",
+    "team": "LIV",
+    "position": "M"
+  },
+  "07a46": {
+    "name": "Williams, Sebastian",
+    "fantraxId": "07a46",
+    "team": "CRY",
+    "position": "M"
+  },
+  "06r7f": {
+    "rotowireId": 43784,
+    "name": "Soler, Julio",
+    "fantraxId": "06r7f",
+    "team": "BOU",
+    "position": "D"
+  },
+  "07a45": {
+    "name": "Allan, Mack",
+    "fantraxId": "07a45",
+    "team": "BOU",
+    "position": "G"
+  },
+  "05o4b": {
+    "rotowireId": 31043,
+    "name": "Cash, Matty",
+    "fantraxId": "05o4b",
+    "team": "AVL",
+    "position": "D"
+  },
+  "060wh": {
+    "rotowireId": 36637,
+    "name": "Alejandro Garnacho",
+    "fantraxId": "060wh",
+    "team": "AVL",
+    "position": "F"
+  },
+  "05o4c": {
+    "rotowireId": 24955,
+    "name": "Castagne, Timothy",
+    "fantraxId": "05o4c",
+    "team": "FUL",
+    "position": "D"
+  },
+  "037mt": {
+    "rotowireId": 17470,
+    "name": "Reed, Harrison",
+    "fantraxId": "037mt",
+    "team": "FUL",
+    "position": "M"
+  },
+  "061ya": {
+    "rotowireId": 31046,
+    "name": "Johnson, Brennan",
+    "fantraxId": "061ya",
+    "team": "EVE",
+    "position": "F"
+  },
+  "0701y": {
+    "rotowireId": 44124,
+    "name": "Leoni, Giovanni",
+    "fantraxId": "0701y",
+    "team": "LIV",
+    "position": "D"
+  },
+  "06r6s": {
+    "rotowireId": 44361,
+    "name": "Kinsky, Antonin",
+    "fantraxId": "06r6s",
+    "team": "TOT",
+    "position": "G"
+  },
+  "04o82": {
+    "rotowireId": 29781,
+    "name": "Jones, Curtis",
+    "fantraxId": "04o82",
+    "team": "LIV",
+    "position": "M"
+  },
+  "06mnm": {
+    "rotowireId": 39628,
+    "name": "Guiu, Marc",
+    "fantraxId": "06mnm",
+    "team": "CHE",
+    "position": "F"
+  },
+  "06yey": {
+    "rotowireId": 22885,
+    "name": "Sosa, Borna",
+    "fantraxId": "06yey",
+    "team": "CRY",
+    "position": "D"
+  },
+  "061z3": {
+    "rotowireId": 33890,
+    "name": "Fabio Vieira",
+    "fantraxId": "061z3",
+    "team": "ARS",
+    "position": "M"
+  },
+  "06mnn": {
+    "rotowireId": 38141,
+    "name": "Riad, Chadi",
+    "fantraxId": "06mnn",
+    "team": "CRY",
+    "position": "D"
+  },
+  "072wq": {
+    "rotowireId": 47726,
+    "name": "Rayan",
+    "fantraxId": "072wq",
+    "team": "BOU",
+    "position": "F"
+  },
+  "061z5": {
+    "rotowireId": 37021,
+    "name": "Ramsay, Calvin",
+    "fantraxId": "061z5",
+    "team": "LIV",
+    "position": "D"
+  },
+  "061xs": {
+    "rotowireId": 37012,
+    "name": "Enciso, Julio",
+    "fantraxId": "061xs",
+    "team": "IPS",
+    "position": "M"
+  },
+  "02lz0": {
+    "rotowireId": 17946,
+    "name": "Emiliano Martinez",
+    "fantraxId": "02lz0",
+    "team": "CHE",
+    "position": "G"
+  },
+  "03ksl": {
+    "rotowireId": 18543,
+    "name": "Ajayi, Semi",
+    "fantraxId": "03ksl",
+    "team": "HUL",
+    "position": "D"
+  },
+  "03m5h": {
+    "rotowireId": 21100,
+    "name": "Dowell, Kieran",
+    "fantraxId": "03m5h",
+    "team": "HUL",
+    "position": "M"
+  },
+  "06mnc": {
+    "rotowireId": 24577,
+    "name": "Kamada, Daichi",
+    "fantraxId": "06mnc",
+    "team": "CRY",
+    "position": "M"
+  },
+  "04ym7": {
+    "rotowireId": 24039,
+    "name": "Lucas Perri",
+    "fantraxId": "04ym7",
+    "team": "LEE",
+    "position": "G"
+  },
+  "03m5i": {
+    "rotowireId": 18577,
+    "name": "Woodman, Freddie",
+    "fantraxId": "03m5i",
+    "team": "LIV",
+    "position": "G"
+  },
+  "06mnd": {
+    "name": "da Silva Moreira, Eric",
+    "fantraxId": "06mnd",
+    "team": "NOT",
+    "position": "F"
+  },
+  "05r9b": {
+    "rotowireId": 18746,
+    "name": "Odegaard, Martin",
+    "fantraxId": "05r9b",
+    "team": "ARS",
+    "position": "M"
+  },
+  "110101#5030": {
+    "teamName": "Newcastle United",
+    "name": "Team Outfielder",
+    "fantraxId": "110101#5030",
+    "teamShortName": "NEW",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "06avm": {
+    "name": "Wright, James",
+    "fantraxId": "06avm",
+    "team": "AVL",
+    "position": "G"
+  },
+  "06jgs": {
+    "rotowireId": 36424,
+    "name": "Wharton, Adam",
+    "fantraxId": "06jgs",
+    "team": "CRY",
+    "position": "M"
+  },
+  "04hk9": {
+    "rotowireId": 21441,
+    "name": "Merino, Mikel",
+    "fantraxId": "04hk9",
+    "team": "ARS",
+    "position": "M"
+  },
+  "0700u": {
+    "rotowireId": 26987,
+    "name": "Diakite, Bafode",
+    "fantraxId": "0700u",
+    "team": "BOU",
+    "position": "D"
+  },
+  "0639x": {
+    "rotowireId": 31269,
+    "name": "Tavernier, Marcus",
+    "fantraxId": "0639x",
+    "team": "BOU",
+    "position": "M"
+  },
+  "07ase": {
+    "name": "Hashi, Maalik",
+    "fantraxId": "07ase",
+    "team": "ARS",
+    "position": "M"
+  },
+  "06s7v": {
+    "name": "Kamason, Jaydan",
+    "fantraxId": "06s7v",
+    "team": "MUN",
+    "position": "D"
+  },
+  "0700t": {
+    "rotowireId": 30131,
+    "name": "Alderete, Omar",
+    "fantraxId": "0700t",
+    "team": "SUN",
+    "position": "D"
+  },
+  "078az": {
+    "rotowireId": 29869,
+    "name": "Tzolakis, Konstantinos",
+    "fantraxId": "078az",
+    "team": "HUL",
+    "position": "G"
+  },
+  "072x7": {
+    "name": "Ibrahim, Ife",
+    "fantraxId": "072x7",
+    "team": "ARS",
+    "position": "M"
+  },
+  "05nt6": {
+    "rotowireId": 31141,
+    "name": "Eze, Eberechi",
+    "fantraxId": "05nt6",
+    "team": "ARS",
+    "position": "M"
+  },
+  "061y6": {
+    "rotowireId": 31367,
+    "name": "Yates, Ryan",
+    "fantraxId": "061y6",
+    "team": "NOT",
+    "position": "M"
+  },
+  "05o2p": {
+    "rotowireId": 33122,
+    "name": "Slater, Regan",
+    "fantraxId": "05o2p",
+    "team": "HUL",
+    "position": "M"
+  },
+  "06s7r": {
+    "name": "Simmonds, Freddie",
+    "fantraxId": "06s7r",
+    "team": "BHA",
+    "position": "D"
+  },
+  "0700p": {
+    "rotowireId": 31009,
+    "name": "Thiaw, Malick",
+    "fantraxId": "0700p",
+    "team": "NEW",
+    "position": "D"
+  },
+  "06r5r": {
+    "rotowireId": 37667,
+    "name": "Akinmboni, Matai",
+    "fantraxId": "06r5r",
+    "team": "BOU",
+    "position": "D"
+  },
+  "06jgi": {
+    "rotowireId": 41175,
+    "name": "Munoz, Daniel",
+    "fantraxId": "06jgi",
+    "team": "NOT",
+    "position": "D"
+  },
+  "06r5m": {
+    "rotowireId": 44022,
+    "name": "Anselmino, Aaron",
+    "fantraxId": "06r5m",
+    "team": "CHE",
+    "position": "D"
+  },
+  "05r8o": {
+    "rotowireId": 23173,
+    "name": "Mateta, Jean-Philippe",
+    "fantraxId": "05r8o",
+    "team": "CRY",
+    "position": "F"
+  },
+  "06rwp": {
+    "name": "Tasker, Charlie",
+    "fantraxId": "06rwp",
+    "team": "BHA",
+    "position": "D"
+  },
+  "078g4": {
+    "rotowireId": 48010,
+    "name": "Yirenkyi, Caleb",
+    "fantraxId": "078g4",
+    "team": "COV",
+    "position": "M"
+  },
+  "078g5": {
+    "name": "Zepa, Macauley",
+    "fantraxId": "078g5",
+    "team": "FUL",
+    "position": "F"
+  },
+  "05o6h": {
+    "rotowireId": 23157,
+    "name": "Havertz, Kai",
+    "fantraxId": "05o6h",
+    "team": "ARS",
+    "position": "F"
+  },
+  "03yqz": {
+    "rotowireId": 31396,
+    "name": "Rodon, Joe",
+    "fantraxId": "03yqz",
+    "team": "LEE",
+    "position": "D"
+  },
+  "078g0": {
+    "name": "Natalia Ramos",
+    "fantraxId": "078g0",
+    "team": "LIV",
+    "position": "D"
+  },
+  "05o6g": {
+    "rotowireId": 31074,
+    "name": "Kipre, Cedric",
+    "fantraxId": "05o6g",
+    "team": "IPS",
+    "position": "D"
+  },
+  "06r9h": {
+    "rotowireId": 38405,
+    "name": "Esse, Romain",
+    "fantraxId": "06r9h",
+    "team": "CRY",
+    "position": "M"
+  },
+  "110101#5040": {
+    "teamName": "Newcastle United",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110101#5040",
+    "teamShortName": "NEW",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "078ei": {
+    "name": "Sanchez, Juanlu",
+    "fantraxId": "078ei",
+    "team": "BOU",
+    "position": "M"
+  },
+  "06klv": {
+    "rotowireId": 35195,
+    "name": "Danns, Jayden",
+    "fantraxId": "06klv",
+    "team": "LIV",
+    "position": "F"
+  },
+  "05n3v": {
+    "rotowireId": 29723,
+    "name": "Tsimikas, Konstantinos",
+    "fantraxId": "05n3v",
+    "team": "LIV",
+    "position": "D"
+  },
+  "05n3u": {
+    "rotowireId": 31104,
+    "name": "Gelhardt, Joe",
+    "fantraxId": "05n3u",
+    "team": "HUL",
+    "position": "F"
+  },
+  "07avb": {
+    "name": "Hall, Steven",
+    "fantraxId": "07avb",
+    "team": "BHA",
+    "position": "G"
+  },
+  "02lzt": {
+    "rotowireId": 41029,
+    "name": "Andrews, Keith",
+    "fantraxId": "02lzt",
+    "team": "COV",
+    "position": "M"
+  },
+  "06mpp": {
+    "rotowireId": 37919,
+    "name": "Wieffer, Mats",
+    "fantraxId": "06mpp",
+    "team": "BHA",
+    "position": "M"
+  },
+  "05ubv": {
+    "rotowireId": 35170,
+    "name": "Hutchinson, Omari",
+    "fantraxId": "05ubv",
+    "team": "NOT",
+    "position": "F"
+  },
+  "06p4l": {
+    "rotowireId": 27615,
+    "name": "Araujo, Julian",
+    "fantraxId": "06p4l",
+    "team": "BOU",
+    "position": "D"
+  },
+  "032f9": {
+    "rotowireId": 19035,
+    "name": "Pickford, Jordan",
+    "fantraxId": "032f9",
+    "team": "EVE",
+    "position": "G"
+  },
+  "06p4j": {
+    "rotowireId": 26860,
+    "name": "Mazraoui, Noussair",
+    "fantraxId": "06p4j",
+    "team": "MUN",
+    "position": "D"
+  },
+  "04sat": {
+    "rotowireId": 26929,
+    "name": "Smith Rowe, Emile",
+    "fantraxId": "04sat",
+    "team": "FUL",
+    "position": "M"
+  },
+  "06p4k": {
+    "rotowireId": 26851,
+    "name": "de Ligt, Matthijs",
+    "fantraxId": "06p4k",
+    "team": "MUN",
+    "position": "D"
+  },
+  "064a0": {
+    "rotowireId": 37885,
+    "name": "Gnonto, Wilfried",
+    "fantraxId": "064a0",
+    "team": "LEE",
+    "position": "F"
+  },
+  "0703h": {
+    "rotowireId": 29230,
+    "name": "Kalimuendo, Arnaud",
+    "fantraxId": "0703h",
+    "team": "NOT",
+    "position": "F"
+  },
+  "065ao": {
+    "rotowireId": 38107,
+    "name": "Nwaneri, Ethan",
+    "fantraxId": "065ao",
+    "team": "ARS",
+    "position": "M"
+  },
+  "04yo7": {
+    "rotowireId": 18082,
+    "name": "Tielemans, Youri",
+    "fantraxId": "04yo7",
+    "team": "MUN",
+    "position": "M"
+  },
+  "079h0": {
+    "name": "Ibrahim, Younes",
+    "fantraxId": "079h0",
+    "team": "BHA",
+    "position": "M"
+  },
+  "06ygl": {
+    "name": "King, George",
+    "fantraxId": "06ygl",
+    "team": "CRY",
+    "position": "D"
+  },
+  "110101#5050": {
+    "teamName": "Newcastle United",
+    "name": "Team",
+    "fantraxId": "110101#5050",
+    "teamShortName": "NEW",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "0703c": {
+    "rotowireId": 23329,
+    "name": "Mukiele, Nordi",
+    "fantraxId": "0703c",
+    "team": "SUN",
+    "position": "D"
+  },
+  "06ygm": {
+    "rotowireId": 46674,
+    "name": "Jair Cunha",
+    "fantraxId": "06ygm",
+    "team": "NOT",
+    "position": "D"
+  },
+  "04ug0": {
+    "rotowireId": 26683,
+    "name": "Longstaff, Sean",
+    "fantraxId": "04ug0",
+    "team": "LEE",
+    "position": "M"
+  },
+  "05ubh": {
+    "rotowireId": 34867,
+    "name": "Matthews, Remi",
+    "fantraxId": "05ubh",
+    "team": "CRY",
+    "position": "G"
+  },
+  "044ei": {
+    "rotowireId": 21762,
+    "name": "Pope, Nick",
+    "fantraxId": "044ei",
+    "team": "NEW",
+    "position": "G"
+  },
+  "03yr0": {
+    "rotowireId": 23245,
+    "name": "James, Daniel",
+    "fantraxId": "03yr0",
+    "team": "LEE",
+    "position": "F"
+  },
+  "04yme": {
+    "rotowireId": 29456,
+    "name": "Sanchez, Robert",
+    "fantraxId": "04yme",
+    "team": "CHE",
+    "position": "G"
+  },
+  "06mow": {
+    "rotowireId": 38069,
+    "name": "Strand Larsen, Jorgen",
+    "fantraxId": "06mow",
+    "team": "CRY",
+    "position": "F"
+  },
+  "06igq": {
+    "rotowireId": 41206,
+    "name": "Fredrick, Benjamin",
+    "fantraxId": "06igq",
+    "team": "BRF",
+    "position": "D"
+  },
+  "04io4": {
+    "rotowireId": 24036,
+    "name": "Richarlison",
+    "fantraxId": "04io4",
+    "team": "TOT",
+    "position": "F"
+  },
+  "06195": {
+    "rotowireId": 36936,
+    "name": "Dibling, Tyler",
+    "fantraxId": "06195",
+    "team": "EVE",
+    "position": "F"
+  },
+  "06r7l": {
+    "name": "Burrowes, Bradley",
+    "fantraxId": "06r7l",
+    "team": "AVL",
+    "position": "F"
+  },
+  "06kwp": {
+    "rotowireId": 41373,
+    "name": "Acheampong, Josh",
+    "fantraxId": "06kwp",
+    "team": "CHE",
+    "position": "D"
+  },
+  "06rf9": {
+    "rotowireId": 32408,
+    "name": "Omar Marmoush",
+    "fantraxId": "06rf9",
+    "team": "TOT",
+    "position": "F"
+  },
+  "06y29": {
+    "rotowireId": 35512,
+    "name": "Diarra, Habib",
+    "fantraxId": "06y29",
+    "team": "SUN",
+    "position": "M"
+  },
+  "110261#5050": {
+    "teamName": "Leeds United",
+    "name": "Team",
+    "fantraxId": "110261#5050",
+    "teamShortName": "LEE",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "052k6": {
+    "rotowireId": 32483,
+    "name": "Harwood-Bellis, Taylor",
+    "fantraxId": "052k6",
+    "team": "AVL",
+    "position": "D"
+  },
+  "06y27": {
+    "rotowireId": 35739,
+    "name": "Tchaouna, Loum",
+    "fantraxId": "06y27",
+    "team": "COV",
+    "position": "F"
+  },
+  "062h7": {
+    "rotowireId": 20822,
+    "name": "Adams, Tyler",
+    "fantraxId": "062h7",
+    "team": "BOU",
+    "position": "M"
+  },
+  "063hu": {
+    "rotowireId": 35483,
+    "name": "Onana, Amadou",
+    "fantraxId": "063hu",
+    "team": "AVL",
+    "position": "M"
+  },
+  "07918": {
+    "rotowireId": 32940,
+    "name": "Di Gregorio, Michele",
+    "fantraxId": "07918",
+    "team": "BOU",
+    "position": "G"
+  },
+  "06y26": {
+    "rotowireId": 20350,
+    "name": "Boscagli, Olivier",
+    "fantraxId": "06y26",
+    "team": "BHA",
+    "position": "D"
+  },
+  "05y55": {
+    "rotowireId": 36093,
+    "name": "McAteer, Kasey",
+    "fantraxId": "05y55",
+    "team": "IPS",
+    "position": "M"
+  },
+  "06eka": {
+    "rotowireId": 29097,
+    "name": "Igor Julio",
+    "fantraxId": "06eka",
+    "team": "BHA",
+    "position": "D"
+  },
+  "066nn": {
+    "rotowireId": 38336,
+    "name": "Doak, Ben",
+    "fantraxId": "066nn",
+    "team": "BOU",
+    "position": "F"
+  },
+  "07aa5": {
+    "name": "Mills, Michael",
+    "fantraxId": "07aa5",
+    "team": "NEW",
+    "position": "F"
+  },
+  "076ki": {
+    "rotowireId": 43477,
+    "name": "Jaouen, Ewen",
+    "fantraxId": "076ki",
+    "team": "NEW",
+    "position": "G"
+  },
+  "07aa4": {
+    "name": "Thompson, Kyran",
+    "fantraxId": "07aa4",
+    "team": "NEW",
+    "position": "F"
+  },
+  "076kf": {
+    "rotowireId": 41353,
+    "name": "Geovany Quenda",
+    "fantraxId": "076kf",
+    "team": "CHE",
+    "position": "M"
+  },
+  "066ng": {
+    "name": "Adler Nascimento",
+    "fantraxId": "066ng",
+    "team": "CRY",
+    "position": "F"
+  },
+  "076kg": {
+    "rotowireId": 37904,
+    "name": "Emegha, Emmanuel",
+    "fantraxId": "076kg",
+    "team": "CHE",
+    "position": "F"
+  },
+  "03am7": {
+    "rotowireId": 19122,
+    "name": "Jacob Murphy",
+    "fantraxId": "03am7",
+    "team": "NEW",
+    "position": "M"
+  },
+  "076kd": {
+    "rotowireId": 44529,
+    "name": "Costinha",
+    "fantraxId": "076kd",
+    "team": "BHA",
+    "position": "D"
+  },
+  "076ke": {
+    "rotowireId": 48525,
+    "name": "Yohanna, Zadok",
+    "fantraxId": "076ke",
+    "team": "BHA",
+    "position": "F"
+  },
+  "03pif": {
+    "rotowireId": 19167,
+    "name": "Darlow, Karl",
+    "fantraxId": "03pif",
+    "team": "MUN",
+    "position": "G"
+  },
+  "076kc": {
+    "rotowireId": 44208,
+    "name": "Schuster, Jannik",
+    "fantraxId": "076kc",
+    "team": "BRF",
+    "position": "D"
+  },
+  "110160#5050": {
+    "teamName": "Tottenham Hotspur",
+    "name": "Team",
+    "fantraxId": "110160#5050",
+    "teamShortName": "TOT",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "048xg": {
+    "rotowireId": 31282,
+    "name": "Dasilva, Josh",
+    "fantraxId": "048xg",
+    "team": "BRF",
+    "position": "M"
+  },
+  "06kx1": {
+    "rotowireId": 43072,
+    "name": "Devenny, Justin",
+    "fantraxId": "06kx1",
+    "team": "CRY",
+    "position": "M"
+  },
+  "110063#5050": {
+    "teamName": "Fulham",
+    "name": "Team",
+    "fantraxId": "110063#5050",
+    "teamShortName": "FUL",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "110001#5050": {
+    "teamName": "Coventry City",
+    "name": "Team",
+    "fantraxId": "110001#5050",
+    "teamShortName": "COV",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "05rfp": {
+    "rotowireId": 34547,
+    "name": "Davies, Harvey",
+    "fantraxId": "05rfp",
+    "team": "LIV",
+    "position": "G"
+  },
+  "110240#5030": {
+    "teamName": "Brighton",
+    "name": "Team Outfielder",
+    "fantraxId": "110240#5030",
+    "teamShortName": "BHA",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "110080#5050": {
+    "teamName": "Manchester City",
+    "name": "Team",
+    "fantraxId": "110080#5050",
+    "teamShortName": "MCI",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "04agz": {
+    "rotowireId": 23542,
+    "name": "Rice, Declan",
+    "fantraxId": "04agz",
+    "team": "ARS",
+    "position": "M"
+  },
+  "05rff": {
+    "rotowireId": 34533,
+    "name": "Jaden Philogene",
+    "fantraxId": "05rff",
+    "team": "IPS",
+    "position": "F"
+  },
+  "04ai5": {
+    "rotowireId": 20758,
+    "name": "Rulli, Geronimo",
+    "fantraxId": "04ai5",
+    "team": "MCI",
+    "position": "G"
+  },
+  "04qfz": {
+    "rotowireId": 25196,
+    "name": "Diogo Dalot",
+    "fantraxId": "04qfz",
+    "team": "MUN",
+    "position": "D"
+  },
+  "038ze": {
+    "rotowireId": 18583,
+    "name": "Iwobi, Alex",
+    "fantraxId": "038ze",
+    "team": "FUL",
+    "position": "F"
+  },
+  "05l8q": {
+    "rotowireId": 32484,
+    "name": "Palmer, Cole",
+    "fantraxId": "05l8q",
+    "team": "CHE",
+    "position": "M"
+  },
+  "05rey": {
+    "name": "Hayden, Kaine",
+    "fantraxId": "05rey",
+    "team": "COV",
+    "position": "D"
+  },
+  "05g2o": {
+    "rotowireId": 27563,
+    "name": "Joao Pedro",
+    "fantraxId": "05g2o",
+    "team": "CHE",
+    "position": "F"
+  },
+  "0477b": {
+    "rotowireId": 23104,
+    "name": "McBurnie, Oliver",
+    "fantraxId": "0477b",
+    "team": "HUL",
+    "position": "F"
+  },
+  "110063#5040": {
+    "teamName": "Fulham",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110063#5040",
+    "teamShortName": "FUL",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "051k8": {
+    "rotowireId": 31296,
+    "name": "Gallagher, Conor",
+    "fantraxId": "051k8",
+    "team": "TOT",
+    "position": "M"
+  },
+  "051k7": {
+    "rotowireId": 29315,
+    "name": "James, Reece",
+    "fantraxId": "051k7",
+    "team": "CHE",
+    "position": "D"
+  },
+  "06h1g": {
+    "name": "Harris, Aidan",
+    "fantraxId": "06h1g",
+    "team": "NEW",
+    "position": "G"
+  },
+  "110261#5030": {
+    "teamName": "Leeds United",
+    "name": "Team Outfielder",
+    "fantraxId": "110261#5030",
+    "teamShortName": "LEE",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "05uox": {
+    "rotowireId": 33736,
+    "name": "Tzolis, Christos",
+    "fantraxId": "05uox",
+    "team": "ARS",
+    "position": "F"
+  },
+  "04e1e": {
+    "rotowireId": 29182,
+    "name": "White, Ben",
+    "fantraxId": "04e1e",
+    "team": "ARS",
+    "position": "D"
+  },
+  "051k3": {
+    "rotowireId": 28897,
+    "name": "Ramsey, Jacob",
+    "fantraxId": "051k3",
+    "team": "NEW",
+    "position": "M"
+  },
+  "066r9": {
+    "rotowireId": 38268,
+    "name": "Yarmolyuk, Ehor",
+    "fantraxId": "066r9",
+    "team": "BRF",
+    "position": "M"
+  },
+  "07933": {
+    "rotowireId": 49051,
+    "name": "Nwoko, Chibby",
+    "fantraxId": "07933",
+    "team": "FUL",
+    "position": "M"
+  },
+  "051k0": {
+    "rotowireId": 28588,
+    "name": "McGinn, John",
+    "fantraxId": "051k0",
+    "team": "AVL",
+    "position": "M"
+  },
+  "05uor": {
+    "rotowireId": 21911,
+    "name": "Wissa, Yoane",
+    "fantraxId": "05uor",
+    "team": "NEW",
+    "position": "F"
+  },
+  "07934": {
+    "rotowireId": 32933,
+    "name": "Cho, Mohamed-Ali",
+    "fantraxId": "07934",
+    "team": "HUL",
+    "position": "F"
+  },
+  "05ocl": {
+    "rotowireId": 31153,
+    "name": "Watkins, Ollie",
+    "fantraxId": "05ocl",
+    "team": "AVL",
+    "position": "F"
+  },
+  "07931": {
+    "name": "Nti, Shane",
+    "fantraxId": "07931",
+    "team": "BHA",
+    "position": "M"
+  },
+  "0791o": {
+    "name": "Compton, Charlie",
+    "fantraxId": "0791o",
+    "team": "IPS",
+    "position": "M"
+  },
+  "04e1c": {
+    "rotowireId": 24512,
+    "name": "Dunk, Lewis",
+    "fantraxId": "04e1c",
+    "team": "BHA",
+    "position": "D"
+  },
+  "07932": {
+    "name": "Slade, Bradley",
+    "fantraxId": "07932",
+    "team": "FUL",
+    "position": "D"
+  },
+  "0791p": {
+    "name": "Mendel-Idowu, Tudor",
+    "fantraxId": "0791p",
+    "team": "IPS",
+    "position": "M"
+  },
+  "07930": {
+    "name": "Robertson, Josh",
+    "fantraxId": "07930",
+    "team": "BHA",
+    "position": "M"
+  },
+  "0791n": {
+    "rotowireId": 38687,
+    "name": "Hadjam, Jaouen",
+    "fantraxId": "0791n",
+    "team": "BHA",
+    "position": "D"
+  },
+  "06zvn": {
+    "rotowireId": 47458,
+    "name": "Hemmings, George",
+    "fantraxId": "06zvn",
+    "team": "AVL",
+    "position": "M"
+  },
+  "078qj": {
+    "name": "Elliot-Parris, Reiss",
+    "fantraxId": "078qj",
+    "team": "TOT",
+    "position": "F"
+  },
+  "078qh": {
+    "rotowireId": 31007,
+    "name": "Gourna-Douath, Lucas",
+    "fantraxId": "078qh",
+    "team": "HUL",
+    "position": "M"
+  },
+  "078qi": {
+    "name": "Adewole, Miracle",
+    "fantraxId": "078qi",
+    "team": "TOT",
+    "position": "D"
+  },
+  "078qg": {
+    "rotowireId": 40658,
+    "name": "Khalaili, Anan",
+    "fantraxId": "078qg",
+    "team": "CRY",
+    "position": "F"
+  },
+  "04h87": {
+    "rotowireId": 34145,
+    "name": "Latibeaudiere, Joel",
+    "fantraxId": "04h87",
+    "team": "COV",
+    "position": "D"
+  },
+  "110063#5030": {
+    "teamName": "Fulham",
+    "name": "Team Outfielder",
+    "fantraxId": "110063#5030",
+    "teamShortName": "FUL",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "110160#5030": {
+    "teamName": "Tottenham Hotspur",
+    "name": "Team Outfielder",
+    "fantraxId": "110160#5030",
+    "teamShortName": "TOT",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "110261#5040": {
+    "teamName": "Leeds United",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110261#5040",
+    "teamShortName": "LEE",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "05unu": {
+    "rotowireId": 35752,
+    "name": "Lavia, Romeo",
+    "fantraxId": "05unu",
+    "team": "CHE",
+    "position": "M"
+  },
+  "05uns": {
+    "rotowireId": 23459,
+    "name": "Bailey, Leon",
+    "fantraxId": "05uns",
+    "team": "AVL",
+    "position": "F"
+  },
+  "05748": {
+    "rotowireId": 23072,
+    "name": "Ismaila Sarr",
+    "fantraxId": "05748",
+    "team": "CRY",
+    "position": "F"
+  },
+  "05xtr": {
+    "rotowireId": 37311,
+    "name": "Sharman-Lowe, Teddy",
+    "fantraxId": "05xtr",
+    "team": "CHE",
+    "position": "G"
+  },
+  "04y92": {
+    "rotowireId": 29889,
+    "name": "Saka, Bukayo",
+    "fantraxId": "04y92",
+    "team": "ARS",
+    "position": "F"
+  },
+  "0790i": {
+    "rotowireId": 49022,
+    "name": "Ahoka, Jules",
+    "fantraxId": "0790i",
+    "team": "SUN",
+    "position": "M"
+  },
+  "110160#5040": {
+    "teamName": "Tottenham Hotspur",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110160#5040",
+    "teamShortName": "TOT",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "04rh9": {
+    "rotowireId": 26461,
+    "name": "Brooks, David",
+    "fantraxId": "04rh9",
+    "team": "BOU",
+    "position": "M"
+  },
+  "03yww": {
+    "rotowireId": 26159,
+    "name": "Dean Henderson",
+    "fantraxId": "03yww",
+    "team": "CRY",
+    "position": "G"
+  },
+  "06fhy": {
+    "rotowireId": 37238,
+    "name": "Odobert, Wilson",
+    "fantraxId": "06fhy",
+    "team": "TOT",
+    "position": "F"
+  },
+  "073ac": {
+    "name": "ONeill, Ceadach",
+    "fantraxId": "073ac",
+    "team": "ARS",
+    "position": "F"
+  },
+  "073ab": {
+    "name": "Floyd Samba",
+    "fantraxId": "073ab",
+    "team": "MCI",
+    "position": "M"
+  },
+  "04adp": {
+    "rotowireId": 23609,
+    "name": "Wan-Bissaka, Aaron",
+    "fantraxId": "04adp",
+    "team": "AVL",
+    "position": "D"
+  },
+  "06mvz": {
+    "rotowireId": 37734,
+    "name": "Savio",
+    "fantraxId": "06mvz",
+    "team": "TOT",
+    "position": "F"
+  },
+  "04gpx": {
+    "rotowireId": 31343,
+    "name": "OShea, Dara",
+    "fantraxId": "04gpx",
+    "team": "IPS",
+    "position": "D"
+  },
+  "110105#5050": {
+    "teamName": "Nottingham Forest",
+    "name": "Team",
+    "fantraxId": "110105#5050",
+    "teamShortName": "NOT",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "06l2r": {
+    "rotowireId": 41454,
+    "name": "Amass, Harry",
+    "fantraxId": "06l2r",
+    "team": "MUN",
+    "position": "D"
+  },
+  "110034#5040": {
+    "teamName": "Bournemouth",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110034#5040",
+    "teamShortName": "BOU",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "03gu5": {
+    "rotowireId": 17945,
+    "name": "Robertson, Andrew",
+    "fantraxId": "03gu5",
+    "team": "TOT",
+    "position": "D"
+  },
+  "03gu4": {
+    "rotowireId": 17893,
+    "name": "Maguire, Harry",
+    "fantraxId": "03gu4",
+    "team": "MUN",
+    "position": "D"
+  },
+  "06mx0": {
+    "rotowireId": 36654,
+    "name": "Yoro, Leny",
+    "fantraxId": "06mx0",
+    "team": "MUN",
+    "position": "D"
+  },
+  "063e7": {
+    "rotowireId": 29956,
+    "name": "Senesi, Marcos",
+    "fantraxId": "063e7",
+    "team": "TOT",
+    "position": "D"
+  },
+  "05uht": {
+    "rotowireId": 35779,
+    "name": "Rogers, Morgan",
+    "fantraxId": "05uht",
+    "team": "CHE",
+    "position": "F"
+  },
+  "06ymt": {
+    "rotowireId": 29945,
+    "name": "Bizot, Marco",
+    "fantraxId": "06ymt",
+    "team": "AVL",
+    "position": "G"
+  },
+  "05uhs": {
+    "rotowireId": 35770,
+    "name": "Mcatee, James",
+    "fantraxId": "05uhs",
+    "team": "NOT",
+    "position": "M"
+  },
+  "06ymu": {
+    "rotowireId": 41357,
+    "name": "El Hadji Malick Diouf",
+    "fantraxId": "06ymu",
+    "team": "BRF",
+    "position": "D"
+  },
+  "05uhq": {
+    "rotowireId": 38835,
+    "name": "Charles, Shea",
+    "fantraxId": "05uhq",
+    "team": "FUL",
+    "position": "M"
+  },
+  "0372y": {
+    "rotowireId": 17509,
+    "name": "Targett, Matt",
+    "fantraxId": "0372y",
+    "team": "HUL",
+    "position": "D"
+  },
+  "05rbn": {
+    "rotowireId": 34444,
+    "name": "McGill, Thomas",
+    "fantraxId": "05rbn",
+    "team": "BHA",
+    "position": "G"
+  },
+  "06mve": {
+    "rotowireId": 29909,
+    "name": "Zirkzee, Joshua",
+    "fantraxId": "06mve",
+    "team": "MUN",
+    "position": "F"
+  },
+  "05uhj": {
+    "rotowireId": 35976,
+    "name": "Bradley, Conor",
+    "fantraxId": "05uhj",
+    "team": "LIV",
+    "position": "D"
+  },
+  "110105#5040": {
+    "teamName": "Nottingham Forest",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110105#5040",
+    "teamShortName": "NOT",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "04tig": {
+    "rotowireId": 17707,
+    "name": "Schar, Fabian",
+    "fantraxId": "04tig",
+    "team": "NEW",
+    "position": "D"
+  },
+  "06kqy": {
+    "rotowireId": 41289,
+    "name": "Heaven, Ayden",
+    "fantraxId": "06kqy",
+    "team": "MUN",
+    "position": "D"
+  },
+  "06zod": {
+    "name": "Benamar, Dean",
+    "fantraxId": "06zod",
+    "team": "CRY",
+    "position": "D"
+  },
+  "110034#5050": {
+    "teamName": "Bournemouth",
+    "name": "Team",
+    "fantraxId": "110034#5050",
+    "teamShortName": "BOU",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "05nzu": {
+    "rotowireId": 23477,
+    "name": "Gabriel Magalhaes",
+    "fantraxId": "05nzu",
+    "team": "ARS",
+    "position": "D"
+  },
+  "06mw0": {
+    "rotowireId": 24967,
+    "name": "Milenkovic, Nikola",
+    "fantraxId": "06mw0",
+    "team": "NOT",
+    "position": "D"
+  },
+  "072at": {
+    "name": "Oriola, Nehemiah",
+    "fantraxId": "072at",
+    "team": "BHA",
+    "position": "M"
+  },
+  "062du": {
+    "rotowireId": 37113,
+    "name": "Gyabi, Darko",
+    "fantraxId": "062du",
+    "team": "HUL",
+    "position": "M"
+  },
+  "04sjt": {
+    "rotowireId": 21124,
+    "name": "Alisson Becker",
+    "fantraxId": "04sjt",
+    "team": "LIV",
+    "position": "G"
+  },
+  "04qfq": {
+    "rotowireId": 31309,
+    "name": "ORiley, Matt",
+    "fantraxId": "04qfq",
+    "team": "BHA",
+    "position": "M"
+  },
+  "04sjv": {
+    "rotowireId": 29177,
+    "name": "Giles, Ryan",
+    "fantraxId": "04sjv",
+    "team": "HUL",
+    "position": "D"
+  },
+  "110045#5030": {
+    "teamName": "Crystal Palace",
+    "name": "Team Outfielder",
+    "fantraxId": "110045#5030",
+    "teamShortName": "CRY",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "04qfm": {
+    "rotowireId": 26124,
+    "name": "Sessegnon, Ryan",
+    "fantraxId": "04qfm",
+    "team": "FUL",
+    "position": "M"
+  },
+  "110001#5040": {
+    "teamName": "Coventry City",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110001#5040",
+    "teamShortName": "COV",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06804": {
+    "rotowireId": 26972,
+    "name": "Badiashile, Benoit",
+    "fantraxId": "06804",
+    "team": "CHE",
+    "position": "D"
+  },
+  "06zrs": {
+    "name": "Laffey, Michael",
+    "fantraxId": "06zrs",
+    "team": "LIV",
+    "position": "M"
+  },
+  "06kue": {
+    "rotowireId": 41333,
+    "name": "Ogunneye, Habeeb",
+    "fantraxId": "06kue",
+    "team": "ARS",
+    "position": "D"
+  },
+  "110240#5040": {
+    "teamName": "Brighton",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110240#5040",
+    "teamShortName": "BHA",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06zrq": {
+    "name": "Lucky, Wellity",
+    "fantraxId": "06zrq",
+    "team": "LIV",
+    "position": "D"
+  },
+  "078ml": {
+    "rotowireId": 46811,
+    "name": "Herrington, Lucas",
+    "fantraxId": "078ml",
+    "team": "HUL",
+    "position": "D"
+  },
+  "078mm": {
+    "rotowireId": 40910,
+    "name": "Mendy, Nobel",
+    "fantraxId": "078mm",
+    "team": "HUL",
+    "position": "D"
+  },
+  "110105#5030": {
+    "teamName": "Nottingham Forest",
+    "name": "Team Outfielder",
+    "fantraxId": "110105#5030",
+    "teamShortName": "NOT",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "06ab3": {
+    "rotowireId": 38798,
+    "name": "Miley, Lewis",
+    "fantraxId": "06ab3",
+    "team": "NEW",
+    "position": "M"
+  },
+  "04rha": {
+    "rotowireId": 26199,
+    "name": "Steele, Jason",
+    "fantraxId": "04rha",
+    "team": "BHA",
+    "position": "G"
+  },
+  "06j20": {
+    "rotowireId": 41119,
+    "name": "Barco, Valentin",
+    "fantraxId": "06j20",
+    "team": "CHE",
+    "position": "M"
+  },
+  "05m9r": {
+    "rotowireId": 32578,
+    "name": "Simms, Ellis",
+    "fantraxId": "05m9r",
+    "team": "COV",
+    "position": "F"
+  },
+  "062ct": {
+    "rotowireId": 36158,
+    "name": "Rushworth, Carl",
+    "fantraxId": "062ct",
+    "team": "COV",
+    "position": "G"
+  },
+  "110045#5040": {
+    "teamName": "Crystal Palace",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110045#5040",
+    "teamShortName": "CRY",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06l4i": {
+    "rotowireId": 41461,
+    "name": "George, Tyrique",
+    "fantraxId": "06l4i",
+    "team": "EVE",
+    "position": "F"
+  },
+  "052h5": {
+    "rotowireId": 29187,
+    "name": "Gabriel Martinelli",
+    "fantraxId": "052h5",
+    "team": "ARS",
+    "position": "F"
+  },
+  "02t13": {
+    "rotowireId": 26121,
+    "name": "Button, David",
+    "fantraxId": "02t13",
+    "team": "IPS",
+    "position": "G"
+  },
+  "06zqq": {
+    "rotowireId": 40583,
+    "name": "Hato, Jorrel",
+    "fantraxId": "06zqq",
+    "team": "CHE",
+    "position": "D"
+  },
+  "110001#5030": {
+    "teamName": "Coventry City",
+    "name": "Team Outfielder",
+    "fantraxId": "110001#5030",
+    "teamShortName": "COV",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "052h1": {
+    "rotowireId": 28748,
+    "name": "Millar, Liam",
+    "fantraxId": "052h1",
+    "team": "HUL",
+    "position": "F"
+  },
+  "110240#5050": {
+    "teamName": "Brighton",
+    "name": "Team",
+    "fantraxId": "110240#5050",
+    "teamShortName": "BHA",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "062ci": {
+    "rotowireId": 34973,
+    "name": "Mitoma, Kaoru",
+    "fantraxId": "062ci",
+    "team": "BHA",
+    "position": "M"
+  },
+  "078lg": {
+    "name": "Foster, Harvey",
+    "fantraxId": "078lg",
+    "team": "EVE",
+    "position": "M"
+  },
+  "078lh": {
+    "name": "Honor, Solomon",
+    "fantraxId": "078lh",
+    "team": "MUN",
+    "position": "G"
+  },
+  "03frx": {
+    "rotowireId": 23162,
+    "name": "Aina, Ola",
+    "fantraxId": "03frx",
+    "team": "NOT",
+    "position": "D"
+  },
+  "078le": {
+    "rotowireId": 37669,
+    "name": "Chavarria, Pep",
+    "fantraxId": "078le",
+    "team": "CHE",
+    "position": "D"
+  },
+  "078lf": {
+    "name": "Pickford, George",
+    "fantraxId": "078lf",
+    "team": "EVE",
+    "position": "G"
+  },
+  "05mzz": {
+    "rotowireId": 31268,
+    "name": "Struijk, Pascal",
+    "fantraxId": "05mzz",
+    "team": "BHA",
+    "position": "D"
+  },
+  "045ob": {
+    "rotowireId": 29639,
+    "name": "Kelleher, Caoimhin",
+    "fantraxId": "045ob",
+    "team": "BRF",
+    "position": "G"
+  },
+  "06nyw": {
+    "rotowireId": 32474,
+    "name": "Cuenca, Jorge",
+    "fantraxId": "06nyw",
+    "team": "FUL",
+    "position": "D"
+  },
+  "05mzt": {
+    "rotowireId": 31211,
+    "name": "Meslier, Illan",
+    "fantraxId": "05mzt",
+    "team": "ARS",
+    "position": "G"
+  },
+  "0786b": {
+    "name": "Julienne, Theo",
+    "fantraxId": "0786b",
+    "team": "ARS",
+    "position": "M"
+  },
+  "06fup": {
+    "rotowireId": 33441,
+    "name": "Doku, Jeremy",
+    "fantraxId": "06fup",
+    "team": "MCI",
+    "position": "F"
+  },
+  "110045#5050": {
+    "teamName": "Crystal Palace",
+    "name": "Team",
+    "fantraxId": "110045#5050",
+    "teamShortName": "CRY",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "06phw": {
+    "rotowireId": 22388,
+    "name": "Chiesa, Federico",
+    "fantraxId": "06phw",
+    "team": "LIV",
+    "position": "F"
+  },
+  "070gt": {
+    "rotowireId": 24411,
+    "name": "John Victor",
+    "fantraxId": "070gt",
+    "team": "NOT",
+    "position": "G"
+  },
+  "04qr9": {
+    "rotowireId": 26138,
+    "name": "Gibbs-White, Morgan",
+    "fantraxId": "04qr9",
+    "team": "NOT",
+    "position": "M"
+  },
+  "06phr": {
+    "rotowireId": 44128,
+    "name": "Gustavo Nunes",
+    "fantraxId": "06phr",
+    "team": "BRF",
+    "position": "F"
+  },
+  "062p5": {
+    "rotowireId": 35818,
+    "name": "Colwill, Levi",
+    "fantraxId": "062p5",
+    "team": "CHE",
+    "position": "D"
+  },
+  "07877": {
+    "rotowireId": 46862,
+    "name": "Sangare, Mamadou",
+    "fantraxId": "07877",
+    "team": "BRF",
+    "position": "M"
+  },
+  "062p1": {
+    "rotowireId": 37177,
+    "name": "Chambers, Luke",
+    "fantraxId": "062p1",
+    "team": "LIV",
+    "position": "D"
+  },
+  "05w7t": {
+    "rotowireId": 34078,
+    "name": "Sarr, Pape",
+    "fantraxId": "05w7t",
+    "team": "TOT",
+    "position": "M"
+  },
+  "062p0": {
+    "rotowireId": 37486,
+    "name": "Bajcetic, Stefan",
+    "fantraxId": "062p0",
+    "team": "LIV",
+    "position": "M"
+  },
+  "062p3": {
+    "rotowireId": 31183,
+    "name": "Lewis-Potter, Keane",
+    "fantraxId": "062p3",
+    "team": "BRF",
+    "position": "F"
+  },
+  "06rlj": {
+    "rotowireId": 39983,
+    "name": "Dorgu, Patrick",
+    "fantraxId": "06rlj",
+    "team": "MUN",
+    "position": "D"
+  },
+  "0785l": {
+    "name": "Proctor, Tom",
+    "fantraxId": "0785l",
+    "team": "SUN",
+    "position": "M"
+  },
+  "078wn": {
+    "rotowireId": 43949,
+    "name": "Cherif, Sidiki",
+    "fantraxId": "078wn",
+    "team": "COV",
+    "position": "F"
+  },
+  "05oig": {
+    "rotowireId": 33359,
+    "name": "Delap, Liam",
+    "fantraxId": "05oig",
+    "team": "NOT",
+    "position": "F"
+  },
+  "078wo": {
+    "rotowireId": 19409,
+    "name": "Elvedi, Nico",
+    "fantraxId": "078wo",
+    "team": "LEE",
+    "position": "D"
+  },
+  "0785j": {
+    "rotowireId": 21404,
+    "name": "Meunier, Thomas",
+    "fantraxId": "0785j",
+    "team": "SUN",
+    "position": "D"
+  },
+  "078wl": {
+    "rotowireId": 35017,
+    "name": "Suzuki, Zion",
+    "fantraxId": "078wl",
+    "team": "AVL",
+    "position": "G"
+  },
+  "06rlf": {
+    "rotowireId": 35828,
+    "name": "Cashin, Eiran",
+    "fantraxId": "06rlf",
+    "team": "BHA",
+    "position": "D"
+  },
+  "06phe": {
+    "rotowireId": 31420,
+    "name": "Kadioglu, Ferdi",
+    "fantraxId": "06phe",
+    "team": "BHA",
+    "position": "D"
+  },
+  "078wm": {
+    "rotowireId": 33372,
+    "name": "Ruggeri, Matteo",
+    "fantraxId": "078wm",
+    "team": "AVL",
+    "position": "D"
+  },
+  "0785h": {
+    "name": "Scott, Felix",
+    "fantraxId": "0785h",
+    "team": "SUN",
+    "position": "D"
+  },
+  "078wj": {
+    "rotowireId": 44458,
+    "name": "David, Promise",
+    "fantraxId": "078wj",
+    "team": "BHA",
+    "position": "F"
+  },
+  "0410j": {
+    "rotowireId": 21957,
+    "name": "Abraham, Tammy",
+    "fantraxId": "0410j",
+    "team": "AVL",
+    "position": "F"
+  },
+  "078wk": {
+    "rotowireId": 40762,
+    "name": "Gozo, Zavier",
+    "fantraxId": "078wk",
+    "team": "CRY",
+    "position": "F"
+  },
+  "06dpw": {
+    "rotowireId": 39676,
+    "name": "Kim Ji-Soo",
+    "fantraxId": "06dpw",
+    "team": "BRF",
+    "position": "D"
+  },
+  "06fv8": {
+    "rotowireId": 33724,
+    "name": "Kudus, Mohammed",
+    "fantraxId": "06fv8",
+    "team": "TOT",
+    "position": "M"
+  },
+  "0785g": {
+    "rotowireId": 29096,
+    "name": "Xaver Schlager",
+    "fantraxId": "0785g",
+    "team": "NOT",
+    "position": "M"
+  },
+  "0785d": {
+    "rotowireId": 45068,
+    "name": "Toure, Bazoumana",
+    "fantraxId": "0785d",
+    "team": "NEW",
+    "position": "F"
+  },
+  "0785e": {
+    "name": "Salia, Vakhtang",
+    "fantraxId": "0785e",
+    "team": "NEW",
+    "position": "F"
+  },
+  "03ybi": {
+    "rotowireId": 19583,
+    "name": "Rashford, Marcus",
+    "fantraxId": "03ybi",
+    "team": "MUN",
+    "position": "F"
+  },
+  "0785c": {
+    "name": "Miley, Mason",
+    "fantraxId": "0785c",
+    "team": "NEW",
+    "position": "M"
+  },
+  "05roa": {
+    "rotowireId": 32702,
+    "name": "Drameh, Cody",
+    "fantraxId": "05roa",
+    "team": "HUL",
+    "position": "D"
+  },
+  "0785a": {
+    "rotowireId": 46000,
+    "name": "Steur, Sean",
+    "fantraxId": "0785a",
+    "team": "NEW",
+    "position": "M"
+  },
+  "070h9": {
+    "rotowireId": 44241,
+    "name": "Milosavljevic, Veljko",
+    "fantraxId": "070h9",
+    "team": "BOU",
+    "position": "D"
+  },
+  "0784y": {
+    "rotowireId": 43917,
+    "name": "Muharemovic, Tarik",
+    "fantraxId": "0784y",
+    "team": "LEE",
+    "position": "D"
+  },
+  "02lm7": {
+    "rotowireId": 17516,
+    "name": "Grealish, Jack",
+    "fantraxId": "02lm7",
+    "team": "EVE",
+    "position": "M"
+  },
+  "06rm7": {
+    "rotowireId": 35542,
+    "name": "Gonzalez, Nico",
+    "fantraxId": "06rm7",
+    "team": "NEW",
+    "position": "M"
+  },
+  "05s08": {
+    "rotowireId": 34683,
+    "name": "Livramento, Valentino",
+    "fantraxId": "05s08",
+    "team": "NEW",
+    "position": "D"
+  },
+  "0784z": {
+    "rotowireId": 39552,
+    "name": "Jacquet, Jeremy",
+    "fantraxId": "0784z",
+    "team": "LIV",
+    "position": "D"
+  },
+  "063q8": {
+    "rotowireId": 32949,
+    "name": "Damsgaard, Mikkel",
+    "fantraxId": "063q8",
+    "team": "BRF",
+    "position": "M"
+  },
+  "06rm8": {
+    "rotowireId": 35494,
+    "name": "Tel, Mathys",
+    "fantraxId": "06rm8",
+    "team": "TOT",
+    "position": "F"
+  },
+  "04mi4": {
+    "rotowireId": 25446,
+    "name": "Hudson-Odoi, Callum",
+    "fantraxId": "04mi4",
+    "team": "NOT",
+    "position": "F"
+  },
+  "0784w": {
+    "rotowireId": 46898,
+    "name": "Emersonn",
+    "fantraxId": "0784w",
+    "team": "IPS",
+    "position": "F"
+  },
+  "0784x": {
+    "rotowireId": 29012,
+    "name": "Maeda, Daizen",
+    "fantraxId": "0784x",
+    "team": "IPS",
+    "position": "F"
+  },
+  "04qos": {
+    "rotowireId": 20797,
+    "name": "Diop, Issa",
+    "fantraxId": "04qos",
+    "team": "IPS",
+    "position": "D"
+  },
+  "0784v": {
+    "name": "van Oevelen, Kayne",
+    "fantraxId": "0784v",
+    "team": "IPS",
+    "position": "G"
+  },
+  "04qor": {
+    "rotowireId": 17247,
+    "name": "Leno, Bernd",
+    "fantraxId": "04qor",
+    "team": "FUL",
+    "position": "G"
+  },
+  "0784s": {
+    "name": "Omur, Abdulkadir",
+    "fantraxId": "0784s",
+    "team": "HUL",
+    "position": "M"
+  },
+  "0784t": {
+    "rotowireId": 44617,
+    "name": "Zambrano, Oscar",
+    "fantraxId": "0784t",
+    "team": "HUL",
+    "position": "M"
+  },
+  "05s00": {
+    "rotowireId": 34676,
+    "name": "Jebbison, Daniel",
+    "fantraxId": "05s00",
+    "team": "BOU",
+    "position": "F"
+  },
+  "068yt": {
+    "rotowireId": 22120,
+    "name": "Lukic, Sasa",
+    "fantraxId": "068yt",
+    "team": "IPS",
+    "position": "M"
+  },
+  "0784r": {
+    "rotowireId": 28833,
+    "name": "Morita, Hidemasa",
+    "fantraxId": "0784r",
+    "team": "HUL",
+    "position": "M"
+  },
+  "0784o": {
+    "rotowireId": 32671,
+    "name": "Mingueza, Oscar",
+    "fantraxId": "0784o",
+    "team": "CRY",
+    "position": "D"
+  },
+  "05u40": {
+    "rotowireId": 33209,
+    "name": "Balcombe, Ellery",
+    "fantraxId": "05u40",
+    "team": "BRF",
+    "position": "G"
+  },
+  "0784p": {
+    "rotowireId": 31162,
+    "name": "Hackney, Hayden",
+    "fantraxId": "0784p",
+    "team": "EVE",
+    "position": "M"
+  },
+  "0784l": {
+    "name": "Benetton, Lucca",
+    "fantraxId": "0784l",
+    "team": "CRY",
+    "position": "G"
+  },
+  "0784i": {
+    "rotowireId": 40667,
+    "name": "Amenda, Aurele",
+    "fantraxId": "0784i",
+    "team": "COV",
+    "position": "D"
+  },
+  "0554i": {
+    "rotowireId": 19626,
+    "name": "Joelinton",
+    "fantraxId": "0554i",
+    "team": "NEW",
+    "position": "M"
+  },
+  "0784j": {
+    "name": "Borges Rodrigues, Raphael",
+    "fantraxId": "0784j",
+    "team": "COV",
+    "position": "F"
+  },
+  "070fa": {
+    "rotowireId": 29449,
+    "name": "Simons, Xavi",
+    "fantraxId": "070fa",
+    "team": "TOT",
+    "position": "M"
+  },
+  "06cmt": {
+    "name": "King, Tom",
+    "fantraxId": "06cmt",
+    "team": "EVE",
+    "position": "G"
+  },
+  "068ym": {
+    "rotowireId": 37578,
+    "name": "Fernandez, Enzo",
+    "fantraxId": "068ym",
+    "team": "MCI",
+    "position": "M"
+  },
+  "06cmu": {
+    "rotowireId": 39728,
+    "name": "Verbruggen, Bart",
+    "fantraxId": "06cmu",
+    "team": "BHA",
+    "position": "G"
+  },
+  "05tre": {
+    "rotowireId": 34081,
+    "name": "Janelt, Vitaly",
+    "fantraxId": "05tre",
+    "team": "BRF",
+    "position": "M"
+  },
+  "0784e": {
+    "name": "Watson, Reggie",
+    "fantraxId": "0784e",
+    "team": "CHE",
+    "position": "M"
+  },
+  "0784f": {
+    "name": "Nicoll-Jazuli, Mahdi",
+    "fantraxId": "0784f",
+    "team": "CHE",
+    "position": "M"
+  },
+  "06cms": {
+    "rotowireId": 28953,
+    "name": "Tonali, Sandro",
+    "fantraxId": "06cms",
+    "team": "TOT",
+    "position": "M"
+  },
+  "0784c": {
+    "name": "Subuloye, Olutayo",
+    "fantraxId": "0784c",
+    "team": "CHE",
+    "position": "D"
+  },
+  "0554g": {
+    "rotowireId": 33701,
+    "name": "Bassey, Calvin",
+    "fantraxId": "0554g",
+    "team": "FUL",
+    "position": "D"
+  },
+  "06fy7": {
+    "rotowireId": 29670,
+    "name": "Dominguez, Nicolas",
+    "fantraxId": "06fy7",
+    "team": "NOT",
+    "position": "M"
+  },
+  "0788a": {
+    "name": "Ombang, Darryl",
+    "fantraxId": "0788a",
+    "team": "LEE",
+    "position": "G"
+  },
+  "06ew2": {
+    "rotowireId": 26569,
+    "name": "Disasi, Axel",
+    "fantraxId": "06ew2",
+    "team": "CRY",
+    "position": "D"
+  },
+  "0788b": {
+    "name": "Mills, Callum",
+    "fantraxId": "0788b",
+    "team": "LEE",
+    "position": "M"
+  },
+  "03yeg": {
+    "rotowireId": 19586,
+    "name": "Adarabioyo, Tosin",
+    "fantraxId": "03yeg",
+    "team": "TOT",
+    "position": "D"
+  },
+  "110050#5050": {
+    "teamName": "Everton",
+    "name": "Team",
+    "fantraxId": "110050#5050",
+    "teamShortName": "EVE",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "02lnx": {
+    "rotowireId": 16129,
+    "name": "Welbeck, Danny",
+    "fantraxId": "02lnx",
+    "team": "CHE",
+    "position": "F"
+  },
+  "06fwn": {
+    "rotowireId": 33254,
+    "name": "Benda, Steven",
+    "fantraxId": "06fwn",
+    "team": "NOT",
+    "position": "G"
+  },
+  "0521z": {
+    "rotowireId": 29155,
+    "name": "Justin, James",
+    "fantraxId": "0521z",
+    "team": "LEE",
+    "position": "D"
+  },
+  "072o9": {
+    "rotowireId": 47734,
+    "name": "Jocelin Ta Bi",
+    "fantraxId": "072o9",
+    "team": "SUN",
+    "position": "F"
+  },
+  "06fwi": {
+    "rotowireId": 36612,
+    "name": "Baleba, Carlos",
+    "fantraxId": "06fwi",
+    "team": "MUN",
+    "position": "M"
+  },
+  "0787y": {
+    "rotowireId": 37965,
+    "name": "Antonio Silva",
+    "fantraxId": "0787y",
+    "team": "BOU",
+    "position": "D"
+  },
+  "07898": {
+    "rotowireId": 40330,
+    "name": "Garcia, Gonzalo",
+    "fantraxId": "07898",
+    "team": "FUL",
+    "position": "F"
+  },
+  "05nip": {
+    "rotowireId": 32973,
+    "name": "Scarlett, Dane",
+    "fantraxId": "05nip",
+    "team": "TOT",
+    "position": "F"
+  },
+  "067zv": {
+    "rotowireId": 34216,
+    "name": "Schade, Kevin",
+    "fantraxId": "067zv",
+    "team": "BRF",
+    "position": "M"
+  },
+  "072mp": {
+    "rotowireId": 45153,
+    "name": "Furo, Kaye",
+    "fantraxId": "072mp",
+    "team": "BRF",
+    "position": "F"
+  },
+  "07897": {
+    "rotowireId": 47650,
+    "name": "Palacios, Cesar",
+    "fantraxId": "07897",
+    "team": "FUL",
+    "position": "M"
+  },
+  "072mq": {
+    "rotowireId": 46822,
+    "name": "Madjo, Brian",
+    "fantraxId": "072mq",
+    "team": "AVL",
+    "position": "F"
+  },
+  "06442": {
+    "rotowireId": 38401,
+    "name": "Abbott, Zach",
+    "fantraxId": "06442",
+    "team": "NOT",
+    "position": "D"
+  },
+  "05nil": {
+    "rotowireId": 31246,
+    "name": "Davis, Leif",
+    "fantraxId": "05nil",
+    "team": "IPS",
+    "position": "D"
+  },
+  "06rnn": {
+    "name": "Neave, Sean",
+    "fantraxId": "06rnn",
+    "team": "NEW",
+    "position": "F"
+  },
+  "02lp5": {
+    "rotowireId": 18448,
+    "name": "Smith, Adam",
+    "fantraxId": "02lp5",
+    "team": "BOU",
+    "position": "D"
+  },
+  "05w9r": {
+    "rotowireId": 28577,
+    "name": "Tomiyasu, Takehiro",
+    "fantraxId": "05w9r",
+    "team": "CRY",
+    "position": "D"
+  },
+  "062pl": {
+    "rotowireId": 29722,
+    "name": "Lisandro Martinez",
+    "fantraxId": "062pl",
+    "team": "MUN",
+    "position": "D"
+  },
+  "06xzp": {
+    "name": "Luis Semedo",
+    "fantraxId": "06xzp",
+    "team": "SUN",
+    "position": "F"
+  },
+  "0327r": {
+    "rotowireId": 17514,
+    "name": "Keane, Michael",
+    "fantraxId": "0327r",
+    "team": "EVE",
+    "position": "D"
+  },
+  "0666p": {
+    "rotowireId": 38145,
+    "name": "Mainoo, Kobbie",
+    "fantraxId": "0666p",
+    "team": "MUN",
+    "position": "M"
+  },
+  "06xzn": {
+    "name": "Ba, Abdoullah",
+    "fantraxId": "06xzn",
+    "team": "SUN",
+    "position": "M"
+  },
+  "05vyj": {
+    "rotowireId": 36103,
+    "name": "Ferguson, Evan",
+    "fantraxId": "05vyj",
+    "team": "BHA",
+    "position": "F"
+  },
+  "075sh": {
+    "name": "Lienou, Jayden",
+    "fantraxId": "075sh",
+    "team": "LEE",
+    "position": "D"
+  },
+  "078yh": {
+    "rotowireId": 44080,
+    "name": "Methalie, Dayann",
+    "fantraxId": "078yh",
+    "team": "SUN",
+    "position": "D"
+  },
+  "06xzi": {
+    "rotowireId": 43035,
+    "name": "Bindon, Tyler",
+    "fantraxId": "06xzi",
+    "team": "NOT",
+    "position": "D"
+  },
+  "078yi": {
+    "name": "Sellars-Fleming, Tyrell",
+    "fantraxId": "078yi",
+    "team": "HUL",
+    "position": "F"
+  },
+  "062pa": {
+    "name": "Whitworth, Joseph",
+    "fantraxId": "062pa",
+    "team": "CRY",
+    "position": "G"
+  },
+  "06xzg": {
+    "rotowireId": 35249,
+    "name": "Mamardashvili, Giorgi",
+    "fantraxId": "06xzg",
+    "team": "LIV",
+    "position": "G"
+  },
+  "06xzd": {
+    "rotowireId": 44562,
+    "name": "Kostoulas, Charalampos",
+    "fantraxId": "06xzd",
+    "team": "BHA",
+    "position": "F"
+  },
+  "06xze": {
+    "rotowireId": 21938,
+    "name": "Benitez, Walter",
+    "fantraxId": "06xze",
+    "team": "CRY",
+    "position": "G"
+  },
+  "110050#5040": {
+    "teamName": "Everton",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110050#5040",
+    "teamShortName": "EVE",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "06xzc": {
+    "rotowireId": 45073,
+    "name": "Tzimas, Stefanos",
+    "fantraxId": "06xzc",
+    "team": "BHA",
+    "position": "F"
+  },
+  "06fvn": {
+    "rotowireId": 35614,
+    "name": "Beto",
+    "fantraxId": "06fvn",
+    "team": "EVE",
+    "position": "F"
+  },
+  "06xza": {
+    "rotowireId": 38990,
+    "name": "Kroupi, Eli",
+    "fantraxId": "06xza",
+    "team": "BOU",
+    "position": "F"
+  },
+  "062ow": {
+    "rotowireId": 37271,
+    "name": "Ozoh, David",
+    "fantraxId": "062ow",
+    "team": "CRY",
+    "position": "M"
+  },
+  "06y9z": {
+    "rotowireId": 27891,
+    "name": "Zubimendi, Martin",
+    "fantraxId": "06y9z",
+    "team": "ARS",
+    "position": "M"
+  },
+  "070hs": {
+    "rotowireId": 19576,
+    "name": "Donnarumma, Gianluigi",
+    "fantraxId": "070hs",
+    "team": "MCI",
+    "position": "G"
+  },
+  "06rmv": {
+    "rotowireId": 45778,
+    "name": "Monga, Jeremy",
+    "fantraxId": "06rmv",
+    "team": "MCI",
+    "position": "F"
+  },
+  "070hq": {
+    "rotowireId": 35552,
+    "name": "Hincapie, Piero",
+    "fantraxId": "070hq",
+    "team": "ARS",
+    "position": "D"
+  },
+  "062ot": {
+    "rotowireId": 32829,
+    "name": "Doucoure, Cheick",
+    "fantraxId": "062ot",
+    "team": "CRY",
+    "position": "M"
+  },
+  "02lo6": {
+    "rotowireId": 31155,
+    "name": "Bentley, Daniel",
+    "fantraxId": "02lo6",
+    "team": "COV",
+    "position": "G"
+  },
+  "070hr": {
+    "rotowireId": 44836,
+    "name": "Kusi-Asare, Jonah",
+    "fantraxId": "070hr",
+    "team": "FUL",
+    "position": "F"
+  },
+  "0689w": {
+    "rotowireId": 26621,
+    "name": "Rutter, Georginio",
+    "fantraxId": "0689w",
+    "team": "BHA",
+    "position": "F"
+  },
+  "0326x": {
+    "rotowireId": 17501,
+    "name": "Akpom, Chuba",
+    "fantraxId": "0326x",
+    "team": "IPS",
+    "position": "F"
+  },
+  "067yz": {
+    "rotowireId": 26633,
+    "name": "Matheus Cunha",
+    "fantraxId": "067yz",
+    "team": "MUN",
+    "position": "F"
+  },
+  "062op": {
+    "rotowireId": 31251,
+    "name": "Richards, Omar",
+    "fantraxId": "062op",
+    "team": "NOT",
+    "position": "D"
+  },
+  "070hn": {
+    "rotowireId": 33377,
+    "name": "Bakwa, Dilane",
+    "fantraxId": "070hn",
+    "team": "NOT",
+    "position": "F"
+  },
+  "072lp": {
+    "name": "Olayiwola, Malik",
+    "fantraxId": "072lp",
+    "team": "EVE",
+    "position": "M"
+  },
+  "06v51": {
+    "rotowireId": 26763,
+    "name": "Bijol, Jaka",
+    "fantraxId": "06v51",
+    "team": "LEE",
+    "position": "D"
+  },
+  "070hl": {
+    "rotowireId": 33509,
+    "name": "Lammens, Senne",
+    "fantraxId": "070hl",
+    "team": "MUN",
+    "position": "G"
+  },
+  "06hze": {
+    "rotowireId": 40813,
+    "name": "Nyoni, Treymaurice",
+    "fantraxId": "06hze",
+    "team": "LIV",
+    "position": "M"
+  },
+  "067yv": {
+    "rotowireId": 26727,
+    "name": "Gakpo, Cody",
+    "fantraxId": "067yv",
+    "team": "LIV",
+    "position": "F"
+  },
+  "070hi": {
+    "rotowireId": 37835,
+    "name": "Rohl, Merlin",
+    "fantraxId": "070hi",
+    "team": "EVE",
+    "position": "M"
+  },
+  "070hj": {
+    "rotowireId": 41261,
+    "name": "Kevin",
+    "fantraxId": "070hj",
+    "team": "FUL",
+    "position": "F"
+  },
+  "06y9n": {
+    "rotowireId": 36638,
+    "name": "Gittens, Jamie",
+    "fantraxId": "06y9n",
+    "team": "CHE",
+    "position": "F"
+  },
+  "05220": {
+    "rotowireId": 29146,
+    "name": "van den Berg, Sepp",
+    "fantraxId": "05220",
+    "team": "BRF",
+    "position": "D"
+  },
+  "06pig": {
+    "rotowireId": 28883,
+    "name": "Morato",
+    "fantraxId": "06pig",
+    "team": "NOT",
+    "position": "D"
+  },
+  "067ys": {
+    "rotowireId": 38603,
+    "name": "Hinshelwood, Jack",
+    "fantraxId": "067ys",
+    "team": "BHA",
+    "position": "M"
+  },
+  "06y9o": {
+    "rotowireId": 46657,
+    "name": "Igor Jesus",
+    "fantraxId": "06y9o",
+    "team": "NOT",
+    "position": "F"
+  },
+  "05ojf": {
+    "rotowireId": 34670,
+    "name": "Fabio Carvalho",
+    "fantraxId": "05ojf",
+    "team": "BRF",
+    "position": "M"
+  },
+  "062oh": {
+    "rotowireId": 36156,
+    "name": "OBrien, Jake",
+    "fantraxId": "062oh",
+    "team": "EVE",
+    "position": "D"
+  },
+  "06y9m": {
+    "rotowireId": 30866,
+    "name": "De Cuyper, Maxim",
+    "fantraxId": "06y9m",
+    "team": "BHA",
+    "position": "D"
+  },
+  "062og": {
+    "rotowireId": 33364,
+    "name": "Hickey, Aaron",
+    "fantraxId": "062og",
+    "team": "BRF",
+    "position": "D"
+  },
+  "070hc": {
+    "rotowireId": 34132,
+    "name": "Brobbey, Brian",
+    "fantraxId": "070hc",
+    "team": "SUN",
+    "position": "F"
+  },
+  "0435m": {
+    "rotowireId": 17705,
+    "name": "Xhaka, Granit",
+    "fantraxId": "0435m",
+    "team": "SUN",
+    "position": "M"
+  },
+  "110034#5030": {
+    "teamName": "Bournemouth",
+    "name": "Team Outfielder",
+    "fantraxId": "110034#5030",
+    "teamShortName": "BOU",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "110050#5030": {
+    "teamName": "Everton",
+    "name": "Team Outfielder",
+    "fantraxId": "110050#5030",
+    "teamShortName": "EVE",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "06fuw": {
+    "rotowireId": 36625,
+    "name": "Petrovic, Djordje",
+    "fantraxId": "06fuw",
+    "team": "BOU",
+    "position": "G"
+  },
+  "06pia": {
+    "rotowireId": 32878,
+    "name": "Lacroix, Maxence",
+    "fantraxId": "06pia",
+    "team": "CHE",
+    "position": "D"
+  },
+  "070ha": {
+    "rotowireId": 29810,
+    "name": "Florentino",
+    "fantraxId": "070ha",
+    "team": "IPS",
+    "position": "M"
+  },
+  "06pib": {
+    "rotowireId": 35679,
+    "name": "Ugarte, Manuel",
+    "fantraxId": "06pib",
+    "team": "MUN",
+    "position": "M"
+  },
+  "070hb": {
+    "rotowireId": 43876,
+    "name": "Canvot, Jaydee",
+    "fantraxId": "070hb",
+    "team": "CRY",
+    "position": "D"
+  },
+  "0794a": {
+    "rotowireId": 38417,
+    "name": "Norton-Cuffy, Brooke",
+    "fantraxId": "0794a",
+    "team": "HUL",
+    "position": "D"
+  },
+  "04tsb": {
+    "rotowireId": 26991,
+    "name": "Gyokeres, Viktor",
+    "fantraxId": "04tsb",
+    "team": "ARS",
+    "position": "F"
+  },
+  "06dmj": {
+    "rotowireId": 30868,
+    "name": "Jurrien Timber",
+    "fantraxId": "06dmj",
+    "team": "ARS",
+    "position": "D"
+  },
+  "0793y": {
+    "rotowireId": 44051,
+    "name": "Ahanor, Honest",
+    "fantraxId": "0793y",
+    "team": "CRY",
+    "position": "D"
+  },
+  "06v08": {
+    "name": "Armer, Daniel",
+    "fantraxId": "06v08",
+    "team": "MUN",
+    "position": "D"
+  },
+  "110070#5050": {
+    "teamName": "Liverpool",
+    "name": "Team",
+    "fantraxId": "110070#5050",
+    "teamShortName": "LIV",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "0793w": {
+    "rotowireId": 46542,
+    "name": "Ansah, Ilyas",
+    "fantraxId": "0793w",
+    "team": "HUL",
+    "position": "F"
+  },
+  "07959": {
+    "rotowireId": 26568,
+    "name": "Gboho, Yann",
+    "fantraxId": "07959",
+    "team": "COV",
+    "position": "F"
+  },
+  "0793x": {
+    "rotowireId": 44038,
+    "name": "Mbaye, Ibrahim",
+    "fantraxId": "0793x",
+    "team": "AVL",
+    "position": "F"
+  },
+  "06v07": {
+    "rotowireId": 30601,
+    "name": "Cherki, Rayan",
+    "fantraxId": "06v07",
+    "team": "MCI",
+    "position": "M"
+  },
+  "04spw": {
+    "rotowireId": 27639,
+    "name": "Garner, James",
+    "fantraxId": "04spw",
+    "team": "EVE",
+    "position": "M"
+  },
+  "06zxy": {
+    "rotowireId": 35658,
+    "name": "Sesko, Benjamin",
+    "fantraxId": "06zxy",
+    "team": "MUN",
+    "position": "F"
+  },
+  "06v05": {
+    "rotowireId": 30479,
+    "name": "Frimpong, Jeremie",
+    "fantraxId": "06v05",
+    "team": "LIV",
+    "position": "D"
+  },
+  "110067#5050": {
+    "teamName": "Hull City",
+    "name": "Team",
+    "fantraxId": "110067#5050",
+    "teamShortName": "HUL",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "0793q": {
+    "rotowireId": 35762,
+    "name": "Barcola, Bradley",
+    "fantraxId": "0793q",
+    "team": "LIV",
+    "position": "F"
+  },
+  "070cj": {
+    "rotowireId": 30434,
+    "name": "Okafor, Noah",
+    "fantraxId": "070cj",
+    "team": "LEE",
+    "position": "F"
+  },
+  "06v00": {
+    "name": "Chambers, Sam",
+    "fantraxId": "06v00",
+    "team": "LEE",
+    "position": "M"
+  },
+  "06v01": {
+    "rotowireId": 29680,
+    "name": "Gruev, Ilia",
+    "fantraxId": "06v01",
+    "team": "LEE",
+    "position": "M"
+  },
+  "051kl": {
+    "rotowireId": 20646,
+    "name": "Buendia, Emiliano",
+    "fantraxId": "051kl",
+    "team": "AVL",
+    "position": "M"
+  },
+  "0793o": {
+    "rotowireId": 49043,
+    "name": "Orozco, Matias",
+    "fantraxId": "0793o",
+    "team": "BHA",
+    "position": "M"
+  },
+  "04u40": {
+    "rotowireId": 21887,
+    "name": "Kepa",
+    "fantraxId": "04u40",
+    "team": "ARS",
+    "position": "G"
+  },
+  "0793p": {
+    "rotowireId": 49045,
+    "name": "Allan",
+    "fantraxId": "0793p",
+    "team": "MCI",
+    "position": "F"
+  },
+  "070ci": {
+    "rotowireId": 30687,
+    "name": "Adli, Amine",
+    "fantraxId": "070ci",
+    "team": "BOU",
+    "position": "F"
+  },
+  "0793n": {
+    "rotowireId": 20247,
+    "name": "Zetterer, Michael",
+    "fantraxId": "0793n",
+    "team": "LEE",
+    "position": "G"
+  },
+  "04u41": {
+    "rotowireId": 17032,
+    "name": "Kovacic, Mateo",
+    "fantraxId": "04u41",
+    "team": "MCI",
+    "position": "M"
+  },
+  "05oeh": {
+    "rotowireId": 18098,
+    "name": "Tete, Kenny",
+    "fantraxId": "05oeh",
+    "team": "FUL",
+    "position": "D"
+  },
+  "04gyd": {
+    "rotowireId": 30603,
+    "name": "Austin, Brandon",
+    "fantraxId": "04gyd",
+    "team": "TOT",
+    "position": "G"
+  },
+  "051kg": {
+    "rotowireId": 28905,
+    "name": "Aarons, Max",
+    "fantraxId": "051kg",
+    "team": "BOU",
+    "position": "D"
+  },
+  "06y4g": {
+    "rotowireId": 40604,
+    "name": "Milambo, Antoni",
+    "fantraxId": "06y4g",
+    "team": "BRF",
+    "position": "M"
+  },
+  "0793h": {
+    "rotowireId": 30689,
+    "name": "Palacios, Exequiel",
+    "fantraxId": "0793h",
+    "team": "IPS",
+    "position": "M"
+  },
+  "03mga": {
+    "rotowireId": 18653,
+    "name": "Furlong, Darnell",
+    "fantraxId": "03mga",
+    "team": "IPS",
+    "position": "D"
+  },
+  "05y7c": {
+    "rotowireId": 36115,
+    "name": "Gray, Archie",
+    "fantraxId": "05y7c",
+    "team": "TOT",
+    "position": "M"
+  },
+  "04lav": {
+    "rotowireId": 25447,
+    "name": "Ampadu, Ethan",
+    "fantraxId": "04lav",
+    "team": "LEE",
+    "position": "D"
+  },
+  "110271#5050": {
+    "teamName": "Ipswich",
+    "name": "Team",
+    "fantraxId": "110271#5050",
+    "teamShortName": "IPS",
+    "position": "Tm",
+    "shortName": "TM"
+  },
+  "0792z": {
+    "rotowireId": 17825,
+    "name": "Goretzka, Leon",
+    "fantraxId": "0792z",
+    "team": "AVL",
+    "position": "M"
+  },
+  "06pe1": {
+    "rotowireId": 37969,
+    "name": "Mateus Fernandes",
+    "fantraxId": "06pe1",
+    "team": "TOT",
+    "position": "M"
+  },
+  "07948": {
+    "rotowireId": 38022,
+    "name": "Larsson, Hugo",
+    "fantraxId": "07948",
+    "team": "FUL",
+    "position": "M"
+  },
+  "078t9": {
+    "name": "Jack, Mikel",
+    "fantraxId": "078t9",
+    "team": "TOT",
+    "position": "G"
+  },
+  "06y59": {
+    "rotowireId": 40646,
+    "name": "Sadiki, Noah",
+    "fantraxId": "06y59",
+    "team": "SUN",
+    "position": "M"
+  },
+  "07949": {
+    "name": "Manuel Angel",
+    "fantraxId": "07949",
+    "team": "FUL",
+    "position": "M"
+  },
+  "07947": {
+    "name": "Brughmans, Lucca",
+    "fantraxId": "07947",
+    "team": "LIV",
+    "position": "G"
+  },
+  "078t8": {
+    "rotowireId": 36571,
+    "name": "Ouattara, Abdoul",
+    "fantraxId": "078t8",
+    "team": "IPS",
+    "position": "D"
+  },
+  "043qy": {
+    "rotowireId": 21483,
+    "name": "Cook, Lewis",
+    "fantraxId": "043qy",
+    "team": "BOU",
+    "position": "M"
+  },
+  "03v6t": {
+    "rotowireId": 19577,
+    "name": "Chilwell, Ben",
+    "fantraxId": "03v6t",
+    "team": "CRY",
+    "position": "D"
+  },
+  "0792s": {
+    "rotowireId": 40772,
+    "name": "Bouaddi, Ayyoub",
+    "fantraxId": "0792s",
+    "team": "MCI",
+    "position": "M"
+  },
+  "07942": {
+    "rotowireId": 44143,
+    "name": "Fernandez-Pardo, Matias",
+    "fantraxId": "07942",
+    "team": "NEW",
+    "position": "F"
+  },
+  "05rjn": {
+    "rotowireId": 34598,
+    "name": "Rak-Sakyi, Jesurun",
+    "fantraxId": "05rjn",
+    "team": "CRY",
+    "position": "F"
+  },
+  "07941": {
+    "name": "Fox, Jorja",
+    "fantraxId": "07941",
+    "team": "IPS",
+    "position": "D"
+  },
+  "06rgg": {
+    "rotowireId": 38617,
+    "name": "Kayode, Michael",
+    "fantraxId": "06rgg",
+    "team": "BRF",
+    "position": "D"
+  },
+  "02oo1": {
+    "rotowireId": 16999,
+    "name": "Davies, Ben",
+    "fantraxId": "02oo1",
+    "team": "TOT",
+    "position": "D"
+  },
+  "03mfe": {
+    "rotowireId": 18624,
+    "name": "Grimes, Matt",
+    "fantraxId": "03mfe",
+    "team": "COV",
+    "position": "M"
+  },
+  "06zwj": {
+    "rotowireId": 29678,
+    "name": "Guessand, Evann",
+    "fantraxId": "06zwj",
+    "team": "CRY",
+    "position": "F"
+  },
+  "078rd": {
+    "name": "Pitt, Lucas",
+    "fantraxId": "078rd",
+    "team": "LIV",
+    "position": "D"
+  },
+  "06kyw": {
+    "rotowireId": 41138,
+    "name": "Echeverri, Claudio",
+    "fantraxId": "06kyw",
+    "team": "MCI",
+    "position": "M"
+  },
+  "0784a": {
+    "rotowireId": 35150,
+    "name": "Svoboda, Michael",
+    "fantraxId": "0784a",
+    "team": "BHA",
+    "position": "D"
+  },
+  "068yd": {
+    "rotowireId": 38731,
+    "name": "Joao Gomes",
+    "fantraxId": "068yd",
+    "team": "AVL",
+    "position": "M"
+  },
+  "05trb": {
+    "rotowireId": 25472,
+    "name": "Mbeumo, Bryan",
+    "fantraxId": "05trb",
+    "team": "MUN",
+    "position": "F"
+  },
+  "0784b": {
+    "rotowireId": 39555,
+    "name": "Palestra, Marco",
+    "fantraxId": "0784b",
+    "team": "CHE",
+    "position": "D"
+  },
+  "068yc": {
+    "rotowireId": 38732,
+    "name": "Ayari, Yasin",
+    "fantraxId": "068yc",
+    "team": "BHA",
+    "position": "M"
+  },
+  "06fso": {
+    "rotowireId": 26055,
+    "name": "Endo, Wataru",
+    "fantraxId": "06fso",
+    "team": "LIV",
+    "position": "M"
+  },
+  "0687c": {
+    "rotowireId": 38662,
+    "name": "Alcaraz, Carlos",
+    "fantraxId": "0687c",
+    "team": "EVE",
+    "position": "M"
+  },
+  "06cmm": {
+    "rotowireId": 29729,
+    "name": "Szoboszlai, Dominik",
+    "fantraxId": "06cmm",
+    "team": "LIV",
+    "position": "M"
+  },
+  "070g8": {
+    "rotowireId": 43918,
+    "name": "Savona, Nicolo",
+    "fantraxId": "070g8",
+    "team": "NOT",
+    "position": "D"
+  },
+  "06nbu": {
+    "rotowireId": 43824,
+    "name": "Mfuni, Stephen",
+    "fantraxId": "06nbu",
+    "team": "COV",
+    "position": "D"
+  },
+  "110070#5030": {
+    "teamName": "Liverpool",
+    "name": "Team Outfielder",
+    "fantraxId": "110070#5030",
+    "teamShortName": "LIV",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "05tqz": {
+    "rotowireId": 31081,
+    "name": "Henry, Rico",
+    "fantraxId": "05tqz",
+    "team": "BRF",
+    "position": "D"
+  },
+  "06v0x": {
+    "rotowireId": 44651,
+    "name": "Tutierov, Tymur",
+    "fantraxId": "06v0x",
+    "team": "SUN",
+    "position": "F"
+  },
+  "070g7": {
+    "rotowireId": 30629,
+    "name": "Woltemade, Nick",
+    "fantraxId": "070g7",
+    "team": "NEW",
+    "position": "F"
+  },
+  "06v0y": {
+    "rotowireId": 46718,
+    "name": "Vuskovic, Luka",
+    "fantraxId": "06v0y",
+    "team": "BHA",
+    "position": "D"
+  },
+  "05tqx": {
+    "rotowireId": 31126,
+    "name": "Raya, David",
+    "fantraxId": "05tqx",
+    "team": "ARS",
+    "position": "G"
+  },
+  "072iu": {
+    "name": "Graham, Braiden",
+    "fantraxId": "072iu",
+    "team": "EVE",
+    "position": "F"
+  },
+  "06v0w": {
+    "rotowireId": 44654,
+    "name": "Ogunsuyi, Trey",
+    "fantraxId": "06v0w",
+    "team": "SUN",
+    "position": "F"
+  },
+  "110067#5030": {
+    "teamName": "Hull City",
+    "name": "Team Outfielder",
+    "fantraxId": "110067#5030",
+    "teamShortName": "HUL",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "07858": {
+    "name": "Pivas, Miodrag",
+    "fantraxId": "07858",
+    "team": "NEW",
+    "position": "D"
+  },
+  "06v0t": {
+    "rotowireId": 26886,
+    "name": "Isidor, Wilson",
+    "fantraxId": "06v0t",
+    "team": "SUN",
+    "position": "F"
+  },
+  "07859": {
+    "rotowireId": 44825,
+    "name": "Bamba, Aladji",
+    "fantraxId": "07859",
+    "team": "NEW",
+    "position": "M"
+  },
+  "070eq": {
+    "rotowireId": 47837,
+    "name": "Whittaker, Jack",
+    "fantraxId": "070eq",
+    "team": "SUN",
+    "position": "M"
+  },
+  "067x8": {
+    "rotowireId": 39597,
+    "name": "OReilly, Nico",
+    "fantraxId": "067x8",
+    "team": "MCI",
+    "position": "M"
+  },
+  "070eo": {
+    "name": "Jenson Jones",
+    "fantraxId": "070eo",
+    "team": "SUN",
+    "position": "D"
+  },
+  "06v0p": {
+    "rotowireId": 32723,
+    "name": "Le Fee, Enzo",
+    "fantraxId": "06v0p",
+    "team": "SUN",
+    "position": "M"
+  },
+  "110080#5040": {
+    "teamName": "Manchester City",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110080#5040",
+    "teamShortName": "MCI",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "07852": {
+    "name": "Sonni-Lambie, Joshua",
+    "fantraxId": "07852",
+    "team": "LIV",
+    "position": "F"
+  },
+  "06v21": {
+    "rotowireId": 32412,
+    "name": "Wirtz, Florian",
+    "fantraxId": "06v21",
+    "team": "LIV",
+    "position": "M"
+  },
+  "07850": {
+    "name": "Ndukwe, Ifeanyi",
+    "fantraxId": "07850",
+    "team": "LIV",
+    "position": "D"
+  },
+  "06v0l": {
+    "rotowireId": 40203,
+    "name": "Rigg, Chris",
+    "fantraxId": "06v0l",
+    "team": "SUN",
+    "position": "M"
+  },
+  "05u1m": {
+    "rotowireId": 31313,
+    "name": "Collins, Nathan",
+    "fantraxId": "05u1m",
+    "team": "BRF",
+    "position": "D"
+  },
+  "06v0m": {
+    "rotowireId": 37275,
+    "name": "ONien, Luke",
+    "fantraxId": "06v0m",
+    "team": "SUN",
+    "position": "M"
+  },
+  "05ogg": {
+    "rotowireId": 33361,
+    "name": "Alese, Ajibola",
+    "fantraxId": "05ogg",
+    "team": "SUN",
+    "position": "D"
+  },
+  "06clz": {
+    "rotowireId": 34083,
+    "name": "Gusto, Malo",
+    "fantraxId": "06clz",
+    "team": "CHE",
+    "position": "D"
+  },
+  "06v0k": {
+    "rotowireId": 31239,
+    "name": "Browne, Alan",
+    "fantraxId": "06v0k",
+    "team": "SUN",
+    "position": "M"
+  },
+  "05y9n": {
+    "rotowireId": 36145,
+    "name": "Hall, Lewis",
+    "fantraxId": "05y9n",
+    "team": "NEW",
+    "position": "D"
+  },
+  "06v0f": {
+    "rotowireId": 40212,
+    "name": "Seelt, Jenson",
+    "fantraxId": "06v0f",
+    "team": "SUN",
+    "position": "D"
+  },
+  "06v0g": {
+    "rotowireId": 37455,
+    "name": "Hume, Trai",
+    "fantraxId": "06v0g",
+    "team": "SUN",
+    "position": "D"
+  },
+  "03dwz": {
+    "rotowireId": 1840,
+    "name": "Heaton, Tom",
+    "fantraxId": "03dwz",
+    "team": "MUN",
+    "position": "G"
+  },
+  "05akv": {
+    "rotowireId": 30835,
+    "name": "Mitchell, Tyrick",
+    "fantraxId": "05akv",
+    "team": "CRY",
+    "position": "D"
+  },
+  "076qg": {
+    "rotowireId": 44878,
+    "name": "Munoz, Victor",
+    "fantraxId": "076qg",
+    "team": "LIV",
+    "position": "F"
+  },
+  "05ogb": {
+    "rotowireId": 34595,
+    "name": "Elanga, Anthony",
+    "fantraxId": "05ogb",
+    "team": "NEW",
+    "position": "F"
+  },
+  "06clt": {
+    "rotowireId": 26103,
+    "name": "Kluivert, Justin",
+    "fantraxId": "06clt",
+    "team": "BOU",
+    "position": "F"
+  },
+  "06v0c": {
+    "name": "Lacey, Shea",
+    "fantraxId": "06v0c",
+    "team": "MUN",
+    "position": "F"
+  },
+  "06yxe": {
+    "rotowireId": 46795,
+    "name": "Estevao",
+    "fantraxId": "06yxe",
+    "team": "CHE",
+    "position": "F"
+  },
+  "078ud": {
+    "rotowireId": 33528,
+    "name": "Dedic, Amar",
+    "fantraxId": "078ud",
+    "team": "NEW",
+    "position": "D"
+  },
+  "06v0a": {
+    "rotowireId": 47569,
+    "name": "Tyler Fletcher",
+    "fantraxId": "06v0a",
+    "team": "MUN",
+    "position": "M"
+  },
+  "06yxc": {
+    "name": "Mahady, Rory",
+    "fantraxId": "06yxc",
+    "team": "LEE",
+    "position": "G"
+  },
+  "06yxd": {
+    "name": "Chadwick, Rhys",
+    "fantraxId": "06yxd",
+    "team": "LEE",
+    "position": "M"
+  },
+  "05wwd": {
+    "name": "Wilson-Esbrand, Joshua",
+    "fantraxId": "05wwd",
+    "team": "MCI",
+    "position": "D"
+  },
+  "070f9": {
+    "rotowireId": 34088,
+    "name": "Pino, Yeremy",
+    "fantraxId": "070f9",
+    "team": "CRY",
+    "position": "M"
+  },
+  "04f6o": {
+    "rotowireId": 17306,
+    "name": "Hughes, Will",
+    "fantraxId": "04f6o",
+    "team": "CRY",
+    "position": "M"
+  },
+  "110070#5040": {
+    "teamName": "Liverpool",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110070#5040",
+    "teamShortName": "LIV",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "07849": {
+    "name": "Rodriguez, Alvaro",
+    "fantraxId": "07849",
+    "team": "BOU",
+    "position": "F"
+  },
+  "05tr9": {
+    "rotowireId": 25973,
+    "name": "Jensen, Mathias",
+    "fantraxId": "05tr9",
+    "team": "BRF",
+    "position": "M"
+  },
+  "02lk5": {
+    "rotowireId": 16186,
+    "name": "Henderson, Jordan",
+    "fantraxId": "02lk5",
+    "team": "CHE",
+    "position": "M"
+  },
+  "04f6h": {
+    "rotowireId": 19220,
+    "name": "Sels, Matz",
+    "fantraxId": "04f6h",
+    "team": "NOT",
+    "position": "G"
+  },
+  "07847": {
+    "name": "Cisse, Modou",
+    "fantraxId": "07847",
+    "team": "AVL",
+    "position": "D"
+  },
+  "072j3": {
+    "rotowireId": 47577,
+    "name": "Alysson",
+    "fantraxId": "072j3",
+    "team": "AVL",
+    "position": "F"
+  },
+  "110067#5040": {
+    "teamName": "Hull City",
+    "name": "Team Goalkeepers",
+    "fantraxId": "110067#5040",
+    "teamShortName": "HUL",
+    "position": "TmG",
+    "shortName": "TG"
+  },
+  "05tr8": {
+    "rotowireId": 26355,
+    "name": "Norgaard, Christian",
+    "fantraxId": "05tr8",
+    "team": "EVE",
+    "position": "M"
+  },
+  "07848": {
+    "rotowireId": 44680,
+    "name": "Manzambi, Johan",
+    "fantraxId": "07848",
+    "team": "AVL",
+    "position": "M"
+  },
+  "05oh0": {
+    "rotowireId": 33114,
+    "name": "van Hecke, Jan-Paul",
+    "fantraxId": "05oh0",
+    "team": "TOT",
+    "position": "D"
+  },
+  "02oq6": {
+    "rotowireId": 16889,
+    "name": "Shaw, Luke",
+    "fantraxId": "02oq6",
+    "team": "MUN",
+    "position": "D"
+  },
+  "110080#5030": {
+    "teamName": "Manchester City",
+    "name": "Team Outfielder",
+    "fantraxId": "110080#5030",
+    "teamShortName": "MCI",
+    "position": "TmOF",
+    "shortName": "TOF"
+  },
+  "050jq": {
+    "rotowireId": 29892,
+    "name": "Guehi, Marc",
+    "fantraxId": "050jq",
+    "team": "MCI",
+    "position": "D"
+  },
+  "05tr1": {
+    "rotowireId": 31322,
+    "name": "Pinnock, Ethan",
+    "fantraxId": "05tr1",
+    "team": "COV",
+    "position": "D"
+  },
+  "04vy4": {
+    "rotowireId": 27914,
+    "name": "Travers, Mark",
+    "fantraxId": "04vy4",
+    "team": "EVE",
+    "position": "G"
+  },
+  "0794n": {
+    "rotowireId": 33418,
+    "name": "Azeez, Femi",
+    "fantraxId": "0794n",
+    "team": "BHA",
+    "position": "F"
+  },
+  "064oo": {
+    "rotowireId": 38446,
+    "name": "Cozier-Duberry, Amario",
+    "fantraxId": "064oo",
+    "team": "BHA",
+    "position": "M"
+  },
+  "068y0": {
+    "rotowireId": 33148,
+    "name": "Semenyo, Antoine",
+    "fantraxId": "068y0",
+    "team": "MCI",
+    "position": "F"
+  },
+  "0794m": {
+    "rotowireId": 37907,
+    "name": "Timber, Quinten",
+    "fantraxId": "0794m",
+    "team": "CRY",
+    "position": "M"
+  },
+  "0794j": {
+    "rotowireId": 40953,
+    "name": "Fofana, Malick",
+    "fantraxId": "0794j",
+    "team": "SUN",
+    "position": "F"
+  },
+  "06do9": {
+    "rotowireId": 35296,
+    "name": "Kerkez, Milos",
+    "fantraxId": "06do9",
+    "team": "LIV",
+    "position": "D"
+  },
+  "0794k": {
+    "rotowireId": 50517,
+    "name": "Angulo, Juan",
+    "fantraxId": "0794k",
+    "team": "SUN",
+    "position": "F"
+  },
+  "0794h": {
+    "rotowireId": 34402,
+    "name": "Thomas, Sorba",
+    "fantraxId": "0794h",
+    "team": "HUL",
+    "position": "F"
+  },
+  "0794i": {
+    "rotowireId": 37006,
+    "name": "Bahoya, Jean-Matteo",
+    "fantraxId": "0794i",
+    "team": "LEE",
+    "position": "F"
+  },
+  "0794f": {
+    "rotowireId": 37689,
+    "name": "Affengruber, David",
+    "fantraxId": "0794f",
+    "team": "FUL",
+    "position": "D"
+  },
+  "06cm4": {
+    "rotowireId": 33271,
+    "name": "Ogbene, Chiedozie",
+    "fantraxId": "06cm4",
+    "team": "IPS",
+    "position": "F"
+  },
+  "0794g": {
+    "rotowireId": 44559,
+    "name": "Mouzakitis, Christos",
+    "fantraxId": "0794g",
+    "team": "HUL",
+    "position": "M"
+  },
+  "0794d": {
+    "rotowireId": 44858,
+    "name": "Chema Andres",
+    "fantraxId": "0794d",
+    "team": "BHA",
+    "position": "M"
+  },
+  "066sd": {
+    "rotowireId": 40827,
+    "name": "Lewis-Skelly, Myles",
+    "fantraxId": "066sd",
+    "team": "ARS",
+    "position": "D"
+  },
+  "06do3": {
+    "rotowireId": 39937,
+    "name": "McConnell, James",
+    "fantraxId": "06do3",
+    "team": "LIV",
+    "position": "M"
+  },
+  "0794e": {
+    "rotowireId": 44533,
+    "name": "Osorio, Dario",
+    "fantraxId": "0794e",
+    "team": "CRY",
+    "position": "M"
+  },
+  "06do4": {
+    "rotowireId": 39938,
+    "name": "Koumas, Louie",
+    "fantraxId": "06do4",
+    "team": "LIV",
+    "position": "F"
+  },
+  "0794b": {
+    "rotowireId": 44942,
+    "name": "Vaz, Robinio",
+    "fantraxId": "0794b",
+    "team": "HUL",
+    "position": "F"
+  },
+  "0794c": {
+    "rotowireId": 29668,
+    "name": "Bard, Melvin",
+    "fantraxId": "0794c",
+    "team": "LEE",
+    "position": "D"
+  },
+  "06cm1": {
+    "rotowireId": 35956,
+    "name": "Jackson, Nicolas",
+    "fantraxId": "06cm1",
+    "team": "AVL",
+    "position": "F"
+  }
+}

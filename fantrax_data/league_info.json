@@ -1,0 +1,8131 @@
+{
+  "matchups": [
+    {
+      "period": 1,
+      "matchupList": [
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        }
+      ]
+    },
+    {
+      "period": 2,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        }
+      ]
+    },
+    {
+      "period": 3,
+      "matchupList": [
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        }
+      ]
+    },
+    {
+      "period": 4,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        }
+      ]
+    },
+    {
+      "period": 5,
+      "matchupList": [
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 7,
+      "matchupList": [
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        }
+      ]
+    },
+    {
+      "period": 8,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        }
+      ]
+    },
+    {
+      "period": 9,
+      "matchupList": [
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 10,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 11,
+      "matchupList": [
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        }
+      ]
+    },
+    {
+      "period": 12,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        }
+      ]
+    },
+    {
+      "period": 13,
+      "matchupList": [
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        }
+      ]
+    },
+    {
+      "period": 14,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        }
+      ]
+    },
+    {
+      "period": 15,
+      "matchupList": [
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        }
+      ]
+    },
+    {
+      "period": 16,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        }
+      ]
+    },
+    {
+      "period": 17,
+      "matchupList": [
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        }
+      ]
+    },
+    {
+      "period": 18,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        }
+      ]
+    },
+    {
+      "period": 19,
+      "matchupList": [
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        }
+      ]
+    },
+    {
+      "period": 20,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        }
+      ]
+    },
+    {
+      "period": 21,
+      "matchupList": [
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        }
+      ]
+    },
+    {
+      "period": 22,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        }
+      ]
+    },
+    {
+      "period": 23,
+      "matchupList": [
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        }
+      ]
+    },
+    {
+      "period": 24,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        }
+      ]
+    },
+    {
+      "period": 25,
+      "matchupList": [
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        }
+      ]
+    },
+    {
+      "period": 26,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        }
+      ]
+    },
+    {
+      "period": 27,
+      "matchupList": [
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        }
+      ]
+    },
+    {
+      "period": 28,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        }
+      ]
+    },
+    {
+      "period": 29,
+      "matchupList": [
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        }
+      ]
+    },
+    {
+      "period": 30,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        }
+      ]
+    },
+    {
+      "period": 31,
+      "matchupList": [
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 32,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 33,
+      "matchupList": [
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        }
+      ]
+    },
+    {
+      "period": 34,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        }
+      ]
+    },
+    {
+      "period": 35,
+      "matchupList": [
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          }
+        },
+        {
+          "away": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          },
+          "home": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          }
+        },
+        {
+          "away": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          },
+          "home": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          }
+        },
+        {
+          "away": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          },
+          "home": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          }
+        },
+        {
+          "away": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          },
+          "home": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          }
+        },
+        {
+          "away": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          },
+          "home": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          }
+        },
+        {
+          "away": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 36,
+      "matchupList": [
+        {
+          "away": {
+            "name": "kms361657",
+            "id": "ril8ciadmt04vx0l",
+            "shortName": "kms36165"
+          },
+          "home": {
+            "name": "moonbape",
+            "id": "oi40p2iymt059qby",
+            "shortName": "moonbape"
+          }
+        },
+        {
+          "away": {
+            "name": "Parapara123",
+            "id": "1sus3firmt070mdn",
+            "shortName": "Parapara"
+          },
+          "home": {
+            "name": "yeseong",
+            "id": "6x7ow4qcmt0zjt4n",
+            "shortName": "yeseong"
+          }
+        },
+        {
+          "away": {
+            "name": "soundwave134",
+            "id": "5r1c15nxmt05egzg",
+            "shortName": "soundwav"
+          },
+          "home": {
+            "name": "hwoojo",
+            "id": "u4gyh7r5mt14pty3",
+            "shortName": "hwoojo"
+          }
+        },
+        {
+          "away": {
+            "name": "Kangte",
+            "id": "m2wdonermt15132j",
+            "shortName": "Kangte"
+          },
+          "home": {
+            "name": "KurtZuna",
+            "id": "s2bvo3ebmt14wjvp",
+            "shortName": "KurtZuna"
+          }
+        },
+        {
+          "away": {
+            "name": "eunho",
+            "id": "pje1yzfgmt04th4u",
+            "shortName": "eunho"
+          },
+          "home": {
+            "name": "GloryMang",
+            "id": "a20htiwamt05ikfr",
+            "shortName": "GloryMan"
+          }
+        },
+        {
+          "away": {
+            "name": "DJSoccerKing",
+            "id": "ct1s1zwcmt19vbyl",
+            "shortName": "DJSoccer"
+          },
+          "home": {
+            "name": "Young FC",
+            "id": "3k1hj6a4msx9e1y1",
+            "shortName": "Young060"
+          }
+        },
+        {
+          "away": {
+            "name": "moonland",
+            "id": "tuptxs8ymt1littl",
+            "shortName": "moonland"
+          },
+          "home": {
+            "name": "SYnaldo",
+            "id": "wq6widptmt052is7",
+            "shortName": "SYnaldo"
+          }
+        }
+      ]
+    },
+    {
+      "period": 37,
+      "matchupList": [
+        {
+          "away": {
+            "seed": 4
+          },
+          "home": {
+            "seed": 1
+          }
+        },
+        {
+          "away": {
+            "seed": 3
+          },
+          "home": {
+            "seed": 2
+          }
+        }
+      ]
+    },
+    {
+      "period": 38,
+      "matchupList": [
+        {
+          "away": {
+            "TBD": true
+          },
+          "home": {
+            "TBD": true
+          }
+        }
+      ]
+    }
+  ],
+  "rosterInfo": {
+    "positionConstraints": {
+      "D": {
+        "maxActive": 5
+      },
+      "F": {
+        "maxActive": 3
+      },
+      "G": {
+        "maxActive": 1
+      },
+      "M": {
+        "maxActive": 5
+      }
+    },
+    "maxTotalPlayers": 16,
+    "maxTotalActivePlayers": 11,
+    "maxTotalReservePlayers": 5
+  },
+  "endDate": "2027-05-30",
+  "playerInfo": {
+    "075zi": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "02m5b": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "07app": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07apq": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07apn": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "07apo": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06onv": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06uzy": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05os8": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "02ltw": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06uzw": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "04lnu": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06uzu": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05os4": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06uzv": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "062x7": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04mr4": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06uzt": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "06uzo": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "045c8": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04rzl": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06r2g": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "04ge6": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04ge9": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "04ge8": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03jlw": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05nns": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06zbz": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06zbx": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06yb9": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "063y7": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06yb7": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06zbw": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05ye7": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05opl": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06ezb": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05opj": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05yct": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06zbp": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06zbn": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0635j": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05r4h": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06r5b": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05gcs": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06mn7": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05gcr": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06pry": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03p9y": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06jh3": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06prt": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "032aa": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06mn1": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03fgl": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03m3q": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05r94": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "03fgo": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "05a6e": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06mn0": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "061vp": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0626q": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "061vq": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "05gcc": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "061vk": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06jfe": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "061vn": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "063zi": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "061ve": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "061vb": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "061va": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06zef": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05n09": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06r3w": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "05n07": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06c6g": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0722t": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "057cr": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06ybq": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "02m5l": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "056as": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06ybp": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "072pc": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06mfy": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06ews": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0427d": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06ewn": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06ewm": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05omu": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05r34": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "03r93": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0414o": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04tzt": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "02lpf": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04p0d": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "02lpi": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06fxu": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06ex4": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06crm": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06crn": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06mg4": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06mg2": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05244": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0558w": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06fxe": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0328q": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "03rxs": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06fwz": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "0522h": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0788g": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "06zbm": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "02lsa": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06uyc": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06on5": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06ya6": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06zc8": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "068a0": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05ybq": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06f8y": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "068a1": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0646f": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "072py": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06qq8": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05t6z": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06qq9": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05t6x": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03r8x": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "02ls8": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06nk0": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06mgk": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06exa": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03rzp": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06mgd": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "078i7": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06msb": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06msc": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05uel": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "078gh": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "078gi": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078gf": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04fjz": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "078gg": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "03rec": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078gd": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078ge": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078gc": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03ysd": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "076d9": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078fy": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "078fz": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076d7": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05udw": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078fx": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05ylx": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076d6": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06p6j": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "076d3": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05uds": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05ylw": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "076d4": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076d1": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "076d0": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05ylj": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "03vlj": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06lox": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "05l27": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "04fk8": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06nu7": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06r9w": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "04fk1": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06r9x": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "072zs": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05ue7": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "072zr": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05oz3": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "072zp": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06mul": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "068n8": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "068lx": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06muk": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "049tq": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "052cb": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "052ce": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "052cd": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04abn": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06znb": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "052ca": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06zna": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "062a9": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "076dw": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05rb8": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "076dx": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076du": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076dv": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04abb": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "033l8": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "063c2": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "076dq": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "076dr": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078j4": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "076dn": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076dl": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076di": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06nvb": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "076dg": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078hi": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076dh": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078hj": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "076de": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "076df": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05l2z": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "076da": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "076db": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06fg0": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076cz": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "076cx": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "056iy": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "076cw": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05o8o": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "04xjr": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07a46": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06r7f": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "07a45": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05o4b": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "060wh": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "037mt": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05o4c": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "061ya": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0701y": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06r6s": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "06mnm": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04o82": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06mnn": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "061z3": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06yey": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "061z5": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "072wq": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "061xs": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "02lz0": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "03ksl": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "03m5h": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06mnc": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04ym7": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06mnd": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03m5i": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05r9b": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06avm": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06jgs": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04hk9": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0700u": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0639x": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "07ase": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06s7v": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0700t": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078az": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "072x7": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05nt6": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "061y6": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05o2p": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06s7r": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0700p": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06r5r": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06jgi": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05r8o": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06r5m": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06rwp": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078g4": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078g5": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03yqz": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05o6h": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "078g0": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06r9h": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05o6g": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078ei": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06klv": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "05n3v": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05n3u": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "02lzt": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07avb": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06mpp": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05ubv": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06p4l": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "032f9": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "06p4j": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04sat": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06p4k": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "0703h": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "064a0": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04yo7": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "065ao": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "079h0": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06ygl": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0703c": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06ygm": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04ug0": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "044ei": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05ubh": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "03yr0": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04yme": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06mow": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06igq": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04io4": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06195": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06r7l": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06kwp": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06rf9": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06y29": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "052k6": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06y27": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "062h7": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "063hu": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07918": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06y26": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05y55": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06eka": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "066nn": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07aa5": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "076ki": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "07aa4": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076kf": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "066ng": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "076kg": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03am7": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "076kd": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03pif": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "076ke": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "076kc": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "048xg": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06kx1": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05rfp": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "04agz": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05rff": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04ai5": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "038ze": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04qfz": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05l8q": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05rey": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05g2o": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "0477b": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "051k8": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "051k7": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06h1g": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05uox": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "04e1e": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "051k3": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "066r9": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "051k0": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "07933": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05ocl": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "05uor": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "07934": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04e1c": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "0791o": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07931": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0791p": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07932": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0791n": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "07930": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06zvn": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078qj": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "078qh": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078qi": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078qg": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04h87": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05unu": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05uns": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05748": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05xtr": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "04y92": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0790i": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04rh9": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "03yww": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06fhy": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "073ac": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "073ab": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04adp": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06mvz": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04gpx": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06l2r": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03gu5": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "03gu4": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06mx0": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "063e7": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05uht": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06ymt": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05uhs": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06ymu": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05rbn": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0372y": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05uhq": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06mve": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "05uhj": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04tig": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06kqy": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06zod": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05nzu": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06mw0": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "062du": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "072at": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04sjt": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "04qfq": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04sjv": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "04qfm": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06804": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06kue": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06zrs": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06zrq": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078ml": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078mm": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06ab3": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04rha": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06j20": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05m9r": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "062ct": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06l4i": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "052h5": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "02t13": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06zqq": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "052h1": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "062ci": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078lg": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078lh": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "078le": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03frx": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078lf": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05mzz": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "045ob": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "06nyw": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05mzt": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0786b": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06fup": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06phw": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "070gt": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "04qr9": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06phr": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "062p5": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "07877": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "062p1": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05w7t": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "062p0": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "062p3": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06rlj": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05oig": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "078wn": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0785l": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078wo": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "0785j": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06rlf": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078wl": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "06phe": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "078wm": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078wj": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0785h": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0410j": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06dpw": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078wk": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06fv8": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0785g": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0785d": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0785e": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "03ybi": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "05roa": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0785c": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0785a": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070h9": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0784y": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "02lm7": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05s08": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06rm7": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "063q8": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04mi4": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0784z": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06rm8": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "0784w": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "0784x": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04qos": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "04qor": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "0784v": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0784s": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0784t": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05s00": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "068yt": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0784r": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0784o": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05u40": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0784p": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0784l": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0784i": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0554i": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0784j": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "070fa": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06cmt": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06cmu": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "068ym": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05tre": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0784e": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0784f": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06cms": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0784c": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0554g": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06fy7": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0788a": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06ew2": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03yeg": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0788b": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "02lnx": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06fwn": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0521z": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "072o9": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06fwi": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0787y": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05nip": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "07898": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "067zv": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "072mp": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "07897": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "072mq": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06442": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05nil": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06rnn": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "02lp5": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "062pl": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05w9r": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0327r": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06xzp": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0666p": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06xzn": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05vyj": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "075sh": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078yh": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06xzi": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "078yi": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "062pa": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06xzg": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06xzd": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06xze": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06xzc": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06fvn": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06xza": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "062ow": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070hs": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "06y9z": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06rmv": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070hq": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "062ot": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070hr": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0326x": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0689w": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "02lo6": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "067yz": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "062op": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "070hn": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "072lp": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06v51": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "067yv": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06hze": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070hl": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "070hi": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070hj": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "05220": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "067ys": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06y9n": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06pig": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06y9o": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "05ojf": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "062oh": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06y9m": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "062og": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "070hc": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "0435m": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06fuw": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06pia": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "070ha": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070hb": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06pib": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0794a": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04tsb": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06dmj": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "0793y": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06v08": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0793w": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "07959": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06v07": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0793x": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04spw": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06v05": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06zxy": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "070cj": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06v00": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0793q": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06v01": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04u40": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "051kl": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0793o": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070ci": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0793p": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "04u41": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "04gyd": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05oeh": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0793n": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "051kg": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06y4g": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "03mga": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0793h": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05y7c": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04lav": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0792z": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06pe1": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "078t9": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "07948": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06y59": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "07949": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "043qy": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "078t8": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "07947": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "03v6t": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0792s": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "07942": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "05rjn": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07941": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06rgg": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "02oo1": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03mfe": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06zwj": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "078rd": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06kyw": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0784a": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "068yd": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05trb": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "0784b": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "068yc": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06fso": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06cmm": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "0687c": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070g8": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06nbu": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05tqz": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06v0x": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "070g7": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06v0y": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05tqx": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "072iu": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06v0w": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06v0t": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "07858": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "07859": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070eq": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "067x8": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "070eo": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06v0p": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "07852": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06v21": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05u1m": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06v0l": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07850": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06v0m": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05ogg": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06clz": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06v0k": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05y9n": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "06v0f": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "03dwz": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "06v0g": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "05akv": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "076qg": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "05ogb": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "06clt": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06v0c": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06yxe": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "078ud": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06v0a": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06yxc": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "05wwd": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "06yxd": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "070f9": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04f6o": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05tr9": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "07849": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "02lk5": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "04f6h": {
+      "eligiblePos": "G",
+      "status": "T"
+    },
+    "072j3": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "07847": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "05tr8": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "07848": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "05oh0": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "02oq6": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "050jq": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "05tr1": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "04vy4": {
+      "eligiblePos": "G",
+      "status": "WW"
+    },
+    "0794n": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "064oo": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "068y0": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "0794m": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06do9": {
+      "eligiblePos": "D",
+      "status": "T"
+    },
+    "0794j": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0794k": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0794h": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0794i": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06cm4": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0794f": {
+      "eligiblePos": "D",
+      "status": "WW"
+    },
+    "0794g": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "06do3": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "066sd": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0794d": {
+      "eligiblePos": "M",
+      "status": "T"
+    },
+    "06do4": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "0794e": {
+      "eligiblePos": "M",
+      "status": "WW"
+    },
+    "0794b": {
+      "eligiblePos": "F",
+      "status": "WW"
+    },
+    "06cm1": {
+      "eligiblePos": "F",
+      "status": "T"
+    },
+    "0794c": {
+      "eligiblePos": "D",
+      "status": "WW"
+    }
+  },
+  "poolSettings": {
+    "duplicatePlayerType": "NONE",
+    "playerSourceType": "ALL_TEAMS"
+  },
+  "rosterPeriods": [
+    {
+      "number": 1,
+      "endDate": "2026-08-28T14:59:58.0-0400",
+      "startDate": "2026-08-21T15:00:00.0-0400"
+    },
+    {
+      "number": 2,
+      "endDate": "2026-09-04T14:59:58.0-0400",
+      "startDate": "2026-08-28T15:00:00.0-0400"
+    },
+    {
+      "number": 3,
+      "endDate": "2026-09-11T05:59:58.0-0400",
+      "startDate": "2026-09-04T15:00:00.0-0400"
+    },
+    {
+      "number": 4,
+      "endDate": "2026-09-18T14:59:58.0-0400",
+      "startDate": "2026-09-11T06:00:00.0-0400"
+    },
+    {
+      "number": 5,
+      "endDate": "2026-10-09T05:59:58.0-0400",
+      "startDate": "2026-09-18T15:00:00.0-0400"
+    },
+    {
+      "number": 6,
+      "endDate": "2026-10-16T05:59:58.0-0400",
+      "startDate": "2026-10-09T06:00:00.0-0400"
+    },
+    {
+      "number": 7,
+      "endDate": "2026-10-23T14:59:58.0-0400",
+      "startDate": "2026-10-16T06:00:00.0-0400"
+    },
+    {
+      "number": 8,
+      "endDate": "2026-10-30T05:59:58.0-0400",
+      "startDate": "2026-10-23T15:00:00.0-0400"
+    },
+    {
+      "number": 9,
+      "endDate": "2026-11-06T14:59:58.0-0500",
+      "startDate": "2026-10-30T06:00:00.0-0400"
+    },
+    {
+      "number": 10,
+      "endDate": "2026-11-20T05:59:58.0-0500",
+      "startDate": "2026-11-06T15:00:00.0-0500"
+    },
+    {
+      "number": 11,
+      "endDate": "2026-11-27T14:59:58.0-0500",
+      "startDate": "2026-11-20T06:00:00.0-0500"
+    },
+    {
+      "number": 12,
+      "endDate": "2026-12-01T14:59:58.0-0500",
+      "startDate": "2026-11-27T15:00:00.0-0500"
+    },
+    {
+      "number": 13,
+      "endDate": "2026-12-04T05:59:58.0-0500",
+      "startDate": "2026-12-01T15:00:00.0-0500"
+    },
+    {
+      "number": 14,
+      "endDate": "2026-12-11T05:59:58.0-0500",
+      "startDate": "2026-12-04T06:00:00.0-0500"
+    },
+    {
+      "number": 15,
+      "endDate": "2026-12-18T05:59:58.0-0500",
+      "startDate": "2026-12-11T06:00:00.0-0500"
+    },
+    {
+      "number": 16,
+      "endDate": "2026-12-25T05:59:58.0-0500",
+      "startDate": "2026-12-18T06:00:00.0-0500"
+    },
+    {
+      "number": 17,
+      "endDate": "2026-12-29T14:29:58.0-0500",
+      "startDate": "2026-12-25T06:00:00.0-0500"
+    },
+    {
+      "number": 18,
+      "endDate": "2027-01-01T14:59:58.0-0500",
+      "startDate": "2026-12-29T14:30:00.0-0500"
+    },
+    {
+      "number": 19,
+      "endDate": "2027-01-05T14:29:58.0-0500",
+      "startDate": "2027-01-01T15:00:00.0-0500"
+    },
+    {
+      "number": 20,
+      "endDate": "2027-01-15T05:59:58.0-0500",
+      "startDate": "2027-01-05T14:30:00.0-0500"
+    },
+    {
+      "number": 21,
+      "endDate": "2027-01-22T05:59:58.0-0500",
+      "startDate": "2027-01-15T06:00:00.0-0500"
+    },
+    {
+      "number": 22,
+      "endDate": "2027-01-29T05:59:58.0-0500",
+      "startDate": "2027-01-22T06:00:00.0-0500"
+    },
+    {
+      "number": 23,
+      "endDate": "2027-02-05T05:59:58.0-0500",
+      "startDate": "2027-01-29T06:00:00.0-0500"
+    },
+    {
+      "number": 24,
+      "endDate": "2027-02-09T05:59:58.0-0500",
+      "startDate": "2027-02-05T06:00:00.0-0500"
+    },
+    {
+      "number": 25,
+      "endDate": "2027-02-19T05:59:58.0-0500",
+      "startDate": "2027-02-09T06:00:00.0-0500"
+    },
+    {
+      "number": 26,
+      "endDate": "2027-02-26T05:59:58.0-0500",
+      "startDate": "2027-02-19T06:00:00.0-0500"
+    },
+    {
+      "number": 27,
+      "endDate": "2027-03-02T05:59:58.0-0500",
+      "startDate": "2027-02-26T06:00:00.0-0500"
+    },
+    {
+      "number": 28,
+      "endDate": "2027-03-12T05:59:58.0-0500",
+      "startDate": "2027-03-02T06:00:00.0-0500"
+    },
+    {
+      "number": 29,
+      "endDate": "2027-03-19T05:59:58.0-0400",
+      "startDate": "2027-03-12T06:00:00.0-0500"
+    },
+    {
+      "number": 30,
+      "endDate": "2027-04-09T05:59:58.0-0400",
+      "startDate": "2027-03-19T06:00:00.0-0400"
+    },
+    {
+      "number": 31,
+      "endDate": "2027-04-16T05:59:58.0-0400",
+      "startDate": "2027-04-09T06:00:00.0-0400"
+    },
+    {
+      "number": 32,
+      "endDate": "2027-04-23T05:59:58.0-0400",
+      "startDate": "2027-04-16T06:00:00.0-0400"
+    },
+    {
+      "number": 33,
+      "endDate": "2027-04-30T05:59:58.0-0400",
+      "startDate": "2027-04-23T06:00:00.0-0400"
+    },
+    {
+      "number": 34,
+      "endDate": "2027-05-07T05:59:58.0-0400",
+      "startDate": "2027-04-30T06:00:00.0-0400"
+    },
+    {
+      "number": 35,
+      "endDate": "2027-05-14T05:59:58.0-0400",
+      "startDate": "2027-05-07T06:00:00.0-0400"
+    },
+    {
+      "number": 36,
+      "endDate": "2027-05-21T05:59:58.0-0400",
+      "startDate": "2027-05-14T06:00:00.0-0400"
+    },
+    {
+      "number": 37,
+      "endDate": "2027-05-28T05:59:58.0-0400",
+      "startDate": "2027-05-21T06:00:00.0-0400"
+    },
+    {
+      "number": 38,
+      "endDate": "2027-05-31T05:59:58.0-0400",
+      "startDate": "2027-05-28T06:00:00.0-0400"
+    }
+  ],
+  "scoringPeriods": [
+    {
+      "number": 1,
+      "endDate": "2026-08-28T14:59:59.0-0400",
+      "startDate": "2026-08-21T15:00:00.0-0400"
+    },
+    {
+      "number": 2,
+      "endDate": "2026-09-04T14:59:59.0-0400",
+      "startDate": "2026-08-28T15:00:00.0-0400"
+    },
+    {
+      "number": 3,
+      "endDate": "2026-09-11T05:59:59.0-0400",
+      "startDate": "2026-09-04T15:00:00.0-0400"
+    },
+    {
+      "number": 4,
+      "endDate": "2026-09-18T14:59:59.0-0400",
+      "startDate": "2026-09-11T06:00:00.0-0400"
+    },
+    {
+      "number": 5,
+      "endDate": "2026-10-09T05:59:59.0-0400",
+      "startDate": "2026-09-18T15:00:00.0-0400"
+    },
+    {
+      "number": 6,
+      "endDate": "2026-10-16T05:59:59.0-0400",
+      "startDate": "2026-10-09T06:00:00.0-0400"
+    },
+    {
+      "number": 7,
+      "endDate": "2026-10-23T14:59:59.0-0400",
+      "startDate": "2026-10-16T06:00:00.0-0400"
+    },
+    {
+      "number": 8,
+      "endDate": "2026-10-30T05:59:59.0-0400",
+      "startDate": "2026-10-23T15:00:00.0-0400"
+    },
+    {
+      "number": 9,
+      "endDate": "2026-11-06T14:59:59.0-0500",
+      "startDate": "2026-10-30T06:00:00.0-0400"
+    },
+    {
+      "number": 10,
+      "endDate": "2026-11-20T05:59:59.0-0500",
+      "startDate": "2026-11-06T15:00:00.0-0500"
+    },
+    {
+      "number": 11,
+      "endDate": "2026-11-27T14:59:59.0-0500",
+      "startDate": "2026-11-20T06:00:00.0-0500"
+    },
+    {
+      "number": 12,
+      "endDate": "2026-12-01T14:59:59.0-0500",
+      "startDate": "2026-11-27T15:00:00.0-0500"
+    },
+    {
+      "number": 13,
+      "endDate": "2026-12-04T05:59:59.0-0500",
+      "startDate": "2026-12-01T15:00:00.0-0500"
+    },
+    {
+      "number": 14,
+      "endDate": "2026-12-11T05:59:59.0-0500",
+      "startDate": "2026-12-04T06:00:00.0-0500"
+    },
+    {
+      "number": 15,
+      "endDate": "2026-12-18T05:59:59.0-0500",
+      "startDate": "2026-12-11T06:00:00.0-0500"
+    },
+    {
+      "number": 16,
+      "endDate": "2026-12-25T05:59:59.0-0500",
+      "startDate": "2026-12-18T06:00:00.0-0500"
+    },
+    {
+      "number": 17,
+      "endDate": "2026-12-29T14:29:59.0-0500",
+      "startDate": "2026-12-25T06:00:00.0-0500"
+    },
+    {
+      "number": 18,
+      "endDate": "2027-01-01T14:59:59.0-0500",
+      "startDate": "2026-12-29T14:30:00.0-0500"
+    },
+    {
+      "number": 19,
+      "endDate": "2027-01-05T14:29:59.0-0500",
+      "startDate": "2027-01-01T15:00:00.0-0500"
+    },
+    {
+      "number": 20,
+      "endDate": "2027-01-15T05:59:59.0-0500",
+      "startDate": "2027-01-05T14:30:00.0-0500"
+    },
+    {
+      "number": 21,
+      "endDate": "2027-01-22T05:59:59.0-0500",
+      "startDate": "2027-01-15T06:00:00.0-0500"
+    },
+    {
+      "number": 22,
+      "endDate": "2027-01-29T05:59:59.0-0500",
+      "startDate": "2027-01-22T06:00:00.0-0500"
+    },
+    {
+      "number": 23,
+      "endDate": "2027-02-05T05:59:59.0-0500",
+      "startDate": "2027-01-29T06:00:00.0-0500"
+    },
+    {
+      "number": 24,
+      "endDate": "2027-02-09T05:59:59.0-0500",
+      "startDate": "2027-02-05T06:00:00.0-0500"
+    },
+    {
+      "number": 25,
+      "endDate": "2027-02-19T05:59:59.0-0500",
+      "startDate": "2027-02-09T06:00:00.0-0500"
+    },
+    {
+      "number": 26,
+      "endDate": "2027-02-26T05:59:59.0-0500",
+      "startDate": "2027-02-19T06:00:00.0-0500"
+    },
+    {
+      "number": 27,
+      "endDate": "2027-03-02T05:59:59.0-0500",
+      "startDate": "2027-02-26T06:00:00.0-0500"
+    },
+    {
+      "number": 28,
+      "endDate": "2027-03-12T05:59:59.0-0500",
+      "startDate": "2027-03-02T06:00:00.0-0500"
+    },
+    {
+      "number": 29,
+      "endDate": "2027-03-19T05:59:59.0-0400",
+      "startDate": "2027-03-12T06:00:00.0-0500"
+    },
+    {
+      "number": 30,
+      "endDate": "2027-04-09T05:59:59.0-0400",
+      "startDate": "2027-03-19T06:00:00.0-0400"
+    },
+    {
+      "number": 31,
+      "endDate": "2027-04-16T05:59:59.0-0400",
+      "startDate": "2027-04-09T06:00:00.0-0400"
+    },
+    {
+      "number": 32,
+      "endDate": "2027-04-23T05:59:59.0-0400",
+      "startDate": "2027-04-16T06:00:00.0-0400"
+    },
+    {
+      "number": 33,
+      "endDate": "2027-04-30T05:59:59.0-0400",
+      "startDate": "2027-04-23T06:00:00.0-0400"
+    },
+    {
+      "number": 34,
+      "endDate": "2027-05-07T05:59:59.0-0400",
+      "startDate": "2027-04-30T06:00:00.0-0400"
+    },
+    {
+      "number": 35,
+      "endDate": "2027-05-14T05:59:59.0-0400",
+      "startDate": "2027-05-07T06:00:00.0-0400"
+    },
+    {
+      "number": 36,
+      "endDate": "2027-05-21T05:59:59.0-0400",
+      "startDate": "2027-05-14T06:00:00.0-0400"
+    },
+    {
+      "number": 37,
+      "endDate": "2027-05-28T05:59:59.0-0400",
+      "startDate": "2027-05-21T06:00:00.0-0400"
+    },
+    {
+      "number": 38,
+      "endDate": "2027-05-31T05:59:59.0-0400",
+      "startDate": "2027-05-28T06:00:00.0-0400"
+    }
+  ],
+  "teamInfo": {
+    "tuptxs8ymt1littl": {
+      "name": "moonland",
+      "id": "tuptxs8ymt1littl"
+    },
+    "5r1c15nxmt05egzg": {
+      "name": "soundwave134",
+      "id": "5r1c15nxmt05egzg"
+    },
+    "3k1hj6a4msx9e1y1": {
+      "name": "Young FC",
+      "id": "3k1hj6a4msx9e1y1"
+    },
+    "pje1yzfgmt04th4u": {
+      "name": "eunho",
+      "id": "pje1yzfgmt04th4u"
+    },
+    "a20htiwamt05ikfr": {
+      "name": "GloryMang",
+      "id": "a20htiwamt05ikfr"
+    },
+    "wq6widptmt052is7": {
+      "name": "SYnaldo",
+      "id": "wq6widptmt052is7"
+    },
+    "m2wdonermt15132j": {
+      "name": "Kangte",
+      "id": "m2wdonermt15132j"
+    },
+    "ct1s1zwcmt19vbyl": {
+      "name": "DJSoccerKing",
+      "id": "ct1s1zwcmt19vbyl"
+    },
+    "ril8ciadmt04vx0l": {
+      "name": "kms361657",
+      "id": "ril8ciadmt04vx0l"
+    },
+    "oi40p2iymt059qby": {
+      "name": "moonbape",
+      "id": "oi40p2iymt059qby"
+    },
+    "1sus3firmt070mdn": {
+      "name": "Parapara123",
+      "id": "1sus3firmt070mdn"
+    },
+    "6x7ow4qcmt0zjt4n": {
+      "name": "yeseong",
+      "id": "6x7ow4qcmt0zjt4n"
+    },
+    "u4gyh7r5mt14pty3": {
+      "name": "hwoojo",
+      "id": "u4gyh7r5mt14pty3"
+    },
+    "s2bvo3ebmt14wjvp": {
+      "name": "KurtZuna",
+      "id": "s2bvo3ebmt14wjvp"
+    }
+  },
+  "draftType": "snake",
+  "draftSettings": {
+    "draftType": "snake"
+  },
+  "leagueName": "SSM Palbang League",
+  "scoringSystem": {
+    "scoringCategories": {
+      "NON_GOALIE": {
+        "AERL": {
+          "Default": "points-0.3"
+        },
+        "CoS": {
+          "F": "points2.5",
+          "Default": "points1"
+        },
+        "CLO": {
+          "Default": "points1"
+        },
+        "G": {
+          "D": "points8",
+          "F": "points12",
+          "Default": "points9"
+        },
+        "CLR": {
+          "Default": "points0.25"
+        },
+        "DL": {
+          "Default": "points-0.5"
+        },
+        "LBA": {
+          "Default": "points0.7",
+          "M": "points1"
+        },
+        "YC": {
+          "Default": "points-0.5"
+        },
+        "DP": {
+          "Default": "points-1"
+        },
+        "FS": {
+          "F": "points1",
+          "Default": "points0.5"
+        },
+        "Int": {
+          "Default": "points1"
+        },
+        "BR": {
+          "Default": "points1",
+          "M": "points1.3"
+        },
+        "BS": {
+          "F": "points1.5",
+          "Default": "points1"
+        },
+        "DW": {
+          "Default": "points0.5"
+        },
+        "TLM": {
+          "Default": "points1"
+        },
+        "OG": {
+          "Default": "points-5"
+        },
+        "ErG": {
+          "Default": "points-3"
+        },
+        "Tu": {
+          "Default": "points-0.5"
+        },
+        "TkW": {
+          "Default": "points0.5"
+        },
+        "AC": {
+          "Default": "points0.3"
+        },
+        "BCC": {
+          "Default": "points2"
+        },
+        "MP": {
+          "Default": "points0",
+          "M": "points0.4"
+        },
+        "KP": {
+          "Default": "points2",
+          "M": "points1"
+        },
+        "ErS": {
+          "Default": "points-0.5"
+        },
+        "PKD": {
+          "Default": "points3"
+        },
+        "SFTP": {
+          "Default": "points0.1"
+        },
+        "BCM": {
+          "F": "points-5",
+          "Default": "points-3"
+        },
+        "AER": {
+          "D": "points1",
+          "F": "points1.4",
+          "Default": "points0.5"
+        },
+        "DIS": {
+          "Default": "points-0.5"
+        },
+        "AP": {
+          "D": "points0.007",
+          "Default": "points0.01",
+          "M": "points0.02"
+        },
+        "CS": {
+          "F": "points2",
+          "Default": "points5",
+          "M": "points3"
+        },
+        "PA": {
+          "D": "points0.003",
+          "Default": "points0.005"
+        },
+        "RC": {
+          "Default": "points-7"
+        },
+        "Min": {
+          "Default": "points0"
+        },
+        "PKM": {
+          "Default": "points-5"
+        },
+        "AT": {
+          "D": "points5",
+          "F": "points7",
+          "Default": "points6"
+        },
+        "GAO": {
+          "D": "range0|1|0|NULL$2|99|-2|1.0",
+          "Default": "points0"
+        },
+        "SOT": {
+          "F": "points3",
+          "Default": "points2"
+        }
+      },
+      "GOALIE": {
+        "CoS": {
+          "Default": "points1"
+        },
+        "G": {
+          "Default": "points10"
+        },
+        "CLR": {
+          "Default": "points0.25"
+        },
+        "LBA": {
+          "Default": "points0.01"
+        },
+        "YC": {
+          "Default": "points-2"
+        },
+        "Int": {
+          "Default": "points1"
+        },
+        "OG": {
+          "Default": "points-5"
+        },
+        "GA": {
+          "Default": "range0|1|0|NULL$2|99|-2|1.0"
+        },
+        "ErG": {
+          "Default": "points-5"
+        },
+        "TkW": {
+          "Default": "points1"
+        },
+        "KP": {
+          "Default": "points2"
+        },
+        "Pu": {
+          "Default": "points0.1"
+        },
+        "ErS": {
+          "Default": "points-1"
+        },
+        "GS": {
+          "Default": "points0"
+        },
+        "AER": {
+          "Default": "points1"
+        },
+        "DIS": {
+          "Default": "points-0.3"
+        },
+        "AP": {
+          "Default": "points0.005"
+        },
+        "CS": {
+          "Default": "points6"
+        },
+        "RC": {
+          "Default": "points-7"
+        },
+        "SvOB": {
+          "Default": "points2"
+        },
+        "Min": {
+          "Default": "points0"
+        },
+        "AT": {
+          "Default": "points7"
+        },
+        "HCS": {
+          "Default": "points1"
+        },
+        "PKS": {
+          "Default": "points8"
+        },
+        "SOT": {
+          "Default": "points2"
+        },
+        "Sm": {
+          "Default": "points1"
+        },
+        "SvIB": {
+          "Default": "points4"
+        }
+      }
+    },
+    "scoringCategorySettings": [
+      {
+        "configs": [
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ASSISTS_ON_SHOTS",
+              "name": "Key Passes (Assists on Shots)",
+              "id": "6002",
+              "shortName": "KP"
+            },
+            "points": 2.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_AERIALS_WON",
+              "name": "Aerials Won",
+              "id": "6007",
+              "shortName": "AER"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_CLEARANCES_SUCCEEDED",
+              "name": "Effective Clearances",
+              "id": "6016",
+              "shortName": "CLR"
+            },
+            "points": 0.25
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_CONTESTS_SUCCEEDED",
+              "name": "Successful Dribbles (Contests Succeeded)",
+              "id": "6019",
+              "shortName": "CoS"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_DISPOSSESSED",
+              "name": "Dispossessed",
+              "id": "6039",
+              "shortName": "DIS"
+            },
+            "points": -0.3
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ERRORS_LED_TO_GOAL",
+              "name": "Errors Led to Goal",
+              "id": "6041",
+              "shortName": "ErG"
+            },
+            "points": -5.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_LONG_BALLS_ACCURATE",
+              "name": "Long Balls - Accurate",
+              "id": "6043",
+              "shortName": "LBA"
+            },
+            "points": 0.01
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ERRORS_LED_TO_SHOT",
+              "name": "Errors Led to Shot",
+              "id": "6044",
+              "shortName": "ErS"
+            },
+            "points": -1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS",
+              "name": "Goals",
+              "id": "6090",
+              "shortName": "G"
+            },
+            "points": 10.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS_ON_OWN_NET",
+              "name": "Own Goals",
+              "id": "6105",
+              "shortName": "OG"
+            },
+            "points": -5.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_INTERCEPTIONS",
+              "name": "Interceptions",
+              "id": "6108",
+              "shortName": "Int"
+            },
+            "points": 1.0
+          },
+          {
+            "ranges": [
+              {
+                "range": {
+                  "start": 0.0,
+                  "end": 1.0
+                },
+                "points": 0.0
+              },
+              {
+                "range": {
+                  "start": 2.0,
+                  "end": 99.0
+                },
+                "points": -2.0,
+                "interval": 1.0
+              }
+            ],
+            "rangeType": "PER_GAME",
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS_AGAINST",
+              "name": "Goals Against",
+              "id": "6112",
+              "shortName": "GA"
+            },
+            "points": 0.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_HIGH_CLAIMS_SUCCEEDED",
+              "name": "High Claims Succeeded",
+              "id": "6116",
+              "shortName": "HCS"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PASSES_ACCURATE",
+              "name": "Accurate Passes",
+              "id": "6136",
+              "shortName": "AP"
+            },
+            "points": 0.005
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PENALTY_KICK_SAVES",
+              "name": "Penalty Kick Saves",
+              "id": "6170",
+              "shortName": "PKS"
+            },
+            "points": 8.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PUNCHES",
+              "name": "Punches",
+              "id": "6185",
+              "shortName": "Pu"
+            },
+            "points": 0.1
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_RED_CARDS",
+              "name": "Red Cards",
+              "id": "6190",
+              "shortName": "RC"
+            },
+            "points": -7.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SAVES_INSIDE_BOX",
+              "name": "Saves Inside the Box",
+              "id": "6204",
+              "shortName": "SvIB"
+            },
+            "points": 4.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SAVES_OUTSIDE_BOX",
+              "name": "Saves Outside the Box",
+              "id": "6206",
+              "shortName": "SvOB"
+            },
+            "points": 2.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SHOTS_ON_GOAL",
+              "name": "Shots on Target",
+              "id": "6230",
+              "shortName": "SOT"
+            },
+            "points": 2.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SHUTOUTS_ON_FIELD",
+              "name": "Clean Sheets On Field",
+              "id": "6249",
+              "shortName": "CS"
+            },
+            "points": 6.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_TACKLES_WON",
+              "name": "Tackles Won",
+              "id": "6256",
+              "shortName": "TkW"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SMOTHERS",
+              "name": "Smothers",
+              "id": "6268",
+              "shortName": "Sm"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_YELLOW_CARDS",
+              "name": "Yellow Cards",
+              "id": "6280",
+              "shortName": "YC"
+            },
+            "points": -2.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ASSISTS_TOTAL",
+              "name": "Assists (Total)",
+              "id": "6362",
+              "shortName": "AT"
+            },
+            "points": 7.0
+          }
+        ],
+        "group": {
+          "code": "SOCCER_GOALIE",
+          "name": "Goalkeeper",
+          "id": "5020",
+          "shortName": "G"
+        }
+      },
+      {
+        "configs": [
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ASSISTS_ON_SHOTS",
+              "name": "Key Passes (Assists on Shots)",
+              "id": "6002",
+              "shortName": "KP"
+            },
+            "points": 2.0
+          },
+          {
+            "position": {
+              "code": "MIDFIELDER",
+              "name": "Midfielder",
+              "id": "702",
+              "shortName": "M"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ASSISTS_ON_SHOTS",
+              "name": "Key Passes (Assists on Shots)",
+              "id": "6002",
+              "shortName": "KP"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_AERIALS_LOST",
+              "name": "Aerials Lost",
+              "id": "6003",
+              "shortName": "AERL"
+            },
+            "points": -0.3
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_BIG_CHANCES_CREATED",
+              "name": "Big Chances Created",
+              "id": "6004",
+              "shortName": "BCC"
+            },
+            "points": 2.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_BIG_CHANCES_MISSED",
+              "name": "Big Chances Missed",
+              "id": "6005",
+              "shortName": "BCM"
+            },
+            "points": -3.0
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_BIG_CHANCES_MISSED",
+              "name": "Big Chances Missed",
+              "id": "6005",
+              "shortName": "BCM"
+            },
+            "points": -5.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_AERIALS_WON",
+              "name": "Aerials Won",
+              "id": "6007",
+              "shortName": "AER"
+            },
+            "points": 0.5
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_AERIALS_WON",
+              "name": "Aerials Won",
+              "id": "6007",
+              "shortName": "AER"
+            },
+            "points": 1.4
+          },
+          {
+            "position": {
+              "code": "DEFENDER",
+              "name": "Defender",
+              "id": "703",
+              "shortName": "D"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_AERIALS_WON",
+              "name": "Aerials Won",
+              "id": "6007",
+              "shortName": "AER"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_BLOCKED_SHOTS",
+              "name": "Blocked Shots",
+              "id": "6009",
+              "shortName": "BS"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_BLOCKED_SHOTS",
+              "name": "Blocked Shots",
+              "id": "6009",
+              "shortName": "BS"
+            },
+            "points": 1.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_BALL_RECOVERIES",
+              "name": "Ball Recoveries",
+              "id": "600h",
+              "shortName": "BR"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "MIDFIELDER",
+              "name": "Midfielder",
+              "id": "702",
+              "shortName": "M"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_BALL_RECOVERIES",
+              "name": "Ball Recoveries",
+              "id": "600h",
+              "shortName": "BR"
+            },
+            "points": 1.3
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_CLEARANCES_OFFLINE",
+              "name": "Clearances Off Line",
+              "id": "6015",
+              "shortName": "CLO"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_CLEARANCES_SUCCEEDED",
+              "name": "Effective Clearances",
+              "id": "6016",
+              "shortName": "CLR"
+            },
+            "points": 0.25
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_CONTESTS_SUCCEEDED",
+              "name": "Successful Dribbles (Contests Succeeded)",
+              "id": "6019",
+              "shortName": "CoS"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_CONTESTS_SUCCEEDED",
+              "name": "Successful Dribbles (Contests Succeeded)",
+              "id": "6019",
+              "shortName": "CoS"
+            },
+            "points": 2.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_CROSSES_ACCURATE",
+              "name": "Accurate Crosses",
+              "id": "6031",
+              "shortName": "AC"
+            },
+            "points": 0.3
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_DANGEROUS_PLAYS",
+              "name": "Dangerous Plays",
+              "id": "6032",
+              "shortName": "DP"
+            },
+            "points": -1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_DUELS_LOST",
+              "name": "Duels Lost",
+              "id": "6037",
+              "shortName": "DL"
+            },
+            "points": -0.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_DUELS_WON",
+              "name": "Duels Won",
+              "id": "6038",
+              "shortName": "DW"
+            },
+            "points": 0.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_DISPOSSESSED",
+              "name": "Dispossessed",
+              "id": "6039",
+              "shortName": "DIS"
+            },
+            "points": -0.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ERRORS_LED_TO_GOAL",
+              "name": "Errors Led to Goal",
+              "id": "6041",
+              "shortName": "ErG"
+            },
+            "points": -3.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_LONG_BALLS_ACCURATE",
+              "name": "Long Balls - Accurate",
+              "id": "6043",
+              "shortName": "LBA"
+            },
+            "points": 0.7
+          },
+          {
+            "position": {
+              "code": "MIDFIELDER",
+              "name": "Midfielder",
+              "id": "702",
+              "shortName": "M"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_LONG_BALLS_ACCURATE",
+              "name": "Long Balls - Accurate",
+              "id": "6043",
+              "shortName": "LBA"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ERRORS_LED_TO_SHOT",
+              "name": "Errors Led to Shot",
+              "id": "6044",
+              "shortName": "ErS"
+            },
+            "points": -0.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_TURNOVERS",
+              "name": "Turnovers",
+              "id": "6045",
+              "shortName": "Tu"
+            },
+            "points": -0.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_FOULS_SUFFERED",
+              "name": "Fouls Suffered",
+              "id": "6050",
+              "shortName": "FS"
+            },
+            "points": 0.5
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_FOULS_SUFFERED",
+              "name": "Fouls Suffered",
+              "id": "6050",
+              "shortName": "FS"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS",
+              "name": "Goals",
+              "id": "6090",
+              "shortName": "G"
+            },
+            "points": 9.0
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS",
+              "name": "Goals",
+              "id": "6090",
+              "shortName": "G"
+            },
+            "points": 12.0
+          },
+          {
+            "position": {
+              "code": "DEFENDER",
+              "name": "Defender",
+              "id": "703",
+              "shortName": "D"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS",
+              "name": "Goals",
+              "id": "6090",
+              "shortName": "G"
+            },
+            "points": 8.0
+          },
+          {
+            "ranges": [
+              {
+                "range": {
+                  "start": 0.0,
+                  "end": 1.0
+                },
+                "points": 0.0
+              },
+              {
+                "range": {
+                  "start": 2.0,
+                  "end": 99.0
+                },
+                "points": -2.0,
+                "interval": 1.0
+              }
+            ],
+            "rangeType": "PER_GAME",
+            "position": {
+              "code": "DEFENDER",
+              "name": "Defender",
+              "id": "703",
+              "shortName": "D"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS_AGAINST_OUTFIELDERS",
+              "name": "Goals Against Outfielders ",
+              "id": "6101",
+              "shortName": "GAO"
+            },
+            "points": 0.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_GOALS_ON_OWN_NET",
+              "name": "Own Goals",
+              "id": "6105",
+              "shortName": "OG"
+            },
+            "points": -5.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_INTERCEPTIONS",
+              "name": "Interceptions",
+              "id": "6108",
+              "shortName": "Int"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PASSES",
+              "name": "Passes Attempted",
+              "id": "6135",
+              "shortName": "PA"
+            },
+            "points": 0.005
+          },
+          {
+            "position": {
+              "code": "DEFENDER",
+              "name": "Defender",
+              "id": "703",
+              "shortName": "D"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PASSES",
+              "name": "Passes Attempted",
+              "id": "6135",
+              "shortName": "PA"
+            },
+            "points": 0.003
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PASSES_ACCURATE",
+              "name": "Accurate Passes",
+              "id": "6136",
+              "shortName": "AP"
+            },
+            "points": 0.01
+          },
+          {
+            "position": {
+              "code": "MIDFIELDER",
+              "name": "Midfielder",
+              "id": "702",
+              "shortName": "M"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PASSES_ACCURATE",
+              "name": "Accurate Passes",
+              "id": "6136",
+              "shortName": "AP"
+            },
+            "points": 0.02
+          },
+          {
+            "position": {
+              "code": "DEFENDER",
+              "name": "Defender",
+              "id": "703",
+              "shortName": "D"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PASSES_ACCURATE",
+              "name": "Accurate Passes",
+              "id": "6136",
+              "shortName": "AP"
+            },
+            "points": 0.007
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PENALTY_KICKS_DRAWN",
+              "name": "Penalty Kicks Drawn",
+              "id": "6175",
+              "shortName": "PKD"
+            },
+            "points": 3.0
+          },
+          {
+            "position": {
+              "code": "MIDFIELDER",
+              "name": "Midfielder",
+              "id": "702",
+              "shortName": "M"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_MIDFIELDER_POINTS",
+              "name": "Midfielder Points",
+              "id": "6181",
+              "shortName": "MP"
+            },
+            "points": 0.4
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_RED_CARDS",
+              "name": "Red Cards",
+              "id": "6190",
+              "shortName": "RC"
+            },
+            "points": -7.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SHOTS_ON_GOAL",
+              "name": "Shots on Target",
+              "id": "6230",
+              "shortName": "SOT"
+            },
+            "points": 2.0
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SHOTS_ON_GOAL",
+              "name": "Shots on Target",
+              "id": "6230",
+              "shortName": "SOT"
+            },
+            "points": 3.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SHUTOUTS_ON_FIELD",
+              "name": "Clean Sheets On Field",
+              "id": "6249",
+              "shortName": "CS"
+            },
+            "points": 5.0
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SHUTOUTS_ON_FIELD",
+              "name": "Clean Sheets On Field",
+              "id": "6249",
+              "shortName": "CS"
+            },
+            "points": 2.0
+          },
+          {
+            "position": {
+              "code": "MIDFIELDER",
+              "name": "Midfielder",
+              "id": "702",
+              "shortName": "M"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SHUTOUTS_ON_FIELD",
+              "name": "Clean Sheets On Field",
+              "id": "6249",
+              "shortName": "CS"
+            },
+            "points": 3.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_TACKLES_WON",
+              "name": "Tackles Won",
+              "id": "6256",
+              "shortName": "TkW"
+            },
+            "points": 0.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_TACKLES_LAST_MAN",
+              "name": "Tackles - Last Man",
+              "id": "625g",
+              "shortName": "TLM"
+            },
+            "points": 1.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_SUCCESSFUL_FINAL_THIRD_PASSES",
+              "name": "Successful Final Third Passes",
+              "id": "625t",
+              "shortName": "SFTP"
+            },
+            "points": 0.1
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_YELLOW_CARDS",
+              "name": "Yellow Cards",
+              "id": "6280",
+              "shortName": "YC"
+            },
+            "points": -0.5
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_PENALTY_KICKS_MISSED",
+              "name": "Penalty Kicks Missed",
+              "id": "6332",
+              "shortName": "PKM"
+            },
+            "points": -5.0
+          },
+          {
+            "position": {
+              "code": "DEFAULT",
+              "name": "Default",
+              "id": "-1",
+              "shortName": "Default"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ASSISTS_TOTAL",
+              "name": "Assists (Total)",
+              "id": "6362",
+              "shortName": "AT"
+            },
+            "points": 6.0
+          },
+          {
+            "position": {
+              "code": "FORWARD",
+              "name": "Forward",
+              "id": "701",
+              "shortName": "F"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ASSISTS_TOTAL",
+              "name": "Assists (Total)",
+              "id": "6362",
+              "shortName": "AT"
+            },
+            "points": 7.0
+          },
+          {
+            "position": {
+              "code": "DEFENDER",
+              "name": "Defender",
+              "id": "703",
+              "shortName": "D"
+            },
+            "cumulative": true,
+            "scoringCategory": {
+              "code": "INDIVIDUAL_ASSISTS_TOTAL",
+              "name": "Assists (Total)",
+              "id": "6362",
+              "shortName": "AT"
+            },
+            "points": 5.0
+          }
+        ],
+        "group": {
+          "code": "SOCCER_NON_GOALIE",
+          "name": "Outfielder",
+          "id": "5010",
+          "shortName": "OF"
+        }
+      }
+    ],
+    "type": "HEAD_TO_HEAD_POINTS_BASED"
+  },
+  "seasonYear": 2026,
+  "startDate": "2026-08-21",
+  "playoffs": {
+    "lastRegularSeasonPeriod": 36,
+    "numPlayoffTeams": 4,
+    "firstPlayoffPeriod": 37,
+    "mergePlayoffPeriods": false,
+    "used": true
+  }
+}

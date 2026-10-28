@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-10-28T15:56:23+00:00",
+  "usedCachedData": false,
+  "warning": null,
+  "currentFantraxPeriod": 9,
+  "sources": {
+    "league_info": {
+      "path": "current/league_info.json",
+      "fetchedAt": "2026-10-28T15:56:23+00:00",
+      "url": "https://www.fantrax.com/fxea/general/getLeagueInfo?leagueId=kimrr80gmsx9e18z",
+      "cached": false
+    },
+    "rosters": {
+      "path": "current/team_rosters.json",
+      "fetchedAt": "2026-10-28T15:56:23+00:00",
+      "url": "https://www.fantrax.com/fxea/general/getTeamRosters?leagueId=kimrr80gmsx9e18z",
+      "cached": false
+    },
+    "standings": {
+      "path": "current/standings.json",
+      "fetchedAt": "2026-10-28T15:56:23+00:00",
+      "url": "https://www.fantrax.com/fxea/general/getStandings?leagueId=kimrr80gmsx9e18z",
+      "cached": false
+    },
+    "player_ids": {
+      "path": "current/player_ids.json",
+      "fetchedAt": "2026-10-28T15:56:23+00:00",
+      "url": "https://www.fantrax.com/fxea/general/getPlayerIds?sport=EPL",
+      "cached": false
+    },
+    "players": {
+      "path": "current/players_season.json",
+      "fetchedAt": "2026-10-28T15:56:23+00:00",
+      "url": "https://www.fantrax.com/fxpa/req?leagueId=kimrr80gmsx9e18z",
+      "cached": false
+    },
+    "next_matchups": {
+      "path": "current/next_matchups.json",
+      "fetchedAt": "2026-10-28T15:56:23+00:00",
+      "url": "https://www.fantrax.com/fxea/general/getMatchupScores?leagueId=kimrr80gmsx9e18z&period=9",
+      "cached": false
+    }
+  },
+  "errors": []
+}

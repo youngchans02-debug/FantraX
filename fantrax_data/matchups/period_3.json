@@ -1,0 +1,4557 @@
+{
+  "matchups": [
+    {
+      "away": {
+        "teamName": "SYnaldo",
+        "score": 146.22,
+        "gamesPlayed": 11,
+        "teamId": "wq6widptmt052is7"
+      },
+      "categories": [
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Games Started",
+          "shortName": "GS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": -2.0
+          },
+          "name": "Goals Against",
+          "shortName": "GA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Yellow Cards",
+          "shortName": "YC",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Red Cards",
+          "shortName": "RC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 6.0
+          },
+          "name": "Shots on Target",
+          "shortName": "SOT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Own Goals",
+          "shortName": "OG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "9",
+            "value": 9.0,
+            "points": 9.0
+          },
+          "name": "Interceptions",
+          "shortName": "Int",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Assists (Total)",
+          "shortName": "AT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 20.0
+          }
+        },
+        {
+          "away": {
+            "display": "924",
+            "value": 924.0,
+            "points": 0.0
+          },
+          "name": "Minutes Played",
+          "shortName": "Min",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "690",
+            "value": 690.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 8.0
+          },
+          "name": "Key Passes (Assists on Shots)",
+          "shortName": "KP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "16",
+            "value": 16.0,
+            "points": 27.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 2.0
+          },
+          "name": "High Claims Succeeded",
+          "shortName": "HCS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "12",
+            "value": 12.0,
+            "points": 6.0
+          },
+          "name": "Tackles Won",
+          "shortName": "TkW",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "7",
+            "value": 7.0,
+            "points": 3.5
+          }
+        },
+        {
+          "away": {
+            "display": "18",
+            "value": 18.0,
+            "points": 4.5
+          },
+          "name": "Effective Clearances",
+          "shortName": "CLR",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "13",
+            "value": 13.0,
+            "points": 3.25
+          }
+        },
+        {
+          "away": {
+            "display": "204",
+            "value": 204.0,
+            "points": 2.13
+          },
+          "name": "Accurate Passes",
+          "shortName": "AP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "297",
+            "value": 297.0,
+            "points": 3.94
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 9.0
+          },
+          "name": "Goals",
+          "shortName": "G",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 9.0
+          }
+        },
+        {
+          "away": {
+            "display": "27",
+            "value": 27.0,
+            "points": 29.2
+          },
+          "name": "Aerials Won",
+          "shortName": "AER",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "8",
+            "value": 8.0,
+            "points": 6.9
+          }
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": 14.0
+          },
+          "name": "Clean Sheets On Field",
+          "shortName": "CS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 10.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Smothers",
+          "shortName": "Sm",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": 7.0
+          },
+          "name": "Successful Dribbles (Contests Succeeded)",
+          "shortName": "CoS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "9",
+            "value": 9.0,
+            "points": 13.5
+          }
+        },
+        {
+          "away": {
+            "display": "19",
+            "value": 19.0,
+            "points": 9.76
+          },
+          "name": "Long Balls - Accurate",
+          "shortName": "LBA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "17",
+            "value": 17.0,
+            "points": 10.34
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Shot",
+          "shortName": "ErS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Goal",
+          "shortName": "ErG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": -3.0
+          },
+          "name": "Dispossessed",
+          "shortName": "DIS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "6",
+            "value": 6.0,
+            "points": -3.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kick Saves",
+          "shortName": "PKS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Saves Inside the Box",
+          "shortName": "SvIB",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 16.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Saves Outside the Box",
+          "shortName": "SvOB",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.1
+          },
+          "name": "Punches",
+          "shortName": "Pu",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.1
+          }
+        },
+        {
+          "away": {
+            "display": "12",
+            "value": 12.0,
+            "points": 8.0
+          },
+          "name": "Fouls Suffered",
+          "shortName": "FS",
+          "group": "Outfielder",
+          "home": {
+            "display": "7",
+            "value": 7.0,
+            "points": 4.5
+          }
+        },
+        {
+          "away": {
+            "display": "19",
+            "value": 19.0,
+            "points": -5.7
+          },
+          "name": "Aerials Lost",
+          "shortName": "AERL",
+          "group": "Outfielder",
+          "home": {
+            "display": "11",
+            "value": 11.0,
+            "points": -3.3
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": -8.0
+          },
+          "name": "Big Chances Missed",
+          "shortName": "BCM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Big Chances Created",
+          "shortName": "BCC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "253",
+            "value": 253.0,
+            "points": 1.03
+          },
+          "name": "Passes Attempted",
+          "shortName": "PA",
+          "group": "Outfielder",
+          "home": {
+            "display": "321",
+            "value": 321.0,
+            "points": 1.38
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Clearances Off Line",
+          "shortName": "CLO",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.0
+          },
+          "name": "Blocked Shots",
+          "shortName": "BS",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          }
+        },
+        {
+          "away": {
+            "display": "33",
+            "value": 33.0,
+            "points": 36.3
+          },
+          "name": "Ball Recoveries",
+          "shortName": "BR",
+          "group": "Outfielder",
+          "home": {
+            "display": "33",
+            "value": 33.0,
+            "points": 38.7
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Dangerous Plays",
+          "shortName": "DP",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.3
+          },
+          "name": "Accurate Crosses",
+          "shortName": "AC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 0.6
+          }
+        },
+        {
+          "away": {
+            "display": "55",
+            "value": 55.0,
+            "points": 5.5
+          },
+          "name": "Successful Final Third Passes",
+          "shortName": "SFTP",
+          "group": "Outfielder",
+          "home": {
+            "display": "77",
+            "value": 77.0,
+            "points": 7.7
+          }
+        },
+        {
+          "away": {
+            "display": "65",
+            "value": 65.0,
+            "points": 32.5
+          },
+          "name": "Duels Won",
+          "shortName": "DW",
+          "group": "Outfielder",
+          "home": {
+            "display": "36",
+            "value": 36.0,
+            "points": 18.0
+          }
+        },
+        {
+          "away": {
+            "display": "49",
+            "value": 49.0,
+            "points": -24.5
+          },
+          "name": "Duels Lost",
+          "shortName": "DL",
+          "group": "Outfielder",
+          "home": {
+            "display": "42",
+            "value": 42.0,
+            "points": -21.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Tackles - Last Man",
+          "shortName": "TLM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "19",
+            "value": 19.0,
+            "points": -9.5
+          },
+          "name": "Turnovers",
+          "shortName": "Tu",
+          "group": "Outfielder",
+          "home": {
+            "display": "18",
+            "value": 18.0,
+            "points": -9.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Drawn",
+          "shortName": "PKD",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Missed",
+          "shortName": "PKM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": -2.0
+          },
+          "name": "Goals Against Outfielders ",
+          "shortName": "GAO",
+          "group": "Outfielder",
+          "home": {
+            "display": "6",
+            "value": 6.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "65",
+            "value": 65.0,
+            "points": 7.6
+          },
+          "name": "Midfielder Points",
+          "shortName": "MP",
+          "group": "Outfielder",
+          "home": {
+            "display": "48",
+            "value": 48.0,
+            "points": 9.2
+          }
+        }
+      ],
+      "home": {
+        "teamName": "kms361657",
+        "score": 176.31,
+        "gamesPlayed": 9,
+        "teamId": "ril8ciadmt04vx0l"
+      }
+    },
+    {
+      "away": {
+        "teamName": "moonland",
+        "score": 103.91,
+        "gamesPlayed": 8,
+        "teamId": "tuptxs8ymt1littl"
+      },
+      "categories": [
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Games Started",
+          "shortName": "GS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Goals Against",
+          "shortName": "GA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          },
+          "name": "Yellow Cards",
+          "shortName": "YC",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Red Cards",
+          "shortName": "RC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 9.0
+          },
+          "name": "Shots on Target",
+          "shortName": "SOT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "7",
+            "value": 7.0,
+            "points": 16.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Own Goals",
+          "shortName": "OG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          },
+          "name": "Interceptions",
+          "shortName": "Int",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "6",
+            "value": 6.0,
+            "points": 6.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Assists (Total)",
+          "shortName": "AT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 12.0
+          }
+        },
+        {
+          "away": {
+            "display": "664",
+            "value": 664.0,
+            "points": 0.0
+          },
+          "name": "Minutes Played",
+          "shortName": "Min",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "913",
+            "value": 913.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 5.0
+          },
+          "name": "Key Passes (Assists on Shots)",
+          "shortName": "KP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "9",
+            "value": 9.0,
+            "points": 12.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          },
+          "name": "High Claims Succeeded",
+          "shortName": "HCS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 1.0
+          },
+          "name": "Tackles Won",
+          "shortName": "TkW",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 1.5
+          }
+        },
+        {
+          "away": {
+            "display": "9",
+            "value": 9.0,
+            "points": 2.25
+          },
+          "name": "Effective Clearances",
+          "shortName": "CLR",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "23",
+            "value": 23.0,
+            "points": 5.75
+          }
+        },
+        {
+          "away": {
+            "display": "194",
+            "value": 194.0,
+            "points": 3.02
+          },
+          "name": "Accurate Passes",
+          "shortName": "AP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "363",
+            "value": 363.0,
+            "points": 4.05
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 12.0
+          },
+          "name": "Goals",
+          "shortName": "G",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 8.0
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": 6.3
+          },
+          "name": "Aerials Won",
+          "shortName": "AER",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "11",
+            "value": 11.0,
+            "points": 13.3
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": 21.0
+          },
+          "name": "Clean Sheets On Field",
+          "shortName": "CS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 9.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Smothers",
+          "shortName": "Sm",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 11.0
+          },
+          "name": "Successful Dribbles (Contests Succeeded)",
+          "shortName": "CoS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 14.5
+          }
+        },
+        {
+          "away": {
+            "display": "15",
+            "value": 15.0,
+            "points": 10.74
+          },
+          "name": "Long Balls - Accurate",
+          "shortName": "LBA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "19",
+            "value": 19.0,
+            "points": 13.33
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": -0.5
+          },
+          "name": "Errors Led to Shot",
+          "shortName": "ErS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Goal",
+          "shortName": "ErG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "8",
+            "value": 8.0,
+            "points": -4.0
+          },
+          "name": "Dispossessed",
+          "shortName": "DIS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kick Saves",
+          "shortName": "PKS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 12.0
+          },
+          "name": "Saves Inside the Box",
+          "shortName": "SvIB",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Saves Outside the Box",
+          "shortName": "SvOB",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.1
+          },
+          "name": "Punches",
+          "shortName": "Pu",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "10",
+            "value": 10.0,
+            "points": 6.0
+          },
+          "name": "Fouls Suffered",
+          "shortName": "FS",
+          "group": "Outfielder",
+          "home": {
+            "display": "13",
+            "value": 13.0,
+            "points": 8.5
+          }
+        },
+        {
+          "away": {
+            "display": "9",
+            "value": 9.0,
+            "points": -2.7
+          },
+          "name": "Aerials Lost",
+          "shortName": "AERL",
+          "group": "Outfielder",
+          "home": {
+            "display": "22",
+            "value": 22.0,
+            "points": -6.6
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": -11.0
+          },
+          "name": "Big Chances Missed",
+          "shortName": "BCM",
+          "group": "Outfielder",
+          "home": {
+            "display": "5",
+            "value": 5.0,
+            "points": -19.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          },
+          "name": "Big Chances Created",
+          "shortName": "BCC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "213",
+            "value": 213.0,
+            "points": 1.0
+          },
+          "name": "Passes Attempted",
+          "shortName": "PA",
+          "group": "Outfielder",
+          "home": {
+            "display": "381",
+            "value": 381.0,
+            "points": 1.52
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Clearances Off Line",
+          "shortName": "CLO",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Blocked Shots",
+          "shortName": "BS",
+          "group": "Outfielder",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.0
+          }
+        },
+        {
+          "away": {
+            "display": "15",
+            "value": 15.0,
+            "points": 18.0
+          },
+          "name": "Ball Recoveries",
+          "shortName": "BR",
+          "group": "Outfielder",
+          "home": {
+            "display": "29",
+            "value": 29.0,
+            "points": 31.7
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Dangerous Plays",
+          "shortName": "DP",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 1.5
+          },
+          "name": "Accurate Crosses",
+          "shortName": "AC",
+          "group": "Outfielder",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 0.9
+          }
+        },
+        {
+          "away": {
+            "display": "67",
+            "value": 67.0,
+            "points": 6.7
+          },
+          "name": "Successful Final Third Passes",
+          "shortName": "SFTP",
+          "group": "Outfielder",
+          "home": {
+            "display": "91",
+            "value": 91.0,
+            "points": 9.1
+          }
+        },
+        {
+          "away": {
+            "display": "25",
+            "value": 25.0,
+            "points": 12.5
+          },
+          "name": "Duels Won",
+          "shortName": "DW",
+          "group": "Outfielder",
+          "home": {
+            "display": "41",
+            "value": 41.0,
+            "points": 20.5
+          }
+        },
+        {
+          "away": {
+            "display": "37",
+            "value": 37.0,
+            "points": -18.5
+          },
+          "name": "Duels Lost",
+          "shortName": "DL",
+          "group": "Outfielder",
+          "home": {
+            "display": "52",
+            "value": 52.0,
+            "points": -26.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Tackles - Last Man",
+          "shortName": "TLM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "15",
+            "value": 15.0,
+            "points": -7.5
+          },
+          "name": "Turnovers",
+          "shortName": "Tu",
+          "group": "Outfielder",
+          "home": {
+            "display": "14",
+            "value": 14.0,
+            "points": -7.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Drawn",
+          "shortName": "PKD",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Missed",
+          "shortName": "PKM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": 0.0
+          },
+          "name": "Goals Against Outfielders ",
+          "shortName": "GAO",
+          "group": "Outfielder",
+          "home": {
+            "display": "8",
+            "value": 8.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "22",
+            "value": 22.0,
+            "points": 6.0
+          },
+          "name": "Midfielder Points",
+          "shortName": "MP",
+          "group": "Outfielder",
+          "home": {
+            "display": "42",
+            "value": 42.0,
+            "points": 5.2
+          }
+        }
+      ],
+      "home": {
+        "teamName": "Young FC",
+        "score": 138.25,
+        "gamesPlayed": 11,
+        "teamId": "3k1hj6a4msx9e1y1"
+      }
+    },
+    {
+      "away": {
+        "teamName": "DJSoccerKing",
+        "score": 109.56,
+        "gamesPlayed": 10,
+        "teamId": "ct1s1zwcmt19vbyl"
+      },
+      "categories": [
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Games Started",
+          "shortName": "GS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Goals Against",
+          "shortName": "GA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": -0.5
+          },
+          "name": "Yellow Cards",
+          "shortName": "YC",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Red Cards",
+          "shortName": "RC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          },
+          "name": "Shots on Target",
+          "shortName": "SOT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "9",
+            "value": 9.0,
+            "points": 21.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Own Goals",
+          "shortName": "OG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 7.0
+          },
+          "name": "Interceptions",
+          "shortName": "Int",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "11",
+            "value": 11.0,
+            "points": 11.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Assists (Total)",
+          "shortName": "AT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "631",
+            "value": 631.0,
+            "points": 0.0
+          },
+          "name": "Minutes Played",
+          "shortName": "Min",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "918",
+            "value": 918.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 7.0
+          },
+          "name": "Key Passes (Assists on Shots)",
+          "shortName": "KP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "14",
+            "value": 14.0,
+            "points": 19.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.0
+          },
+          "name": "High Claims Succeeded",
+          "shortName": "HCS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": 2.0
+          },
+          "name": "Tackles Won",
+          "shortName": "TkW",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 5.0
+          }
+        },
+        {
+          "away": {
+            "display": "13",
+            "value": 13.0,
+            "points": 3.25
+          },
+          "name": "Effective Clearances",
+          "shortName": "CLR",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "19",
+            "value": 19.0,
+            "points": 4.75
+          }
+        },
+        {
+          "away": {
+            "display": "220",
+            "value": 220.0,
+            "points": 2.81
+          },
+          "name": "Accurate Passes",
+          "shortName": "AP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "459",
+            "value": 459.0,
+            "points": 7.21
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Goals",
+          "shortName": "G",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 42.0
+          }
+        },
+        {
+          "away": {
+            "display": "8",
+            "value": 8.0,
+            "points": 7.4
+          },
+          "name": "Aerials Won",
+          "shortName": "AER",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "13",
+            "value": 13.0,
+            "points": 14.1
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 5.0
+          },
+          "name": "Clean Sheets On Field",
+          "shortName": "CS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 8.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          },
+          "name": "Smothers",
+          "shortName": "Sm",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 6.0
+          },
+          "name": "Successful Dribbles (Contests Succeeded)",
+          "shortName": "CoS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "6",
+            "value": 6.0,
+            "points": 7.5
+          }
+        },
+        {
+          "away": {
+            "display": "19",
+            "value": 19.0,
+            "points": 11.86
+          },
+          "name": "Long Balls - Accurate",
+          "shortName": "LBA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "19",
+            "value": 19.0,
+            "points": 14.92
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Shot",
+          "shortName": "ErS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Goal",
+          "shortName": "ErG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": -2.5
+          },
+          "name": "Dispossessed",
+          "shortName": "DIS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "11",
+            "value": 11.0,
+            "points": -5.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kick Saves",
+          "shortName": "PKS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 8.0
+          },
+          "name": "Saves Inside the Box",
+          "shortName": "SvIB",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 12.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          },
+          "name": "Saves Outside the Box",
+          "shortName": "SvOB",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.1
+          },
+          "name": "Punches",
+          "shortName": "Pu",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "8",
+            "value": 8.0,
+            "points": 5.5
+          },
+          "name": "Fouls Suffered",
+          "shortName": "FS",
+          "group": "Outfielder",
+          "home": {
+            "display": "15",
+            "value": 15.0,
+            "points": 9.0
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": -1.8
+          },
+          "name": "Aerials Lost",
+          "shortName": "AERL",
+          "group": "Outfielder",
+          "home": {
+            "display": "19",
+            "value": 19.0,
+            "points": -5.7
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Big Chances Missed",
+          "shortName": "BCM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Big Chances Created",
+          "shortName": "BCC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "249",
+            "value": 249.0,
+            "points": 1.05
+          },
+          "name": "Passes Attempted",
+          "shortName": "PA",
+          "group": "Outfielder",
+          "home": {
+            "display": "495",
+            "value": 495.0,
+            "points": 2.26
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Clearances Off Line",
+          "shortName": "CLO",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": 6.0
+          },
+          "name": "Blocked Shots",
+          "shortName": "BS",
+          "group": "Outfielder",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "17",
+            "value": 17.0,
+            "points": 20.3
+          },
+          "name": "Ball Recoveries",
+          "shortName": "BR",
+          "group": "Outfielder",
+          "home": {
+            "display": "38",
+            "value": 38.0,
+            "points": 44.6
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Dangerous Plays",
+          "shortName": "DP",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 0.9
+          },
+          "name": "Accurate Crosses",
+          "shortName": "AC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 0.6
+          }
+        },
+        {
+          "away": {
+            "display": "49",
+            "value": 49.0,
+            "points": 4.9
+          },
+          "name": "Successful Final Third Passes",
+          "shortName": "SFTP",
+          "group": "Outfielder",
+          "home": {
+            "display": "128",
+            "value": 128.0,
+            "points": 12.8
+          }
+        },
+        {
+          "away": {
+            "display": "26",
+            "value": 26.0,
+            "points": 13.0
+          },
+          "name": "Duels Won",
+          "shortName": "DW",
+          "group": "Outfielder",
+          "home": {
+            "display": "47",
+            "value": 47.0,
+            "points": 23.5
+          }
+        },
+        {
+          "away": {
+            "display": "19",
+            "value": 19.0,
+            "points": -9.5
+          },
+          "name": "Duels Lost",
+          "shortName": "DL",
+          "group": "Outfielder",
+          "home": {
+            "display": "58",
+            "value": 58.0,
+            "points": -29.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Tackles - Last Man",
+          "shortName": "TLM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "10",
+            "value": 10.0,
+            "points": -5.0
+          },
+          "name": "Turnovers",
+          "shortName": "Tu",
+          "group": "Outfielder",
+          "home": {
+            "display": "13",
+            "value": 13.0,
+            "points": -6.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Drawn",
+          "shortName": "PKD",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Missed",
+          "shortName": "PKM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": -2.0
+          },
+          "name": "Goals Against Outfielders ",
+          "shortName": "GAO",
+          "group": "Outfielder",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "31",
+            "value": 31.0,
+            "points": 6.8
+          },
+          "name": "Midfielder Points",
+          "shortName": "MP",
+          "group": "Outfielder",
+          "home": {
+            "display": "63",
+            "value": 63.0,
+            "points": 14.8
+          }
+        }
+      ],
+      "home": {
+        "teamName": "GloryMang",
+        "score": 234.34,
+        "gamesPlayed": 11,
+        "teamId": "a20htiwamt05ikfr"
+      }
+    },
+    {
+      "away": {
+        "teamName": "eunho",
+        "score": 198.31,
+        "gamesPlayed": 11,
+        "teamId": "pje1yzfgmt04th4u"
+      },
+      "categories": [
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Games Started",
+          "shortName": "GS",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Goals Against",
+          "shortName": "GA",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          },
+          "name": "Yellow Cards",
+          "shortName": "YC",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": -1.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Red Cards",
+          "shortName": "RC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 7.0
+          },
+          "name": "Shots on Target",
+          "shortName": "SOT",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Own Goals",
+          "shortName": "OG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 7.0
+          },
+          "name": "Interceptions",
+          "shortName": "Int",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 2.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 11.0
+          },
+          "name": "Assists (Total)",
+          "shortName": "AT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "902",
+            "value": 902.0,
+            "points": 0.0
+          },
+          "name": "Minutes Played",
+          "shortName": "Min",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "402",
+            "value": 402.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "14",
+            "value": 14.0,
+            "points": 20.0
+          },
+          "name": "Key Passes (Assists on Shots)",
+          "shortName": "KP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "High Claims Succeeded",
+          "shortName": "HCS",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "8",
+            "value": 8.0,
+            "points": 4.0
+          },
+          "name": "Tackles Won",
+          "shortName": "TkW",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "23",
+            "value": 23.0,
+            "points": 5.75
+          },
+          "name": "Effective Clearances",
+          "shortName": "CLR",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "9",
+            "value": 9.0,
+            "points": 2.25
+          }
+        },
+        {
+          "away": {
+            "display": "416",
+            "value": 416.0,
+            "points": 4.58
+          },
+          "name": "Accurate Passes",
+          "shortName": "AP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "202",
+            "value": 202.0,
+            "points": 2.06
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 12.0
+          },
+          "name": "Goals",
+          "shortName": "G",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "17",
+            "value": 17.0,
+            "points": 13.9
+          },
+          "name": "Aerials Won",
+          "shortName": "AER",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "12",
+            "value": 12.0,
+            "points": 13.9
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 14.0
+          },
+          "name": "Clean Sheets On Field",
+          "shortName": "CS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 8.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Smothers",
+          "shortName": "Sm",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "9",
+            "value": 9.0,
+            "points": 16.5
+          },
+          "name": "Successful Dribbles (Contests Succeeded)",
+          "shortName": "CoS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 7.0
+          }
+        },
+        {
+          "away": {
+            "display": "20",
+            "value": 20.0,
+            "points": 11.57
+          },
+          "name": "Long Balls - Accurate",
+          "shortName": "LBA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "6",
+            "value": 6.0,
+            "points": 4.8
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Shot",
+          "shortName": "ErS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Goal",
+          "shortName": "ErG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": -2.5
+          },
+          "name": "Dispossessed",
+          "shortName": "DIS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kick Saves",
+          "shortName": "PKS",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 4.0
+          },
+          "name": "Saves Inside the Box",
+          "shortName": "SvIB",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": 8.0
+          },
+          "name": "Saves Outside the Box",
+          "shortName": "SvOB",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.1
+          },
+          "name": "Punches",
+          "shortName": "Pu",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 5.0
+          },
+          "name": "Fouls Suffered",
+          "shortName": "FS",
+          "group": "Outfielder",
+          "home": {
+            "display": "11",
+            "value": 11.0,
+            "points": 10.0
+          }
+        },
+        {
+          "away": {
+            "display": "9",
+            "value": 9.0,
+            "points": -2.7
+          },
+          "name": "Aerials Lost",
+          "shortName": "AERL",
+          "group": "Outfielder",
+          "home": {
+            "display": "12",
+            "value": 12.0,
+            "points": -3.6
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Big Chances Missed",
+          "shortName": "BCM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 4.0
+          },
+          "name": "Big Chances Created",
+          "shortName": "BCC",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "440",
+            "value": 440.0,
+            "points": 1.71
+          },
+          "name": "Passes Attempted",
+          "shortName": "PA",
+          "group": "Outfielder",
+          "home": {
+            "display": "237",
+            "value": 237.0,
+            "points": 0.89
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Clearances Off Line",
+          "shortName": "CLO",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          }
+        },
+        {
+          "away": {
+            "display": "8",
+            "value": 8.0,
+            "points": 8.0
+          },
+          "name": "Blocked Shots",
+          "shortName": "BS",
+          "group": "Outfielder",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.0
+          }
+        },
+        {
+          "away": {
+            "display": "26",
+            "value": 26.0,
+            "points": 29.6
+          },
+          "name": "Ball Recoveries",
+          "shortName": "BR",
+          "group": "Outfielder",
+          "home": {
+            "display": "15",
+            "value": 15.0,
+            "points": 16.2
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Dangerous Plays",
+          "shortName": "DP",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": 1.8
+          },
+          "name": "Accurate Crosses",
+          "shortName": "AC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 0.6
+          }
+        },
+        {
+          "away": {
+            "display": "110",
+            "value": 110.0,
+            "points": 11.0
+          },
+          "name": "Successful Final Third Passes",
+          "shortName": "SFTP",
+          "group": "Outfielder",
+          "home": {
+            "display": "37",
+            "value": 37.0,
+            "points": 3.7
+          }
+        },
+        {
+          "away": {
+            "display": "43",
+            "value": 43.0,
+            "points": 21.5
+          },
+          "name": "Duels Won",
+          "shortName": "DW",
+          "group": "Outfielder",
+          "home": {
+            "display": "31",
+            "value": 31.0,
+            "points": 15.5
+          }
+        },
+        {
+          "away": {
+            "display": "38",
+            "value": 38.0,
+            "points": -19.0
+          },
+          "name": "Duels Lost",
+          "shortName": "DL",
+          "group": "Outfielder",
+          "home": {
+            "display": "24",
+            "value": 24.0,
+            "points": -12.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Tackles - Last Man",
+          "shortName": "TLM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "9",
+            "value": 9.0,
+            "points": -4.5
+          },
+          "name": "Turnovers",
+          "shortName": "Tu",
+          "group": "Outfielder",
+          "home": {
+            "display": "6",
+            "value": 6.0,
+            "points": -3.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Drawn",
+          "shortName": "PKD",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Missed",
+          "shortName": "PKM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "10",
+            "value": 10.0,
+            "points": -2.0
+          },
+          "name": "Goals Against Outfielders ",
+          "shortName": "GAO",
+          "group": "Outfielder",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "43",
+            "value": 43.0,
+            "points": 8.0
+          },
+          "name": "Midfielder Points",
+          "shortName": "MP",
+          "group": "Outfielder",
+          "home": {
+            "display": "21",
+            "value": 21.0,
+            "points": 3.6
+          }
+        }
+      ],
+      "home": {
+        "teamName": "KurtZuna",
+        "score": 75.41,
+        "gamesPlayed": 6,
+        "teamId": "s2bvo3ebmt14wjvp"
+      }
+    },
+    {
+      "away": {
+        "teamName": "Kangte",
+        "score": 103.2,
+        "gamesPlayed": 11,
+        "teamId": "m2wdonermt15132j"
+      },
+      "categories": [
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Games Started",
+          "shortName": "GS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Goals Against",
+          "shortName": "GA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": -0.5
+          },
+          "name": "Yellow Cards",
+          "shortName": "YC",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Red Cards",
+          "shortName": "RC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 5.0
+          },
+          "name": "Shots on Target",
+          "shortName": "SOT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": -5.0
+          },
+          "name": "Own Goals",
+          "shortName": "OG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": 4.0
+          },
+          "name": "Interceptions",
+          "shortName": "Int",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Assists (Total)",
+          "shortName": "AT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 7.0
+          }
+        },
+        {
+          "away": {
+            "display": "693",
+            "value": 693.0,
+            "points": 0.0
+          },
+          "name": "Minutes Played",
+          "shortName": "Min",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "625",
+            "value": 625.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 11.0
+          },
+          "name": "Key Passes (Assists on Shots)",
+          "shortName": "KP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "9",
+            "value": 9.0,
+            "points": 17.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 2.0
+          },
+          "name": "High Claims Succeeded",
+          "shortName": "HCS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 2.5
+          },
+          "name": "Tackles Won",
+          "shortName": "TkW",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "6",
+            "value": 6.0,
+            "points": 3.0
+          }
+        },
+        {
+          "away": {
+            "display": "23",
+            "value": 23.0,
+            "points": 5.75
+          },
+          "name": "Effective Clearances",
+          "shortName": "CLR",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "19",
+            "value": 19.0,
+            "points": 4.75
+          }
+        },
+        {
+          "away": {
+            "display": "308",
+            "value": 308.0,
+            "points": 3.34
+          },
+          "name": "Accurate Passes",
+          "shortName": "AP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "230",
+            "value": 230.0,
+            "points": 2.09
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Goals",
+          "shortName": "G",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "19",
+            "value": 19.0,
+            "points": 19.7
+          },
+          "name": "Aerials Won",
+          "shortName": "AER",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 10.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 3.0
+          },
+          "name": "Clean Sheets On Field",
+          "shortName": "CS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 12.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          },
+          "name": "Smothers",
+          "shortName": "Sm",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 6.5
+          },
+          "name": "Successful Dribbles (Contests Succeeded)",
+          "shortName": "CoS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.0
+          }
+        },
+        {
+          "away": {
+            "display": "20",
+            "value": 20.0,
+            "points": 10.16
+          },
+          "name": "Long Balls - Accurate",
+          "shortName": "LBA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "15",
+            "value": 15.0,
+            "points": 5.28
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Shot",
+          "shortName": "ErS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Goal",
+          "shortName": "ErG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": -1.5
+          },
+          "name": "Dispossessed",
+          "shortName": "DIS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kick Saves",
+          "shortName": "PKS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 4.0
+          },
+          "name": "Saves Inside the Box",
+          "shortName": "SvIB",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "7",
+            "value": 7.0,
+            "points": 28.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          },
+          "name": "Saves Outside the Box",
+          "shortName": "SvOB",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.1
+          },
+          "name": "Punches",
+          "shortName": "Pu",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "8",
+            "value": 8.0,
+            "points": 5.0
+          },
+          "name": "Fouls Suffered",
+          "shortName": "FS",
+          "group": "Outfielder",
+          "home": {
+            "display": "5",
+            "value": 5.0,
+            "points": 2.5
+          }
+        },
+        {
+          "away": {
+            "display": "13",
+            "value": 13.0,
+            "points": -3.9
+          },
+          "name": "Aerials Lost",
+          "shortName": "AERL",
+          "group": "Outfielder",
+          "home": {
+            "display": "5",
+            "value": 5.0,
+            "points": -1.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Big Chances Missed",
+          "shortName": "BCM",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": -3.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          },
+          "name": "Big Chances Created",
+          "shortName": "BCC",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          }
+        },
+        {
+          "away": {
+            "display": "339",
+            "value": 339.0,
+            "points": 1.25
+          },
+          "name": "Passes Attempted",
+          "shortName": "PA",
+          "group": "Outfielder",
+          "home": {
+            "display": "249",
+            "value": 249.0,
+            "points": 0.89
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Clearances Off Line",
+          "shortName": "CLO",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 2.0
+          },
+          "name": "Blocked Shots",
+          "shortName": "BS",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          }
+        },
+        {
+          "away": {
+            "display": "21",
+            "value": 21.0,
+            "points": 22.2
+          },
+          "name": "Ball Recoveries",
+          "shortName": "BR",
+          "group": "Outfielder",
+          "home": {
+            "display": "19",
+            "value": 19.0,
+            "points": 20.2
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Dangerous Plays",
+          "shortName": "DP",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.3
+          },
+          "name": "Accurate Crosses",
+          "shortName": "AC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 0.6
+          }
+        },
+        {
+          "away": {
+            "display": "38",
+            "value": 38.0,
+            "points": 3.8
+          },
+          "name": "Successful Final Third Passes",
+          "shortName": "SFTP",
+          "group": "Outfielder",
+          "home": {
+            "display": "48",
+            "value": 48.0,
+            "points": 4.8
+          }
+        },
+        {
+          "away": {
+            "display": "37",
+            "value": 37.0,
+            "points": 18.5
+          },
+          "name": "Duels Won",
+          "shortName": "DW",
+          "group": "Outfielder",
+          "home": {
+            "display": "28",
+            "value": 28.0,
+            "points": 14.0
+          }
+        },
+        {
+          "away": {
+            "display": "31",
+            "value": 31.0,
+            "points": -15.5
+          },
+          "name": "Duels Lost",
+          "shortName": "DL",
+          "group": "Outfielder",
+          "home": {
+            "display": "27",
+            "value": 27.0,
+            "points": -13.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Tackles - Last Man",
+          "shortName": "TLM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": -3.5
+          },
+          "name": "Turnovers",
+          "shortName": "Tu",
+          "group": "Outfielder",
+          "home": {
+            "display": "9",
+            "value": 9.0,
+            "points": -4.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Drawn",
+          "shortName": "PKD",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Missed",
+          "shortName": "PKM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "8",
+            "value": 8.0,
+            "points": -6.0
+          },
+          "name": "Goals Against Outfielders ",
+          "shortName": "GAO",
+          "group": "Outfielder",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "display": "32",
+            "value": 32.0,
+            "points": 4.0
+          },
+          "name": "Midfielder Points",
+          "shortName": "MP",
+          "group": "Outfielder",
+          "home": {
+            "display": "33",
+            "value": 33.0,
+            "points": 2.4
+          }
+        }
+      ],
+      "home": {
+        "teamName": "hwoojo",
+        "score": 117.01,
+        "gamesPlayed": 9,
+        "teamId": "u4gyh7r5mt14pty3"
+      }
+    },
+    {
+      "away": {
+        "teamName": "soundwave134",
+        "score": 106.36,
+        "gamesPlayed": 9,
+        "teamId": "5r1c15nxmt05egzg"
+      },
+      "categories": [
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Games Started",
+          "shortName": "GS",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": -4.0
+          },
+          "name": "Goals Against",
+          "shortName": "GA",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": -0.5
+          },
+          "name": "Yellow Cards",
+          "shortName": "YC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Red Cards",
+          "shortName": "RC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 11.0
+          },
+          "name": "Shots on Target",
+          "shortName": "SOT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 10.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Own Goals",
+          "shortName": "OG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "13",
+            "value": 13.0,
+            "points": 13.0
+          },
+          "name": "Interceptions",
+          "shortName": "Int",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Assists (Total)",
+          "shortName": "AT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 5.0
+          }
+        },
+        {
+          "away": {
+            "display": "797",
+            "value": 797.0,
+            "points": 0.0
+          },
+          "name": "Minutes Played",
+          "shortName": "Min",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "655",
+            "value": 655.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 7.0
+          },
+          "name": "Key Passes (Assists on Shots)",
+          "shortName": "KP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 5.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "High Claims Succeeded",
+          "shortName": "HCS",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 3.5
+          },
+          "name": "Tackles Won",
+          "shortName": "TkW",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "5",
+            "value": 5.0,
+            "points": 2.5
+          }
+        },
+        {
+          "away": {
+            "display": "24",
+            "value": 24.0,
+            "points": 6.0
+          },
+          "name": "Effective Clearances",
+          "shortName": "CLR",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "17",
+            "value": 17.0,
+            "points": 4.25
+          }
+        },
+        {
+          "away": {
+            "display": "283",
+            "value": 283.0,
+            "points": 2.97
+          },
+          "name": "Accurate Passes",
+          "shortName": "AP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "240",
+            "value": 240.0,
+            "points": 3.05
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Goals",
+          "shortName": "G",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 24.0
+          }
+        },
+        {
+          "away": {
+            "display": "20",
+            "value": 20.0,
+            "points": 23.4
+          },
+          "name": "Aerials Won",
+          "shortName": "AER",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "16",
+            "value": 16.0,
+            "points": 15.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 3.0
+          },
+          "name": "Clean Sheets On Field",
+          "shortName": "CS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 11.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Smothers",
+          "shortName": "Sm",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": 10.5
+          },
+          "name": "Successful Dribbles (Contests Succeeded)",
+          "shortName": "CoS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "11",
+            "value": 11.0,
+            "points": 14.0
+          }
+        },
+        {
+          "away": {
+            "display": "18",
+            "value": 18.0,
+            "points": 13.11
+          },
+          "name": "Long Balls - Accurate",
+          "shortName": "LBA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "12",
+            "value": 12.0,
+            "points": 9.3
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": -0.5
+          },
+          "name": "Errors Led to Shot",
+          "shortName": "ErS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -1.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Goal",
+          "shortName": "ErG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": -2.5
+          },
+          "name": "Dispossessed",
+          "shortName": "DIS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "7",
+            "value": 7.0,
+            "points": -3.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kick Saves",
+          "shortName": "PKS",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 4.0
+          },
+          "name": "Saves Inside the Box",
+          "shortName": "SvIB",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          },
+          "name": "Saves Outside the Box",
+          "shortName": "SvOB",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Punches",
+          "shortName": "Pu",
+          "group": "Goalkeeper",
+          "home": {}
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 3.5
+          },
+          "name": "Fouls Suffered",
+          "shortName": "FS",
+          "group": "Outfielder",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 5.0
+          }
+        },
+        {
+          "away": {
+            "display": "21",
+            "value": 21.0,
+            "points": -6.3
+          },
+          "name": "Aerials Lost",
+          "shortName": "AERL",
+          "group": "Outfielder",
+          "home": {
+            "display": "11",
+            "value": 11.0,
+            "points": -3.3
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": -11.0
+          },
+          "name": "Big Chances Missed",
+          "shortName": "BCM",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": -3.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Big Chances Created",
+          "shortName": "BCC",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          }
+        },
+        {
+          "away": {
+            "display": "307",
+            "value": 307.0,
+            "points": 1.17
+          },
+          "name": "Passes Attempted",
+          "shortName": "PA",
+          "group": "Outfielder",
+          "home": {
+            "display": "275",
+            "value": 275.0,
+            "points": 1.11
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Clearances Off Line",
+          "shortName": "CLO",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 3.5
+          },
+          "name": "Blocked Shots",
+          "shortName": "BS",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 2.0
+          }
+        },
+        {
+          "away": {
+            "display": "19",
+            "value": 19.0,
+            "points": 20.5
+          },
+          "name": "Ball Recoveries",
+          "shortName": "BR",
+          "group": "Outfielder",
+          "home": {
+            "display": "36",
+            "value": 36.0,
+            "points": 39.9
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Dangerous Plays",
+          "shortName": "DP",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 0.9
+          },
+          "name": "Accurate Crosses",
+          "shortName": "AC",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 0.6
+          }
+        },
+        {
+          "away": {
+            "display": "64",
+            "value": 64.0,
+            "points": 6.4
+          },
+          "name": "Successful Final Third Passes",
+          "shortName": "SFTP",
+          "group": "Outfielder",
+          "home": {
+            "display": "63",
+            "value": 63.0,
+            "points": 6.3
+          }
+        },
+        {
+          "away": {
+            "display": "45",
+            "value": 45.0,
+            "points": 22.5
+          },
+          "name": "Duels Won",
+          "shortName": "DW",
+          "group": "Outfielder",
+          "home": {
+            "display": "45",
+            "value": 45.0,
+            "points": 22.5
+          }
+        },
+        {
+          "away": {
+            "display": "41",
+            "value": 41.0,
+            "points": -20.5
+          },
+          "name": "Duels Lost",
+          "shortName": "DL",
+          "group": "Outfielder",
+          "home": {
+            "display": "44",
+            "value": 44.0,
+            "points": -22.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Tackles - Last Man",
+          "shortName": "TLM",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          }
+        },
+        {
+          "away": {
+            "display": "15",
+            "value": 15.0,
+            "points": -7.5
+          },
+          "name": "Turnovers",
+          "shortName": "Tu",
+          "group": "Outfielder",
+          "home": {
+            "display": "12",
+            "value": 12.0,
+            "points": -6.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Drawn",
+          "shortName": "PKD",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Missed",
+          "shortName": "PKM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "11",
+            "value": 11.0,
+            "points": -6.0
+          },
+          "name": "Goals Against Outfielders ",
+          "shortName": "GAO",
+          "group": "Outfielder",
+          "home": {
+            "display": "7",
+            "value": 7.0,
+            "points": -4.0
+          }
+        },
+        {
+          "away": {
+            "display": "44",
+            "value": 44.0,
+            "points": 7.2
+          },
+          "name": "Midfielder Points",
+          "shortName": "MP",
+          "group": "Outfielder",
+          "home": {
+            "display": "48",
+            "value": 48.0,
+            "points": 6.8
+          }
+        }
+      ],
+      "home": {
+        "teamName": "yeseong",
+        "score": 150.51,
+        "gamesPlayed": 9,
+        "teamId": "6x7ow4qcmt0zjt4n"
+      }
+    },
+    {
+      "away": {
+        "teamName": "Parapara123",
+        "score": 189.37,
+        "gamesPlayed": 10,
+        "teamId": "1sus3firmt070mdn"
+      },
+      "categories": [
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          },
+          "name": "Games Started",
+          "shortName": "GS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": -2.0
+          },
+          "name": "Goals Against",
+          "shortName": "GA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": -1.5
+          },
+          "name": "Yellow Cards",
+          "shortName": "YC",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": -1.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Red Cards",
+          "shortName": "RC",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "9",
+            "value": 9.0,
+            "points": 19.0
+          },
+          "name": "Shots on Target",
+          "shortName": "SOT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 6.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Own Goals",
+          "shortName": "OG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 7.0
+          },
+          "name": "Interceptions",
+          "shortName": "Int",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 7.0
+          },
+          "name": "Assists (Total)",
+          "shortName": "AT",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": 11.0
+          }
+        },
+        {
+          "away": {
+            "display": "793",
+            "value": 793.0,
+            "points": 0.0
+          },
+          "name": "Minutes Played",
+          "shortName": "Min",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "898",
+            "value": 898.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "11",
+            "value": 11.0,
+            "points": 18.0
+          },
+          "name": "Key Passes (Assists on Shots)",
+          "shortName": "KP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 13.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "High Claims Succeeded",
+          "shortName": "HCS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          }
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": 2.0
+          },
+          "name": "Tackles Won",
+          "shortName": "TkW",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "8",
+            "value": 8.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "12",
+            "value": 12.0,
+            "points": 3.0
+          },
+          "name": "Effective Clearances",
+          "shortName": "CLR",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "18",
+            "value": 18.0,
+            "points": 4.5
+          }
+        },
+        {
+          "away": {
+            "display": "332",
+            "value": 332.0,
+            "points": 4.36
+          },
+          "name": "Accurate Passes",
+          "shortName": "AP",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "470",
+            "value": 470.0,
+            "points": 5.69
+          }
+        },
+        {
+          "away": {
+            "display": "2",
+            "value": 2.0,
+            "points": 21.0
+          },
+          "name": "Goals",
+          "shortName": "G",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "11",
+            "value": 11.0,
+            "points": 9.9
+          },
+          "name": "Aerials Won",
+          "shortName": "AER",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "14",
+            "value": 14.0,
+            "points": 12.8
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 11.0
+          },
+          "name": "Clean Sheets On Field",
+          "shortName": "CS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": 21.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Smothers",
+          "shortName": "Sm",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "6",
+            "value": 6.0,
+            "points": 7.5
+          },
+          "name": "Successful Dribbles (Contests Succeeded)",
+          "shortName": "CoS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 4.5
+          }
+        },
+        {
+          "away": {
+            "display": "21",
+            "value": 21.0,
+            "points": 13.74
+          },
+          "name": "Long Balls - Accurate",
+          "shortName": "LBA",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "30",
+            "value": 30.0,
+            "points": 12.84
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": -1.5
+          },
+          "name": "Errors Led to Shot",
+          "shortName": "ErS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Errors Led to Goal",
+          "shortName": "ErG",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "4",
+            "value": 4.0,
+            "points": -2.0
+          },
+          "name": "Dispossessed",
+          "shortName": "DIS",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": -2.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kick Saves",
+          "shortName": "PKS",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "3",
+            "value": 3.0,
+            "points": 12.0
+          },
+          "name": "Saves Inside the Box",
+          "shortName": "SvIB",
+          "group": "Goalkeeper",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 4.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          },
+          "name": "Saves Outside the Box",
+          "shortName": "SvOB",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Punches",
+          "shortName": "Pu",
+          "group": "Goalkeeper",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "7",
+            "value": 7.0,
+            "points": 5.0
+          },
+          "name": "Fouls Suffered",
+          "shortName": "FS",
+          "group": "Outfielder",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 6.0
+          }
+        },
+        {
+          "away": {
+            "display": "20",
+            "value": 20.0,
+            "points": -6.0
+          },
+          "name": "Aerials Lost",
+          "shortName": "AERL",
+          "group": "Outfielder",
+          "home": {
+            "display": "4",
+            "value": 4.0,
+            "points": -1.2
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Big Chances Missed",
+          "shortName": "BCM",
+          "group": "Outfielder",
+          "home": {
+            "display": "2",
+            "value": 2.0,
+            "points": -6.0
+          }
+        },
+        {
+          "away": {
+            "display": "1",
+            "value": 1.0,
+            "points": 2.0
+          },
+          "name": "Big Chances Created",
+          "shortName": "BCC",
+          "group": "Outfielder",
+          "home": {
+            "display": "3",
+            "value": 3.0,
+            "points": 6.0
+          }
+        },
+        {
+          "away": {
+            "display": "380",
+            "value": 380.0,
+            "points": 1.58
+          },
+          "name": "Passes Attempted",
+          "shortName": "PA",
+          "group": "Outfielder",
+          "home": {
+            "display": "505",
+            "value": 505.0,
+            "points": 1.97
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Clearances Off Line",
+          "shortName": "CLO",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 5.0
+          },
+          "name": "Blocked Shots",
+          "shortName": "BS",
+          "group": "Outfielder",
+          "home": {
+            "display": "1",
+            "value": 1.0,
+            "points": 1.0
+          }
+        },
+        {
+          "away": {
+            "display": "38",
+            "value": 38.0,
+            "points": 44.6
+          },
+          "name": "Ball Recoveries",
+          "shortName": "BR",
+          "group": "Outfielder",
+          "home": {
+            "display": "33",
+            "value": 33.0,
+            "points": 37.5
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Dangerous Plays",
+          "shortName": "DP",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "5",
+            "value": 5.0,
+            "points": 1.5
+          },
+          "name": "Accurate Crosses",
+          "shortName": "AC",
+          "group": "Outfielder",
+          "home": {
+            "display": "5",
+            "value": 5.0,
+            "points": 1.5
+          }
+        },
+        {
+          "away": {
+            "display": "70",
+            "value": 70.0,
+            "points": 7.0
+          },
+          "name": "Successful Final Third Passes",
+          "shortName": "SFTP",
+          "group": "Outfielder",
+          "home": {
+            "display": "88",
+            "value": 88.0,
+            "points": 8.8
+          }
+        },
+        {
+          "away": {
+            "display": "33",
+            "value": 33.0,
+            "points": 16.5
+          },
+          "name": "Duels Won",
+          "shortName": "DW",
+          "group": "Outfielder",
+          "home": {
+            "display": "39",
+            "value": 39.0,
+            "points": 19.5
+          }
+        },
+        {
+          "away": {
+            "display": "40",
+            "value": 40.0,
+            "points": -20.0
+          },
+          "name": "Duels Lost",
+          "shortName": "DL",
+          "group": "Outfielder",
+          "home": {
+            "display": "28",
+            "value": 28.0,
+            "points": -14.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Tackles - Last Man",
+          "shortName": "TLM",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "11",
+            "value": 11.0,
+            "points": -5.5
+          },
+          "name": "Turnovers",
+          "shortName": "Tu",
+          "group": "Outfielder",
+          "home": {
+            "display": "14",
+            "value": 14.0,
+            "points": -7.0
+          }
+        },
+        {
+          "away": {
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Drawn",
+          "shortName": "PKD",
+          "group": "Outfielder",
+          "home": {
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          },
+          "name": "Penalty Kicks Missed",
+          "shortName": "PKM",
+          "group": "Outfielder",
+          "home": {
+            "display": "0",
+            "value": 0.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "11",
+            "value": 11.0,
+            "points": -4.0
+          },
+          "name": "Goals Against Outfielders ",
+          "shortName": "GAO",
+          "group": "Outfielder",
+          "home": {
+            "display": "10",
+            "value": 10.0,
+            "points": 0.0
+          }
+        },
+        {
+          "away": {
+            "display": "55",
+            "value": 55.0,
+            "points": 11.2
+          },
+          "name": "Midfielder Points",
+          "shortName": "MP",
+          "group": "Outfielder",
+          "home": {
+            "display": "49",
+            "value": 49.0,
+            "points": 6.8
+          }
+        }
+      ],
+      "home": {
+        "teamName": "moonbape",
+        "score": 161.7,
+        "gamesPlayed": 11,
+        "teamId": "oi40p2iymt059qby"
+      }
+    }
+  ],
+  "period": 3
+}

@@ -1,0 +1,1335 @@
+{
+  "previewPeriod": 9,
+  "generatedAt": "2026-10-28T02:18:32+00:00",
+  "sourceDataFetchedAt": "2026-10-28T02:12:59+00:00",
+  "dataFetchedAt": "2026-10-28T02:12:59+00:00",
+  "lineupNotLocked": true,
+  "rosterSource": "current getTeamRosters",
+  "projectionType": "current-active-roster",
+  "currentFantraxPeriod": 9,
+  "latestCompletedPeriod": 7,
+  "playerStatsThroughPeriod": 8,
+  "rosterFetchedAt": "2026-10-28T02:12:59+00:00",
+  "playerStatsFetchedAt": "2026-10-28T02:12:59+00:00",
+  "freshDataUsed": false,
+  "usedCachedData": true,
+  "warning": "Fresh Fantrax fetch skipped (--skip-fetch). Cached data used.",
+  "sources": {
+    "rosters": "current/team_rosters.json",
+    "players": "current/players_season.json",
+    "standings": "current/standings.json",
+    "league_info": "current/league_info.json",
+    "next_matchups": "current/next_matchups.json"
+  },
+  "sourceMetadata": {
+    "rostersFetchedAt": "2026-10-28T02:12:59+00:00",
+    "playerStatsFetchedAt": "2026-10-28T02:12:59+00:00",
+    "standingsFetchedAt": "2026-10-28T02:12:59+00:00",
+    "matchupsFetchedAt": "2026-10-28T02:12:59+00:00"
+  },
+  "available": true,
+  "has_projections": true,
+  "sigma": 40.32362609075257,
+  "reason": null,
+  "watch": {
+    "home": {
+      "teamId": "pje1yzfgmt04th4u",
+      "teamName": "eunho",
+      "expected_score": 183.22000000000003,
+      "active_used": 11,
+      "active_unmatched": 0,
+      "players": [
+        {
+          "id": "04sjt",
+          "player": "Alisson Becker",
+          "position": "G",
+          "fp_g": 9.39
+        },
+        {
+          "id": "04agz",
+          "player": "Declan Rice",
+          "position": "M",
+          "fp_g": 23.92
+        },
+        {
+          "id": "04e1e",
+          "player": "Ben White",
+          "position": "D",
+          "fp_g": 17.06
+        },
+        {
+          "id": "056iy",
+          "player": "Pedro Neto",
+          "position": "F",
+          "fp_g": 20.72
+        },
+        {
+          "id": "05omu",
+          "player": "Ruben Dias",
+          "position": "D",
+          "fp_g": 14.15
+        },
+        {
+          "id": "04tsb",
+          "player": "Viktor Gyökeres",
+          "position": "F",
+          "fp_g": 6.17
+        },
+        {
+          "id": "0554g",
+          "player": "Calvin Bassey",
+          "position": "D",
+          "fp_g": 14.84
+        },
+        {
+          "id": "05uhs",
+          "player": "James Mcatee",
+          "position": "M",
+          "fp_g": 23.84
+        },
+        {
+          "id": "06y9m",
+          "player": "Maxim De Cuyper",
+          "position": "D",
+          "fp_g": 19.71
+        },
+        {
+          "id": "06r5b",
+          "player": "Diego Gomez",
+          "position": "M",
+          "fp_g": 20.15
+        },
+        {
+          "id": "06l4i",
+          "player": "Tyrique George",
+          "position": "F",
+          "fp_g": 13.27
+        }
+      ]
+    },
+    "away": {
+      "teamId": "u4gyh7r5mt14pty3",
+      "teamName": "hwoojo",
+      "expected_score": 187.28,
+      "active_used": 11,
+      "active_unmatched": 0,
+      "players": [
+        {
+          "id": "06ex4",
+          "player": "Josko Gvardiol",
+          "position": "D",
+          "fp_g": 16.3
+        },
+        {
+          "id": "07877",
+          "player": "Mamadou Sangaré",
+          "position": "M",
+          "fp_g": 20.42
+        },
+        {
+          "id": "06fup",
+          "player": "Jeremy Doku",
+          "position": "M",
+          "fp_g": 18.97
+        },
+        {
+          "id": "06jh3",
+          "player": "Joshua King",
+          "position": "M",
+          "fp_g": 17.63
+        },
+        {
+          "id": "06mgd",
+          "player": "Abdul Fatawu",
+          "position": "F",
+          "fp_g": 14.63
+        },
+        {
+          "id": "061vb",
+          "player": "James Hill",
+          "position": "D",
+          "fp_g": 19.45
+        },
+        {
+          "id": "04abb",
+          "player": "Phil Foden",
+          "position": "M",
+          "fp_g": 11.44
+        },
+        {
+          "id": "04qfz",
+          "player": "Diogo Dalot",
+          "position": "D",
+          "fp_g": 15.8
+        },
+        {
+          "id": "078az",
+          "player": "Konstantinos Tzolakis",
+          "position": "G",
+          "fp_g": 17.84
+        },
+        {
+          "id": "03gu4",
+          "player": "Harry Maguire",
+          "position": "D",
+          "fp_g": 16.87
+        },
+        {
+          "id": "04spw",
+          "player": "James Garner",
+          "position": "M",
+          "fp_g": 17.93
+        }
+      ]
+    },
+    "home_win_prob": 0.474849895728242,
+    "away_win_prob": 0.525150104271758,
+    "expected_margin": -4.059999999999974
+  },
+  "unmatched_active": {},
+  "source": "current roster + current season FP/G + next matchup",
+  "matchups": [
+    {
+      "teamA": "kms361657",
+      "teamB": "Parapara123",
+      "teamAId": "ril8ciadmt04vx0l",
+      "teamBId": "1sus3firmt070mdn",
+      "teamAProjectedScore": 178.81,
+      "teamBProjectedScore": 157.09,
+      "teamAWinProbability": 63.1496463868246,
+      "teamBWinProbability": 36.8503536131754,
+      "home": {
+        "teamId": "ril8ciadmt04vx0l",
+        "teamName": "kms361657",
+        "expected_score": 178.81,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "067yv",
+            "player": "Cody Gakpo",
+            "position": "F",
+            "fp_g": 23.0
+          },
+          {
+            "id": "06y26",
+            "player": "Olivier Boscagli",
+            "position": "D",
+            "fp_g": 16.9
+          },
+          {
+            "id": "03vlj",
+            "player": "Virgil van Dijk",
+            "position": "D",
+            "fp_g": 19.07
+          },
+          {
+            "id": "06fwi",
+            "player": "Carlos Baleba",
+            "position": "M",
+            "fp_g": 16.44
+          },
+          {
+            "id": "05ogb",
+            "player": "Anthony Elanga",
+            "position": "F",
+            "fp_g": 16.13
+          },
+          {
+            "id": "06fxe",
+            "player": "Ryan Gravenberch",
+            "position": "M",
+            "fp_g": 11.59
+          },
+          {
+            "id": "06fwz",
+            "player": "Murillo",
+            "position": "D",
+            "fp_g": 17.82
+          },
+          {
+            "id": "06yb9",
+            "player": "Reinildo",
+            "position": "D",
+            "fp_g": 13.05
+          },
+          {
+            "id": "06uzy",
+            "player": "Ao Tanaka",
+            "position": "M",
+            "fp_g": 14.14
+          },
+          {
+            "id": "06cmu",
+            "player": "Bart Verbruggen",
+            "position": "G",
+            "fp_g": 12.24
+          },
+          {
+            "id": "06v21",
+            "player": "Florian Wirtz",
+            "position": "M",
+            "fp_g": 18.43
+          }
+        ]
+      },
+      "away": {
+        "teamId": "1sus3firmt070mdn",
+        "teamName": "Parapara123",
+        "expected_score": 157.09,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "062a9",
+            "player": "Sven Botman",
+            "position": "D",
+            "fp_g": 15.1
+          },
+          {
+            "id": "0639x",
+            "player": "Marcus Tavernier",
+            "position": "M",
+            "fp_g": 22.6
+          },
+          {
+            "id": "0522h",
+            "player": "Alexis Mac Allister",
+            "position": "M",
+            "fp_g": 17.81
+          },
+          {
+            "id": "06uzo",
+            "player": "Zian Flemming",
+            "position": "F",
+            "fp_g": 8.3
+          },
+          {
+            "id": "061ve",
+            "player": "Ryan Christie",
+            "position": "M",
+            "fp_g": 13.03
+          },
+          {
+            "id": "06ab3",
+            "player": "Lewis Miley",
+            "position": "M",
+            "fp_g": 16.58
+          },
+          {
+            "id": "06uyc",
+            "player": "Adrien Truffert",
+            "position": "D",
+            "fp_g": 13.94
+          },
+          {
+            "id": "04abn",
+            "player": "Harvey Barnes",
+            "position": "M",
+            "fp_g": 17.39
+          },
+          {
+            "id": "070hl",
+            "player": "Senne Lammens",
+            "position": "G",
+            "fp_g": 9.5
+          },
+          {
+            "id": "078wo",
+            "player": "Nico Elvedi",
+            "position": "D",
+            "fp_g": 11.93
+          },
+          {
+            "id": "0635j",
+            "player": "Chris Richards",
+            "position": "D",
+            "fp_g": 10.91
+          }
+        ]
+      },
+      "home_win_prob": 0.631496463868246,
+      "away_win_prob": 0.368503536131754,
+      "expected_margin": 21.72
+    },
+    {
+      "teamA": "soundwave134",
+      "teamB": "moonbape",
+      "teamAId": "5r1c15nxmt05egzg",
+      "teamBId": "oi40p2iymt059qby",
+      "teamAProjectedScore": 166.22,
+      "teamBProjectedScore": 142.48,
+      "teamAWinProbability": 64.3075241760217,
+      "teamBWinProbability": 35.6924758239783,
+      "home": {
+        "teamId": "5r1c15nxmt05egzg",
+        "teamName": "soundwave134",
+        "expected_score": 166.22,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "04qor",
+            "player": "Bernd Leno",
+            "position": "G",
+            "fp_g": 10.13
+          },
+          {
+            "id": "0784y",
+            "player": "Tarik Muharemovic",
+            "position": "D",
+            "fp_g": 18.97
+          },
+          {
+            "id": "05os8",
+            "player": "Joachim Andersen",
+            "position": "D",
+            "fp_g": 13.1
+          },
+          {
+            "id": "076d3",
+            "player": "Jack Rudoni",
+            "position": "M",
+            "fp_g": 12.96
+          },
+          {
+            "id": "06mn0",
+            "player": "Igor Thiago",
+            "position": "F",
+            "fp_g": 10.06
+          },
+          {
+            "id": "076dq",
+            "player": "Mohamed Belloumi",
+            "position": "M",
+            "fp_g": 21.69
+          },
+          {
+            "id": "04fk1",
+            "player": "Pascal Gross",
+            "position": "M",
+            "fp_g": 23.39
+          },
+          {
+            "id": "04gpx",
+            "player": "Dara O'Shea",
+            "position": "D",
+            "fp_g": 13.72
+          },
+          {
+            "id": "06fv8",
+            "player": "Mohammed Kudus",
+            "position": "M",
+            "fp_g": 17.17
+          },
+          {
+            "id": "05l2z",
+            "player": "Bobby Thomas",
+            "position": "D",
+            "fp_g": 14.91
+          },
+          {
+            "id": "072wq",
+            "player": "Rayan",
+            "position": "F",
+            "fp_g": 10.12
+          }
+        ]
+      },
+      "away": {
+        "teamId": "oi40p2iymt059qby",
+        "teamName": "moonbape",
+        "expected_score": 142.48,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "06zqq",
+            "player": "Jorrel Hato",
+            "position": "D",
+            "fp_g": 10.36
+          },
+          {
+            "id": "06rf9",
+            "player": "Omar Marmoush",
+            "position": "F",
+            "fp_g": 10.72
+          },
+          {
+            "id": "05l8q",
+            "player": "Cole Palmer",
+            "position": "M",
+            "fp_g": 20.72
+          },
+          {
+            "id": "06pia",
+            "player": "Maxence Lacroix",
+            "position": "D",
+            "fp_g": 9.03
+          },
+          {
+            "id": "05uht",
+            "player": "Morgan Rogers",
+            "position": "M",
+            "fp_g": 21.06
+          },
+          {
+            "id": "02lk5",
+            "player": "Jordan Henderson",
+            "position": "M",
+            "fp_g": 21.71
+          },
+          {
+            "id": "06uzt",
+            "player": "Mike Penders",
+            "position": "G",
+            "fp_g": 3.96
+          },
+          {
+            "id": "05rb8",
+            "player": "Moises Caicedo",
+            "position": "M",
+            "fp_g": 11.8
+          },
+          {
+            "id": "06rm8",
+            "player": "Mathys Tel",
+            "position": "F",
+            "fp_g": 12.48
+          },
+          {
+            "id": "062p5",
+            "player": "Levi Colwill",
+            "position": "D",
+            "fp_g": 10.41
+          },
+          {
+            "id": "0794h",
+            "player": "Sorba Thomas",
+            "position": "F",
+            "fp_g": 10.23
+          }
+        ]
+      },
+      "home_win_prob": 0.643075241760217,
+      "away_win_prob": 0.356924758239783,
+      "expected_margin": 23.74000000000001
+    },
+    {
+      "teamA": "Kangte",
+      "teamB": "yeseong",
+      "teamAId": "m2wdonermt15132j",
+      "teamBId": "6x7ow4qcmt0zjt4n",
+      "teamAProjectedScore": 155.01999999999998,
+      "teamBProjectedScore": 183.12,
+      "teamAWinProbability": 33.250834463887,
+      "teamBWinProbability": 66.749165536113,
+      "home": {
+        "teamId": "m2wdonermt15132j",
+        "teamName": "Kangte",
+        "expected_score": 155.01999999999998,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "04lav",
+            "player": "Ethan Ampadu",
+            "position": "M",
+            "fp_g": 19.9
+          },
+          {
+            "id": "05uel",
+            "player": "Kristoffer Ajer",
+            "position": "D",
+            "fp_g": 15.4
+          },
+          {
+            "id": "061vk",
+            "player": "Jaidon Anthony",
+            "position": "M",
+            "fp_g": 10.91
+          },
+          {
+            "id": "06v07",
+            "player": "Rayan Cherki",
+            "position": "M",
+            "fp_g": 20.38
+          },
+          {
+            "id": "0700p",
+            "player": "Malick Thiaw",
+            "position": "D",
+            "fp_g": 10.73
+          },
+          {
+            "id": "07848",
+            "player": "Johan Manzambi",
+            "position": "M",
+            "fp_g": 17.89
+          },
+          {
+            "id": "06yb7",
+            "player": "Gabriel Gudmundsson",
+            "position": "D",
+            "fp_g": 12.8
+          },
+          {
+            "id": "06ezb",
+            "player": "Micky van de Ven",
+            "position": "D",
+            "fp_g": 11.57
+          },
+          {
+            "id": "06pe1",
+            "player": "Mateus Fernandes",
+            "position": "M",
+            "fp_g": 11.87
+          },
+          {
+            "id": "070cj",
+            "player": "Noah Okafor",
+            "position": "F",
+            "fp_g": 11.46
+          },
+          {
+            "id": "045ob",
+            "player": "Caoimhin Kelleher",
+            "position": "G",
+            "fp_g": 12.11
+          }
+        ]
+      },
+      "away": {
+        "teamId": "6x7ow4qcmt0zjt4n",
+        "teamName": "yeseong",
+        "expected_score": 183.12,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "05uhq",
+            "player": "Shea Charles",
+            "position": "D",
+            "fp_g": 14.2
+          },
+          {
+            "id": "0787y",
+            "player": "Antonio Silva",
+            "position": "D",
+            "fp_g": 15.05
+          },
+          {
+            "id": "04qr9",
+            "player": "Morgan Gibbs-White",
+            "position": "M",
+            "fp_g": 19.11
+          },
+          {
+            "id": "06mnc",
+            "player": "Daichi Kamada",
+            "position": "M",
+            "fp_g": 18.49
+          },
+          {
+            "id": "05y9n",
+            "player": "Lewis Hall",
+            "position": "D",
+            "fp_g": 20.75
+          },
+          {
+            "id": "05o2p",
+            "player": "Regan Slater",
+            "position": "M",
+            "fp_g": 14.0
+          },
+          {
+            "id": "05oz3",
+            "player": "James Trafford",
+            "position": "G",
+            "fp_g": 15.22
+          },
+          {
+            "id": "03ksl",
+            "player": "Semi Ajayi",
+            "position": "D",
+            "fp_g": 12.15
+          },
+          {
+            "id": "06rm7",
+            "player": "Nico González",
+            "position": "M",
+            "fp_g": 19.05
+          },
+          {
+            "id": "0646f",
+            "player": "Alexander Isak",
+            "position": "F",
+            "fp_g": 18.09
+          },
+          {
+            "id": "05r94",
+            "player": "Iliman Ndiaye",
+            "position": "M",
+            "fp_g": 17.01
+          }
+        ]
+      },
+      "home_win_prob": 0.33250834463887,
+      "away_win_prob": 0.66749165536113,
+      "expected_margin": -28.100000000000023
+    },
+    {
+      "teamA": "eunho",
+      "teamB": "hwoojo",
+      "teamAId": "pje1yzfgmt04th4u",
+      "teamBId": "u4gyh7r5mt14pty3",
+      "teamAProjectedScore": 183.22000000000003,
+      "teamBProjectedScore": 187.28,
+      "teamAWinProbability": 47.4849895728242,
+      "teamBWinProbability": 52.5150104271758,
+      "home": {
+        "teamId": "pje1yzfgmt04th4u",
+        "teamName": "eunho",
+        "expected_score": 183.22000000000003,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "04sjt",
+            "player": "Alisson Becker",
+            "position": "G",
+            "fp_g": 9.39
+          },
+          {
+            "id": "04agz",
+            "player": "Declan Rice",
+            "position": "M",
+            "fp_g": 23.92
+          },
+          {
+            "id": "04e1e",
+            "player": "Ben White",
+            "position": "D",
+            "fp_g": 17.06
+          },
+          {
+            "id": "056iy",
+            "player": "Pedro Neto",
+            "position": "F",
+            "fp_g": 20.72
+          },
+          {
+            "id": "05omu",
+            "player": "Ruben Dias",
+            "position": "D",
+            "fp_g": 14.15
+          },
+          {
+            "id": "04tsb",
+            "player": "Viktor Gyökeres",
+            "position": "F",
+            "fp_g": 6.17
+          },
+          {
+            "id": "0554g",
+            "player": "Calvin Bassey",
+            "position": "D",
+            "fp_g": 14.84
+          },
+          {
+            "id": "05uhs",
+            "player": "James Mcatee",
+            "position": "M",
+            "fp_g": 23.84
+          },
+          {
+            "id": "06y9m",
+            "player": "Maxim De Cuyper",
+            "position": "D",
+            "fp_g": 19.71
+          },
+          {
+            "id": "06r5b",
+            "player": "Diego Gomez",
+            "position": "M",
+            "fp_g": 20.15
+          },
+          {
+            "id": "06l4i",
+            "player": "Tyrique George",
+            "position": "F",
+            "fp_g": 13.27
+          }
+        ]
+      },
+      "away": {
+        "teamId": "u4gyh7r5mt14pty3",
+        "teamName": "hwoojo",
+        "expected_score": 187.28,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "06ex4",
+            "player": "Josko Gvardiol",
+            "position": "D",
+            "fp_g": 16.3
+          },
+          {
+            "id": "07877",
+            "player": "Mamadou Sangaré",
+            "position": "M",
+            "fp_g": 20.42
+          },
+          {
+            "id": "06fup",
+            "player": "Jeremy Doku",
+            "position": "M",
+            "fp_g": 18.97
+          },
+          {
+            "id": "06jh3",
+            "player": "Joshua King",
+            "position": "M",
+            "fp_g": 17.63
+          },
+          {
+            "id": "06mgd",
+            "player": "Abdul Fatawu",
+            "position": "F",
+            "fp_g": 14.63
+          },
+          {
+            "id": "061vb",
+            "player": "James Hill",
+            "position": "D",
+            "fp_g": 19.45
+          },
+          {
+            "id": "04abb",
+            "player": "Phil Foden",
+            "position": "M",
+            "fp_g": 11.44
+          },
+          {
+            "id": "04qfz",
+            "player": "Diogo Dalot",
+            "position": "D",
+            "fp_g": 15.8
+          },
+          {
+            "id": "078az",
+            "player": "Konstantinos Tzolakis",
+            "position": "G",
+            "fp_g": 17.84
+          },
+          {
+            "id": "03gu4",
+            "player": "Harry Maguire",
+            "position": "D",
+            "fp_g": 16.87
+          },
+          {
+            "id": "04spw",
+            "player": "James Garner",
+            "position": "M",
+            "fp_g": 17.93
+          }
+        ]
+      },
+      "home_win_prob": 0.474849895728242,
+      "away_win_prob": 0.525150104271758,
+      "expected_margin": -4.059999999999974
+    },
+    {
+      "teamA": "DJSoccerKing",
+      "teamB": "KurtZuna",
+      "teamAId": "ct1s1zwcmt19vbyl",
+      "teamBId": "s2bvo3ebmt14wjvp",
+      "teamAProjectedScore": 165.68000000000004,
+      "teamBProjectedScore": 170.88000000000005,
+      "teamAWinProbability": 46.780543931591126,
+      "teamBWinProbability": 53.219456068408874,
+      "home": {
+        "teamId": "ct1s1zwcmt19vbyl",
+        "teamName": "DJSoccerKing",
+        "expected_score": 165.68000000000004,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "06jgi",
+            "player": "Daniel Munoz",
+            "position": "D",
+            "fp_g": 9.09
+          },
+          {
+            "id": "05tr9",
+            "player": "Mathias Jensen",
+            "position": "M",
+            "fp_g": 9.59
+          },
+          {
+            "id": "061va",
+            "player": "Boubacar Kamara",
+            "position": "M",
+            "fp_g": 18.49
+          },
+          {
+            "id": "076db",
+            "player": "Brandon Thomas-Asante",
+            "position": "F",
+            "fp_g": 14.34
+          },
+          {
+            "id": "049tq",
+            "player": "Dominic Calvert-Lewin",
+            "position": "F",
+            "fp_g": 14.2
+          },
+          {
+            "id": "05gcr",
+            "player": "Bruno Fernandes",
+            "position": "M",
+            "fp_g": 23.67
+          },
+          {
+            "id": "04qos",
+            "player": "Issa Diop",
+            "position": "D",
+            "fp_g": 11.57
+          },
+          {
+            "id": "0435m",
+            "player": "Granit Xhaka",
+            "position": "M",
+            "fp_g": 30.07
+          },
+          {
+            "id": "0793q",
+            "player": "Bradley Barcola",
+            "position": "F",
+            "fp_g": 14.15
+          },
+          {
+            "id": "05o4b",
+            "player": "Matty Cash",
+            "position": "D",
+            "fp_g": 6.43
+          },
+          {
+            "id": "05tqx",
+            "player": "David Raya",
+            "position": "G",
+            "fp_g": 14.08
+          }
+        ]
+      },
+      "away": {
+        "teamId": "s2bvo3ebmt14wjvp",
+        "teamName": "KurtZuna",
+        "expected_score": 170.88000000000005,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "06cms",
+            "player": "Sandro Tonali",
+            "position": "M",
+            "fp_g": 20.46
+          },
+          {
+            "id": "0785g",
+            "player": "Xaver Schlager",
+            "position": "M",
+            "fp_g": 18.71
+          },
+          {
+            "id": "04e1c",
+            "player": "Lewis Dunk",
+            "position": "D",
+            "fp_g": 16.3
+          },
+          {
+            "id": "04sjv",
+            "player": "Ryan Giles",
+            "position": "D",
+            "fp_g": 9.36
+          },
+          {
+            "id": "06p6j",
+            "player": "Evanilson",
+            "position": "F",
+            "fp_g": 21.7
+          },
+          {
+            "id": "06xzd",
+            "player": "Charalampos Kostoulas",
+            "position": "F",
+            "fp_g": 18.39
+          },
+          {
+            "id": "05y7c",
+            "player": "Archie Gray",
+            "position": "M",
+            "fp_g": 14.31
+          },
+          {
+            "id": "06y59",
+            "player": "Noah Sadiki",
+            "position": "M",
+            "fp_g": 13.22
+          },
+          {
+            "id": "06r6s",
+            "player": "Antonin Kinsky",
+            "position": "G",
+            "fp_g": 10.83
+          },
+          {
+            "id": "050jq",
+            "player": "Marc Guehi",
+            "position": "D",
+            "fp_g": 15.74
+          },
+          {
+            "id": "06ybp",
+            "player": "Thierno Barry",
+            "position": "F",
+            "fp_g": 11.86
+          }
+        ]
+      },
+      "home_win_prob": 0.46780543931591123,
+      "away_win_prob": 0.5321945606840888,
+      "expected_margin": -5.200000000000017
+    },
+    {
+      "teamA": "moonland",
+      "teamB": "GloryMang",
+      "teamAId": "tuptxs8ymt1littl",
+      "teamBId": "a20htiwamt05ikfr",
+      "teamAProjectedScore": 174.33,
+      "teamBProjectedScore": 192.05999999999997,
+      "teamAWinProbability": 39.181421894099216,
+      "teamBWinProbability": 60.81857810590079,
+      "home": {
+        "teamId": "tuptxs8ymt1littl",
+        "teamName": "moonland",
+        "expected_score": 174.33,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "062h7",
+            "player": "Tyler Adams",
+            "position": "M",
+            "fp_g": 16.17
+          },
+          {
+            "id": "070hs",
+            "player": "Gianluigi Donnarumma",
+            "position": "G",
+            "fp_g": 10.88
+          },
+          {
+            "id": "06r9w",
+            "player": "Abdukodir Khusanov",
+            "position": "D",
+            "fp_g": 13.74
+          },
+          {
+            "id": "061vq",
+            "player": "Erling Haaland",
+            "position": "F",
+            "fp_g": 24.76
+          },
+          {
+            "id": "05o4c",
+            "player": "Timothy Castagne",
+            "position": "D",
+            "fp_g": 13.93
+          },
+          {
+            "id": "051kl",
+            "player": "Emiliano Buendia",
+            "position": "M",
+            "fp_g": 13.83
+          },
+          {
+            "id": "051k0",
+            "player": "John McGinn",
+            "position": "M",
+            "fp_g": 16.66
+          },
+          {
+            "id": "06do9",
+            "player": "Milos Kerkez",
+            "position": "D",
+            "fp_g": 10.53
+          },
+          {
+            "id": "06clt",
+            "player": "Justin Kluivert",
+            "position": "M",
+            "fp_g": 13.58
+          },
+          {
+            "id": "038ze",
+            "player": "Alex Iwobi",
+            "position": "M",
+            "fp_g": 23.01
+          },
+          {
+            "id": "070hc",
+            "player": "Brian Brobbey",
+            "position": "F",
+            "fp_g": 17.24
+          }
+        ]
+      },
+      "away": {
+        "teamId": "a20htiwamt05ikfr",
+        "teamName": "GloryMang",
+        "expected_score": 192.05999999999997,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "06rgg",
+            "player": "Michael Kayode",
+            "position": "D",
+            "fp_g": 13.59
+          },
+          {
+            "id": "05opj",
+            "player": "Elliot Anderson",
+            "position": "M",
+            "fp_g": 25.04
+          },
+          {
+            "id": "05oig",
+            "player": "Liam Delap",
+            "position": "F",
+            "fp_g": 9.0
+          },
+          {
+            "id": "05trb",
+            "player": "Bryan Mbeumo",
+            "position": "F",
+            "fp_g": 15.79
+          },
+          {
+            "id": "061xs",
+            "player": "Julio Enciso",
+            "position": "M",
+            "fp_g": 16.81
+          },
+          {
+            "id": "05oh0",
+            "player": "Jan-Paul van Hecke",
+            "position": "D",
+            "fp_g": 19.42
+          },
+          {
+            "id": "05gcc",
+            "player": "Kiernan Dewsbury-Hall",
+            "position": "M",
+            "fp_g": 22.59
+          },
+          {
+            "id": "05r9b",
+            "player": "Martin Odegaard",
+            "position": "M",
+            "fp_g": 18.18
+          },
+          {
+            "id": "05tre",
+            "player": "Vitaly Janelt",
+            "position": "M",
+            "fp_g": 21.91
+          },
+          {
+            "id": "078wl",
+            "player": "Zion Suzuki",
+            "position": "G",
+            "fp_g": 15.48
+          },
+          {
+            "id": "05o8o",
+            "player": "Jayden Bogle",
+            "position": "D",
+            "fp_g": 14.25
+          }
+        ]
+      },
+      "home_win_prob": 0.39181421894099216,
+      "away_win_prob": 0.6081857810590079,
+      "expected_margin": -17.72999999999996
+    },
+    {
+      "teamA": "SYnaldo",
+      "teamB": "Young FC",
+      "teamAId": "wq6widptmt052is7",
+      "teamBId": "3k1hj6a4msx9e1y1",
+      "teamAProjectedScore": 167.54,
+      "teamBProjectedScore": 179.23999999999998,
+      "teamAWinProbability": 42.79665385347414,
+      "teamBWinProbability": 57.20334614652587,
+      "home": {
+        "teamId": "wq6widptmt052is7",
+        "teamName": "SYnaldo",
+        "expected_score": 167.54,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "06v0p",
+            "player": "Enzo Le Fée",
+            "position": "M",
+            "fp_g": 14.6
+          },
+          {
+            "id": "067zv",
+            "player": "Kevin Schade",
+            "position": "F",
+            "fp_g": 18.57
+          },
+          {
+            "id": "070f9",
+            "player": "Yeremy Pino",
+            "position": "M",
+            "fp_g": 13.72
+          },
+          {
+            "id": "0788g",
+            "player": "Lukas Hornícek",
+            "position": "G",
+            "fp_g": 12.27
+          },
+          {
+            "id": "0477b",
+            "player": "Oliver McBurnie",
+            "position": "F",
+            "fp_g": 15.0
+          },
+          {
+            "id": "02m5l",
+            "player": "John Egan",
+            "position": "D",
+            "fp_g": 10.61
+          },
+          {
+            "id": "0427d",
+            "player": "James Tarkowski",
+            "position": "D",
+            "fp_g": 23.01
+          },
+          {
+            "id": "063q8",
+            "player": "Mikkel Damsgaard",
+            "position": "M",
+            "fp_g": 13.55
+          },
+          {
+            "id": "03mfe",
+            "player": "Matt Grimes",
+            "position": "M",
+            "fp_g": 12.51
+          },
+          {
+            "id": "05a6e",
+            "player": "Neco Williams",
+            "position": "D",
+            "fp_g": 17.2
+          },
+          {
+            "id": "0521z",
+            "player": "James Justin",
+            "position": "D",
+            "fp_g": 16.5
+          }
+        ]
+      },
+      "away": {
+        "teamId": "3k1hj6a4msx9e1y1",
+        "teamName": "Young FC",
+        "expected_score": 179.23999999999998,
+        "active_used": 11,
+        "active_unmatched": 0,
+        "players": [
+          {
+            "id": "06onv",
+            "player": "Harrison Armstrong",
+            "position": "M",
+            "fp_g": 14.55
+          },
+          {
+            "id": "062p3",
+            "player": "Keane Lewis-Potter",
+            "position": "M",
+            "fp_g": 15.0
+          },
+          {
+            "id": "06nu7",
+            "player": "Riccardo Calafiori",
+            "position": "D",
+            "fp_g": 11.51
+          },
+          {
+            "id": "06v0y",
+            "player": "Luka Vuskovic",
+            "position": "D",
+            "fp_g": 19.83
+          },
+          {
+            "id": "0793h",
+            "player": "Exequiel Palacios",
+            "position": "M",
+            "fp_g": 21.31
+          },
+          {
+            "id": "06cm1",
+            "player": "Nicolas Jackson",
+            "position": "F",
+            "fp_g": 19.47
+          },
+          {
+            "id": "06jgs",
+            "player": "Adam Wharton",
+            "position": "M",
+            "fp_g": 15.5
+          },
+          {
+            "id": "0784z",
+            "player": "Jeremy Jacquet",
+            "position": "D",
+            "fp_g": 18.06
+          },
+          {
+            "id": "05nzu",
+            "player": "Gabriel Magalhaes",
+            "position": "D",
+            "fp_g": 15.36
+          },
+          {
+            "id": "032f9",
+            "player": "Jordan Pickford",
+            "position": "G",
+            "fp_g": 11.68
+          },
+          {
+            "id": "068ym",
+            "player": "Enzo Fernandez",
+            "position": "M",
+            "fp_g": 16.97
+          }
+        ]
+      },
+      "home_win_prob": 0.42796653853474137,
+      "away_win_prob": 0.5720334614652587,
+      "expected_margin": -11.699999999999989
+    }
+  ],
+  "period": 9
+}

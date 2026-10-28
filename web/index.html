@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fantrax FP/90</title>
+  <link rel="stylesheet" href="fp90.css">
+</head>
+<body>
+  <div class="wrap">
+    <h1>Fantrax FP/90</h1>
+    <div class="sub" id="updated">Last updated: —</div>
+    <div class="note">
+      FP/90 = Fantasy Points ÷ Minutes Played × 90. Low-minute players may have inflated values.
+      This uses the league’s custom FPts, not Fantrax Pt/90. Default view is 180+ minutes.
+    </div>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search player (Saka, Pedro, João…)">
+      <button id="refresh" class="admin-only" type="button">Refresh</button>
+      <button id="csv" type="button">CSV</button>
+      <span class="status" id="status"></span>
+      <span class="status" id="count"></span>
+    </div>
+    <div class="filters">
+      <label>Position
+        <select id="position">
+          <option value="">All</option>
+          <option value="G">G</option>
+          <option value="D">D</option>
+          <option value="M">M</option>
+          <option value="F">F</option>
+        </select>
+      </label>
+      <label>Roster
+        <select id="roster">
+          <option value="">All</option>
+          <option value="Rostered">Rostered</option>
+          <option value="Available">Available</option>
+        </select>
+      </label>
+      <label>Min minutes
+        <select id="minutes">
+          <option value="0">All</option>
+          <option value="90">90+</option>
+          <option value="180" selected>180+</option>
+          <option value="300">300+</option>
+          <option value="450">450+</option>
+          <option value="600">600+</option>
+        </select>
+      </label>
+      <label>Min GP
+        <select id="gp">
+          <option value="0">All</option>
+          <option value="1">1+</option>
+          <option value="3">3+</option>
+          <option value="5">5+</option>
+          <option value="8">8+</option>
+        </select>
+      </label>
+      <label>Min source
+        <select id="source">
+          <option value="">All</option>
+          <option value="Fantrax">Fantrax</option>
+          <option value="FPL">FPL</option>
+        </select>
+      </label>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th data-key="player" class="player">Player</th>
+            <th data-key="position">Pos</th>
+            <th data-key="eplTeam">EPL</th>
+            <th data-key="fpts" class="num">FPts</th>
+            <th data-key="fpG" class="num">FP/G</th>
+            <th data-key="minutes" class="num">Min</th>
+            <th data-key="gp" class="num">GP</th>
+            <th data-key="fp90" class="num">FP/90</th>
+            <th data-key="minutesSource">Min src</th>
+            <th data-key="rosterStatus">Roster</th>
+            <th data-key="ownerTeamName">Owner</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+  </div>
+  <script src="fp90.js"></script>
+</body>
+</html>

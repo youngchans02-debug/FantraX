@@ -1,0 +1,45 @@
+{
+  "league_id": "kimrr80gmsx9e18z",
+  "base_url": "https://www.fantrax.com/fxea/general",
+  "league_name": "SSM Palbang League",
+  "paths": {
+    "data_dir": "fantrax_data",
+    "input_dir": "input",
+    "output_dir": "output",
+    "players_season_csv": "input/players_season.csv",
+    "players_gw_csv": "input/players_gw.csv",
+    "draft_csv": "input/draft.csv"
+  },
+  "power_ranking": {
+    "weight_season_avg": 0.5,
+    "weight_recent_avg": 0.3,
+    "weight_expected_win": 0.2,
+    "recent_rounds": 3,
+    "normalize_components": true
+  },
+  "preview": {
+    "score_sigma": null,
+    "max_cache_age_hours": 12
+  },
+  "lineup_rules": {
+    "source": "league_info.rosterInfo.positionConstraints",
+    "totalStarters": 11,
+    "totalRoster": 16,
+    "maxReserve": 5,
+    "positions": {
+      "G": {"min": 1, "max": 1},
+      "D": {"min": 0, "max": 5},
+      "M": {"min": 0, "max": 5},
+      "F": {"min": 0, "max": 3}
+    },
+    "notes": "Fantrax publishes maxActive only (G1/D5/M5/F3, 11 starters, 5 reserve). G min=1 is required here because maxActive G=1 and every observed XI starts one GK. D/M/F mins stay 0; a formation is legal only if it also sums to 11."
+  },
+  "manager_analysis": {
+    "score_tolerance": 0.03,
+    "freeze_roster_when": ["in_progress", "completed"]
+  },
+  "http": {
+    "timeout_seconds": 30,
+    "user_agent": "Mozilla/5.0"
+  }
+}

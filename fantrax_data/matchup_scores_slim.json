@@ -1,0 +1,929 @@
+{
+  "1": {
+    "period": 1,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 132.74,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 199.91,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 122.69,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 117.72,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 118.84,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 149.59,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 81.33,
+          "gamesPlayed": 6
+        },
+        "away": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 127.39,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 158.61,
+          "gamesPlayed": 7
+        },
+        "away": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 139.76,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 139.74,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 109.81,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 117.01,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 81.35,
+          "gamesPlayed": 9
+        }
+      }
+    ]
+  },
+  "2": {
+    "period": 2,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 185.92,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      },
+      {
+        "home": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 194.75,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 151.47,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 91.62,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 142.32,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 171.58,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 150.2,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 150.0,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 119.06,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 129.93,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 145.86,
+          "gamesPlayed": 9
+        }
+      },
+      {
+        "home": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 133.45,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 142.88,
+          "gamesPlayed": 10
+        }
+      }
+    ]
+  },
+  "3": {
+    "period": 3,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 176.31,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 146.22,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 138.25,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 103.91,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 234.34,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 109.56,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 75.41,
+          "gamesPlayed": 6
+        },
+        "away": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 198.31,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 117.01,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 103.2,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 150.51,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 106.36,
+          "gamesPlayed": 9
+        }
+      },
+      {
+        "home": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 161.7,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 189.37,
+          "gamesPlayed": 10
+        }
+      }
+    ]
+  },
+  "4": {
+    "period": 4,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 147.74,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 110.81,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 181.66,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 138.78,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 132.04,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 179.0,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 126.96,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 165.19,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 168.1,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 78.27,
+          "gamesPlayed": 7
+        }
+      },
+      {
+        "home": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 130.14,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 159.83,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 180.23,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 119.3,
+          "gamesPlayed": 9
+        }
+      }
+    ]
+  },
+  "5": {
+    "period": 5,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 142.57,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 219.21,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 98.83,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 199.9,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 180.12,
+          "gamesPlayed": 9
+        }
+      },
+      {
+        "home": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 197.29,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 160.02,
+          "gamesPlayed": 9
+        }
+      },
+      {
+        "home": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 152.02,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 105.94,
+          "gamesPlayed": 9
+        }
+      },
+      {
+        "home": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 110.72,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 148.11,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 178.56,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 148.77,
+          "gamesPlayed": 9
+        }
+      }
+    ]
+  },
+  "6": {
+    "period": 6,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 199.22,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 130.07,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 161.2,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 172.33,
+          "gamesPlayed": 9
+        }
+      },
+      {
+        "home": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 121.52,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 151.11,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 75.35,
+          "gamesPlayed": 7
+        },
+        "away": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 140.0,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 201.48,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 155.87,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 97.82,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 235.15,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 137.09,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 153.61,
+          "gamesPlayed": 9
+        }
+      }
+    ]
+  },
+  "7": {
+    "period": 7,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 127.91,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 97.72,
+          "gamesPlayed": 9
+        }
+      },
+      {
+        "home": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 199.68,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 141.89,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 164.07,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 145.97,
+          "gamesPlayed": 7
+        }
+      },
+      {
+        "home": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 178.37,
+          "gamesPlayed": 10
+        },
+        "away": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 171.41,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 161.03,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 146.38,
+          "gamesPlayed": 8
+        }
+      },
+      {
+        "home": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 196.21,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 191.03,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 128.62,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 154.18,
+          "gamesPlayed": 11
+        }
+      }
+    ]
+  },
+  "8": {
+    "period": 8,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 173.41,
+          "gamesPlayed": 9
+        },
+        "away": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 166.8,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 128.65,
+          "gamesPlayed": 8
+        },
+        "away": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 80.92,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 113.89,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 199.65,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 220.25,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 154.15,
+          "gamesPlayed": 10
+        }
+      },
+      {
+        "home": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 197.51,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 175.61,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 165.01,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 151.19,
+          "gamesPlayed": 11
+        }
+      },
+      {
+        "home": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 168.7,
+          "gamesPlayed": 11
+        },
+        "away": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 118.75,
+          "gamesPlayed": 10
+        }
+      }
+    ]
+  },
+  "9": {
+    "period": 9,
+    "matchups": [
+      {
+        "home": {
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      },
+      {
+        "home": {
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      },
+      {
+        "home": {
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      },
+      {
+        "home": {
+          "teamId": "pje1yzfgmt04th4u",
+          "teamName": "eunho",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      },
+      {
+        "home": {
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      },
+      {
+        "home": {
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      },
+      {
+        "home": {
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "score": 0.0,
+          "gamesPlayed": 0
+        },
+        "away": {
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "score": 0.0,
+          "gamesPlayed": 0
+        }
+      }
+    ]
+  }
+}

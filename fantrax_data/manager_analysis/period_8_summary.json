@@ -1,0 +1,1050 @@
+{
+  "period": 8,
+  "snapshotNote": "Roster source: getTeamRosters?period=8. Snapshot written at 2026-10-26T02:28:21+00:00. Period state at analysis time: in_progress. ACTIVE FPts sums match Fantrax matchup scores within tolerance. This is a historical getTeamRosters?period snapshot, not a lock-time file captured during GW8.",
+  "largestLineupLoss": {
+    "team": "Young FC",
+    "teamId": "3k1hj6a4msx9e1y1",
+    "lineupLoss": 53.48
+  },
+  "lowestLineupEfficiency": {
+    "team": "Kangte",
+    "teamId": "m2wdonermt15132j",
+    "lineupEfficiency": 68.17
+  },
+  "highestLineupEfficiency": {
+    "team": "moonbape",
+    "teamId": "oi40p2iymt059qby",
+    "lineupEfficiency": 99.35
+  },
+  "topBenchDisasters": [
+    {
+      "team": "Young FC",
+      "teamId": "3k1hj6a4msx9e1y1",
+      "benchPlayer": "Nicolas Jackson",
+      "benchPoints": 47.16,
+      "replacedPlayer": "Dominic Calvert-Lewin",
+      "replacedPlayerPoints": -4.94,
+      "potentialGain": 52.1
+    },
+    {
+      "team": "Kangte",
+      "teamId": "m2wdonermt15132j",
+      "benchPlayer": "Mateus Fernandes",
+      "benchPoints": 29.39,
+      "replacedPlayer": "Ross Barkley",
+      "replacedPlayerPoints": 0.41,
+      "potentialGain": 28.98
+    },
+    {
+      "team": "hwoojo",
+      "teamId": "u4gyh7r5mt14pty3",
+      "benchPlayer": "Oscar Bobb",
+      "benchPoints": 26.57,
+      "replacedPlayer": "Abdul Fatawu",
+      "replacedPlayerPoints": -1.0,
+      "potentialGain": 27.57
+    },
+    {
+      "team": "GloryMang",
+      "teamId": "a20htiwamt05ikfr",
+      "benchPlayer": "Michael Kayode",
+      "benchPoints": 20.27,
+      "replacedPlayer": "Youri Tielemans",
+      "replacedPlayerPoints": -4.43,
+      "potentialGain": 24.7
+    },
+    {
+      "team": "soundwave134",
+      "teamId": "5r1c15nxmt05egzg",
+      "benchPlayer": "Nilson Angulo",
+      "benchPoints": 18.77,
+      "replacedPlayer": "Joachim Andersen",
+      "replacedPlayerPoints": 0.0,
+      "potentialGain": 18.77
+    },
+    {
+      "team": "KurtZuna",
+      "teamId": "s2bvo3ebmt14wjvp",
+      "benchPlayer": "Andrew Robertson",
+      "benchPoints": 15.31,
+      "replacedPlayer": "Ryan Giles",
+      "replacedPlayerPoints": -3.02,
+      "potentialGain": 18.33
+    },
+    {
+      "team": "DJSoccerKing",
+      "teamId": "ct1s1zwcmt19vbyl",
+      "benchPlayer": "Sander Berge",
+      "benchPoints": 13.08,
+      "replacedPlayer": "Bruno Fernandes",
+      "replacedPlayerPoints": 0.0,
+      "potentialGain": 13.08
+    },
+    {
+      "team": "yeseong",
+      "teamId": "6x7ow4qcmt0zjt4n",
+      "benchPlayer": "Ezri Konsa",
+      "benchPoints": 22.04,
+      "replacedPlayer": "Regan Slater",
+      "replacedPlayerPoints": 11.06,
+      "potentialGain": 10.98
+    },
+    {
+      "team": "eunho",
+      "teamId": "pje1yzfgmt04th4u",
+      "benchPlayer": "Tyrique George",
+      "benchPoints": 17.09,
+      "replacedPlayer": "Chema Andres",
+      "replacedPlayerPoints": 7.46,
+      "potentialGain": 9.63
+    },
+    {
+      "team": "SYnaldo",
+      "teamId": "wq6widptmt052is7",
+      "benchPlayer": "Matheus Cunha",
+      "benchPoints": 12.29,
+      "replacedPlayer": "Kevin Schade",
+      "replacedPlayerPoints": 3.05,
+      "potentialGain": 9.24
+    }
+  ],
+  "topManagerCalls": [
+    {
+      "team": "moonbape",
+      "teamId": "oi40p2iymt059qby",
+      "activePlayer": "Mathys Tel",
+      "activePoints": 38.14,
+      "benchAlternative": "Josh Acheampong",
+      "benchPoints": 2.27,
+      "managerGain": 35.87
+    },
+    {
+      "team": "Parapara123",
+      "teamId": "1sus3firmt070mdn",
+      "activePlayer": "Marcus Tavernier",
+      "activePoints": 30.77,
+      "benchAlternative": "Pedro Porro",
+      "benchPoints": 4.62,
+      "managerGain": 26.15
+    },
+    {
+      "team": "eunho",
+      "teamId": "pje1yzfgmt04th4u",
+      "activePlayer": "James Mcatee",
+      "activePoints": 37.19,
+      "benchAlternative": "Tyrique George",
+      "benchPoints": 17.09,
+      "managerGain": 20.1
+    },
+    {
+      "team": "kms361657",
+      "teamId": "ril8ciadmt04vx0l",
+      "activePlayer": "Cody Gakpo",
+      "activePoints": 24.59,
+      "benchAlternative": "Anthony Elanga",
+      "benchPoints": 5.07,
+      "managerGain": 19.52
+    },
+    {
+      "team": "kms361657",
+      "teamId": "ril8ciadmt04vx0l",
+      "activePlayer": "Florian Wirtz",
+      "activePoints": 24.52,
+      "benchAlternative": "Anthony Elanga",
+      "benchPoints": 5.07,
+      "managerGain": 19.45
+    },
+    {
+      "team": "Parapara123",
+      "teamId": "1sus3firmt070mdn",
+      "activePlayer": "Harvey Barnes",
+      "activePoints": 22.7,
+      "benchAlternative": "Pedro Porro",
+      "benchPoints": 4.62,
+      "managerGain": 18.08
+    },
+    {
+      "team": "moonland",
+      "teamId": "tuptxs8ymt1littl",
+      "activePlayer": "Erling Haaland",
+      "activePoints": 27.22,
+      "benchAlternative": "Conor Gallagher",
+      "benchPoints": 9.49,
+      "managerGain": 17.73
+    },
+    {
+      "team": "DJSoccerKing",
+      "teamId": "ct1s1zwcmt19vbyl",
+      "activePlayer": "Bradley Barcola",
+      "activePoints": 26.7,
+      "benchAlternative": "Ian Maatsen",
+      "benchPoints": 10.15,
+      "managerGain": 16.55
+    },
+    {
+      "team": "Parapara123",
+      "teamId": "1sus3firmt070mdn",
+      "activePlayer": "Alexis Mac Allister",
+      "activePoints": 21.09,
+      "benchAlternative": "Pedro Porro",
+      "benchPoints": 4.62,
+      "managerGain": 16.47
+    },
+    {
+      "team": "SYnaldo",
+      "teamId": "wq6widptmt052is7",
+      "activePlayer": "Oliver McBurnie",
+      "activePoints": 28.75,
+      "benchAlternative": "Matheus Cunha",
+      "benchPoints": 12.29,
+      "managerGain": 16.46
+    }
+  ],
+  "singleSwapResultFlips": [
+    {
+      "team": "Young FC",
+      "opponent": "GloryMang",
+      "actualScore": 118.75,
+      "opponentScore": 168.7,
+      "bestSingleSwapGain": 52.1,
+      "adjustedScore": 170.85,
+      "benchPlayerIn": "Nicolas Jackson",
+      "activePlayerOut": "Dominic Calvert-Lewin",
+      "resultFlip": true
+    },
+    {
+      "team": "kms361657",
+      "opponent": "soundwave134",
+      "actualScore": 166.8,
+      "opponentScore": 173.41,
+      "bestSingleSwapGain": 7.26,
+      "adjustedScore": 174.06,
+      "benchPlayerIn": "Anthony Elanga",
+      "activePlayerOut": "Olivier Boscagli",
+      "resultFlip": true
+    }
+  ],
+  "bestXIResultFlips": [
+    {
+      "team": "Young FC",
+      "opponent": "GloryMang",
+      "actualScore": 118.75,
+      "opponentScore": 168.7,
+      "bestPossibleScore": 172.23,
+      "resultFlip": true
+    },
+    {
+      "team": "kms361657",
+      "opponent": "soundwave134",
+      "actualScore": 166.8,
+      "opponentScore": 173.41,
+      "bestPossibleScore": 174.07,
+      "resultFlip": true
+    }
+  ],
+  "injuryTaxCandidates": [
+    {
+      "team": "soundwave134",
+      "player": "Bukayo Saka",
+      "fantasyStatus": "ACTIVE",
+      "gwPoints": 0.0,
+      "playerStatus": "Injured/Out (news tooltip)",
+      "bestBenchReplacement": "Nilson Angulo",
+      "replacementPoints": 18.77
+    },
+    {
+      "team": "Parapara123",
+      "player": "Lewis Miley",
+      "fantasyStatus": "ACTIVE",
+      "gwPoints": 0.0,
+      "playerStatus": "Injured/Out (news tooltip)",
+      "bestBenchReplacement": "Pedro Porro",
+      "replacementPoints": 4.62
+    },
+    {
+      "team": "Parapara123",
+      "player": "Nico Elvedi",
+      "fantasyStatus": "ACTIVE",
+      "gwPoints": 0.0,
+      "playerStatus": "Injured/Out (news tooltip)",
+      "bestBenchReplacement": "Pedro Porro",
+      "replacementPoints": 4.62
+    }
+  ],
+  "scoreValidation": [
+    {
+      "team": "Young FC",
+      "teamId": "3k1hj6a4msx9e1y1",
+      "actualScore": 118.75,
+      "bestPossibleScore": 172.23,
+      "lineupLoss": 53.48,
+      "lineupEfficiency": 68.95,
+      "benchPoints": 48.26,
+      "highestBenchPlayer": {
+        "playerId": "06cm1",
+        "name": "Nicolas Jackson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 47.16,
+        "eplTeam": "AVL",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "06cm1",
+          "name": "Nicolas Jackson",
+          "position": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 47.16,
+          "eplTeam": "AVL",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "049tq",
+          "name": "Dominic Calvert-Lewin",
+          "position": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": -4.94,
+          "eplTeam": "LEE",
+          "playerStatus": null
+        },
+        "gain": 52.1
+      },
+      "scoreValidation": {
+        "fantraxScore": 118.75,
+        "calculatedScore": 118.75,
+        "difference": 0.0,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "hwoojo",
+      "teamId": "u4gyh7r5mt14pty3",
+      "actualScore": 197.51,
+      "bestPossibleScore": 242.9,
+      "lineupLoss": 45.39,
+      "lineupEfficiency": 81.31,
+      "benchPoints": 59.39,
+      "highestBenchPlayer": {
+        "playerId": "05ye7",
+        "name": "Oscar Bobb",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 26.57,
+        "eplTeam": "FUL",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "05ye7",
+          "name": "Oscar Bobb",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 26.57,
+          "eplTeam": "FUL",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "06mgd",
+          "name": "Abdul Fatawu",
+          "position": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": -1.0,
+          "eplTeam": "IPS",
+          "playerStatus": null
+        },
+        "gain": 27.57
+      },
+      "scoreValidation": {
+        "fantraxScore": 197.51,
+        "calculatedScore": 197.51,
+        "difference": 0.0,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "Kangte",
+      "teamId": "m2wdonermt15132j",
+      "actualScore": 80.92,
+      "bestPossibleScore": 118.69,
+      "lineupLoss": 37.78,
+      "lineupEfficiency": 68.17,
+      "benchPoints": 38.54,
+      "highestBenchPlayer": {
+        "playerId": "06pe1",
+        "name": "Mateus Fernandes",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 29.39,
+        "eplTeam": "TOT",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "06pe1",
+          "name": "Mateus Fernandes",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 29.39,
+          "eplTeam": "TOT",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "02lpf",
+          "name": "Ross Barkley",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 0.41,
+          "eplTeam": "AVL",
+          "playerStatus": null
+        },
+        "gain": 28.98
+      },
+      "scoreValidation": {
+        "fantraxScore": 80.92,
+        "calculatedScore": 80.91,
+        "difference": -0.01,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "soundwave134",
+      "teamId": "5r1c15nxmt05egzg",
+      "actualScore": 173.41,
+      "bestPossibleScore": 205.79,
+      "lineupLoss": 32.38,
+      "lineupEfficiency": 84.27,
+      "benchPoints": 39.84,
+      "highestBenchPlayer": {
+        "playerId": "072zs",
+        "name": "Nilson Angulo",
+        "position": "F",
+        "eligiblePositions": [
+          "M"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 18.77,
+        "eplTeam": "SUN",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "072zs",
+          "name": "Nilson Angulo",
+          "position": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 18.77,
+          "eplTeam": "SUN",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "05os8",
+          "name": "Joachim Andersen",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 0.0,
+          "eplTeam": "FUL",
+          "playerStatus": null
+        },
+        "gain": 18.77
+      },
+      "scoreValidation": {
+        "fantraxScore": 173.41,
+        "calculatedScore": 173.41,
+        "difference": 0.0,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "KurtZuna",
+      "teamId": "s2bvo3ebmt14wjvp",
+      "actualScore": 165.01,
+      "bestPossibleScore": 196.27,
+      "lineupLoss": 31.28,
+      "lineupEfficiency": 84.06,
+      "benchPoints": 42.28,
+      "highestBenchPlayer": {
+        "playerId": "03gu5",
+        "name": "Andrew Robertson",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 15.31,
+        "eplTeam": "TOT",
+        "playerStatus": "Injured/Out (news tooltip)"
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "03gu5",
+          "name": "Andrew Robertson",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 15.31,
+          "eplTeam": "TOT",
+          "playerStatus": "Injured/Out (news tooltip)"
+        },
+        "playerOut": {
+          "playerId": "04sjv",
+          "name": "Ryan Giles",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": -3.02,
+          "eplTeam": "HUL",
+          "playerStatus": null
+        },
+        "gain": 18.33
+      },
+      "scoreValidation": {
+        "fantraxScore": 165.01,
+        "calculatedScore": 164.99,
+        "difference": -0.02,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "GloryMang",
+      "teamId": "a20htiwamt05ikfr",
+      "actualScore": 168.7,
+      "bestPossibleScore": 196.64,
+      "lineupLoss": 27.93,
+      "lineupEfficiency": 85.8,
+      "benchPoints": 22.77,
+      "highestBenchPlayer": {
+        "playerId": "06rgg",
+        "name": "Michael Kayode",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 20.27,
+        "eplTeam": "BRF",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "06rgg",
+          "name": "Michael Kayode",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 20.27,
+          "eplTeam": "BRF",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "04yo7",
+          "name": "Youri Tielemans",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": -4.43,
+          "eplTeam": "MUN",
+          "playerStatus": null
+        },
+        "gain": 24.7
+      },
+      "scoreValidation": {
+        "fantraxScore": 168.7,
+        "calculatedScore": 168.71,
+        "difference": 0.01,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "DJSoccerKing",
+      "teamId": "ct1s1zwcmt19vbyl",
+      "actualScore": 154.15,
+      "bestPossibleScore": 169.17,
+      "lineupLoss": 15.02,
+      "lineupEfficiency": 91.12,
+      "benchPoints": 26.5,
+      "highestBenchPlayer": {
+        "playerId": "05gcs",
+        "name": "Sander Berge",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 13.08,
+        "eplTeam": "FUL",
+        "playerStatus": "Injured/Out (news tooltip)"
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "05gcs",
+          "name": "Sander Berge",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 13.08,
+          "eplTeam": "FUL",
+          "playerStatus": "Injured/Out (news tooltip)"
+        },
+        "playerOut": {
+          "playerId": "05gcr",
+          "name": "Bruno Fernandes",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 0.0,
+          "eplTeam": "MUN",
+          "playerStatus": null
+        },
+        "gain": 13.08
+      },
+      "scoreValidation": {
+        "fantraxScore": 154.15,
+        "calculatedScore": 154.15,
+        "difference": -0.0,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "SYnaldo",
+      "teamId": "wq6widptmt052is7",
+      "actualScore": 151.19,
+      "bestPossibleScore": 162.9,
+      "lineupLoss": 11.71,
+      "lineupEfficiency": 92.81,
+      "benchPoints": 24.51,
+      "highestBenchPlayer": {
+        "playerId": "067yz",
+        "name": "Matheus Cunha",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 12.29,
+        "eplTeam": "MUN",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "067yz",
+          "name": "Matheus Cunha",
+          "position": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 12.29,
+          "eplTeam": "MUN",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "067zv",
+          "name": "Kevin Schade",
+          "position": "M",
+          "eligiblePositions": [
+            "F"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 3.05,
+          "eplTeam": "BRF",
+          "playerStatus": null
+        },
+        "gain": 9.24
+      },
+      "scoreValidation": {
+        "fantraxScore": 151.19,
+        "calculatedScore": 151.19,
+        "difference": 0.0,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "yeseong",
+      "teamId": "6x7ow4qcmt0zjt4n",
+      "actualScore": 220.25,
+      "bestPossibleScore": 231.22,
+      "lineupLoss": 10.98,
+      "lineupEfficiency": 95.25,
+      "benchPoints": 41.27,
+      "highestBenchPlayer": {
+        "playerId": "052ca",
+        "name": "Ezri Konsa",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 22.04,
+        "eplTeam": "ARS",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "052ca",
+          "name": "Ezri Konsa",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 22.04,
+          "eplTeam": "ARS",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "05o2p",
+          "name": "Regan Slater",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 11.06,
+          "eplTeam": "HUL",
+          "playerStatus": null
+        },
+        "gain": 10.98
+      },
+      "scoreValidation": {
+        "fantraxScore": 220.25,
+        "calculatedScore": 220.24,
+        "difference": -0.01,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "eunho",
+      "teamId": "pje1yzfgmt04th4u",
+      "actualScore": 199.65,
+      "bestPossibleScore": 209.27,
+      "lineupLoss": 9.63,
+      "lineupEfficiency": 95.4,
+      "benchPoints": 21.23,
+      "highestBenchPlayer": {
+        "playerId": "06l4i",
+        "name": "Tyrique George",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 17.09,
+        "eplTeam": "EVE",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "06l4i",
+          "name": "Tyrique George",
+          "position": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 17.09,
+          "eplTeam": "EVE",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "0794d",
+          "name": "Chema Andres",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 7.46,
+          "eplTeam": "BHA",
+          "playerStatus": null
+        },
+        "gain": 9.63
+      },
+      "scoreValidation": {
+        "fantraxScore": 199.65,
+        "calculatedScore": 199.64,
+        "difference": -0.01,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "kms361657",
+      "teamId": "ril8ciadmt04vx0l",
+      "actualScore": 166.8,
+      "bestPossibleScore": 174.07,
+      "lineupLoss": 7.26,
+      "lineupEfficiency": 95.83,
+      "benchPoints": 5.82,
+      "highestBenchPlayer": {
+        "playerId": "05ogb",
+        "name": "Anthony Elanga",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 5.07,
+        "eplTeam": "NEW",
+        "playerStatus": "Injured/Out (news tooltip)"
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "05ogb",
+          "name": "Anthony Elanga",
+          "position": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 5.07,
+          "eplTeam": "NEW",
+          "playerStatus": "Injured/Out (news tooltip)"
+        },
+        "playerOut": {
+          "playerId": "06y26",
+          "name": "Olivier Boscagli",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": -2.19,
+          "eplTeam": "BHA",
+          "playerStatus": null
+        },
+        "gain": 7.26
+      },
+      "scoreValidation": {
+        "fantraxScore": 166.8,
+        "calculatedScore": 166.81,
+        "difference": 0.01,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "moonland",
+      "teamId": "tuptxs8ymt1littl",
+      "actualScore": 175.61,
+      "bestPossibleScore": 181.26,
+      "lineupLoss": 5.65,
+      "lineupEfficiency": 96.88,
+      "benchPoints": 24.44,
+      "highestBenchPlayer": {
+        "playerId": "051k8",
+        "name": "Conor Gallagher",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 9.49,
+        "eplTeam": "TOT",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "051k8",
+          "name": "Conor Gallagher",
+          "position": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 9.49,
+          "eplTeam": "TOT",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "05ybq",
+          "name": "Vitalii Mykolenko",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 4.34,
+          "eplTeam": "EVE",
+          "playerStatus": null
+        },
+        "gain": 5.15
+      },
+      "scoreValidation": {
+        "fantraxScore": 175.61,
+        "calculatedScore": 175.61,
+        "difference": -0.0,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "Parapara123",
+      "teamId": "1sus3firmt070mdn",
+      "actualScore": 128.65,
+      "bestPossibleScore": 133.28,
+      "lineupLoss": 4.62,
+      "lineupEfficiency": 96.53,
+      "benchPoints": 4.62,
+      "highestBenchPlayer": {
+        "playerId": "05n07",
+        "name": "Pedro Porro",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 4.62,
+        "eplTeam": "TOT",
+        "playerStatus": "Injured/Out (news tooltip)"
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "05n07",
+          "name": "Pedro Porro",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 4.62,
+          "eplTeam": "TOT",
+          "playerStatus": "Injured/Out (news tooltip)"
+        },
+        "playerOut": {
+          "playerId": "062a9",
+          "name": "Sven Botman",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 0.0,
+          "eplTeam": "NEW",
+          "playerStatus": null
+        },
+        "gain": 4.62
+      },
+      "scoreValidation": {
+        "fantraxScore": 128.65,
+        "calculatedScore": 128.66,
+        "difference": 0.01,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    },
+    {
+      "team": "moonbape",
+      "teamId": "oi40p2iymt059qby",
+      "actualScore": 113.89,
+      "bestPossibleScore": 114.63,
+      "lineupLoss": 0.74,
+      "lineupEfficiency": 99.35,
+      "benchPoints": 1.69,
+      "highestBenchPlayer": {
+        "playerId": "06kwp",
+        "name": "Josh Acheampong",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "fantasyStatus": "RESERVE",
+        "points": 2.27,
+        "eplTeam": "CHE",
+        "playerStatus": null
+      },
+      "bestSingleSwap": {
+        "playerIn": {
+          "playerId": "06kwp",
+          "name": "Josh Acheampong",
+          "position": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "fantasyStatus": "RESERVE",
+          "points": 2.27,
+          "eplTeam": "CHE",
+          "playerStatus": null
+        },
+        "playerOut": {
+          "playerId": "05uht",
+          "name": "Morgan Rogers",
+          "position": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "fantasyStatus": "ACTIVE",
+          "points": 1.53,
+          "eplTeam": "CHE",
+          "playerStatus": null
+        },
+        "gain": 0.74
+      },
+      "scoreValidation": {
+        "fantraxScore": 113.89,
+        "calculatedScore": 113.89,
+        "difference": -0.0,
+        "valid": true,
+        "tolerance": 0.03
+      }
+    }
+  ],
+  "scoringBreakdown": {
+    "playerLevelAvailable": false,
+    "reason": "getPlayerStats default STATS view only returns FPts. Team-level RC/OG/PK/error totals are stored as teamEventHints."
+  }
+}

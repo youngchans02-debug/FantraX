@@ -1,0 +1,2586 @@
+{
+  "period": 6,
+  "snapshot_time": "2026-10-26T02:28:20+00:00",
+  "source": "getTeamRosters?period=6",
+  "api_period": 6,
+  "team_count": 14,
+  "player_count": 224,
+  "teams": [
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "ct1s1zwcmt19vbyl",
+      "teamName": "DJSoccerKing",
+      "players": [
+        {
+          "playerId": "06jgi",
+          "playerName": "Daniel Munoz",
+          "eplTeam": "NOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06jgs",
+          "playerName": "Adam Wharton",
+          "eplTeam": "CRY",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05tr9",
+          "playerName": "Mathias Jensen",
+          "eplTeam": "BRF",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06y9o",
+          "playerName": "Igor Jesus",
+          "eplTeam": "NOT",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "067ys",
+          "playerName": "Jack Hinshelwood",
+          "eplTeam": "BHA",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "061va",
+          "playerName": "Boubacar Kamara",
+          "eplTeam": "AVL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "076db",
+          "playerName": "Brandon Thomas-Asante",
+          "eplTeam": "COV",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05gcr",
+          "playerName": "Bruno Fernandes",
+          "eplTeam": "MUN",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05gcs",
+          "playerName": "Sander Berge",
+          "eplTeam": "FUL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0435m",
+          "playerName": "Granit Xhaka",
+          "eplTeam": "SUN",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0793q",
+          "playerName": "Bradley Barcola",
+          "eplTeam": "LIV",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "052cb",
+          "playerName": "Ian Maatsen",
+          "eplTeam": "AVL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05l27",
+          "playerName": "Jarrad Branthwaite",
+          "eplTeam": "EVE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05o4b",
+          "playerName": "Matty Cash",
+          "eplTeam": "AVL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "062p5",
+          "playerName": "Levi Colwill",
+          "eplTeam": "CHE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05tqx",
+          "playerName": "David Raya",
+          "eplTeam": "ARS",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "a20htiwamt05ikfr",
+      "teamName": "GloryMang",
+      "players": [
+        {
+          "playerId": "066r9",
+          "playerName": "Ehor Yarmolyuk",
+          "eplTeam": "BRF",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0558w",
+          "playerName": "William Saliba",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06rgg",
+          "playerName": "Michael Kayode",
+          "eplTeam": "BRF",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05o6h",
+          "playerName": "Kai Havertz",
+          "eplTeam": "ARS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05opj",
+          "playerName": "Elliot Anderson",
+          "eplTeam": "MCI",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05oig",
+          "playerName": "Liam Delap",
+          "eplTeam": "NOT",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05trb",
+          "playerName": "Bryan Mbeumo",
+          "eplTeam": "MUN",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "061xs",
+          "playerName": "Julio Enciso",
+          "eplTeam": "IPS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05oh0",
+          "playerName": "Jan-Paul van Hecke",
+          "eplTeam": "TOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05gcc",
+          "playerName": "Kiernan Dewsbury-Hall",
+          "eplTeam": "EVE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04yo7",
+          "playerName": "Youri Tielemans",
+          "eplTeam": "MUN",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05r9b",
+          "playerName": "Martin Odegaard",
+          "eplTeam": "ARS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05tre",
+          "playerName": "Vitaly Janelt",
+          "eplTeam": "BRF",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "078wl",
+          "playerName": "Zion Suzuki",
+          "eplTeam": "AVL",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0703c",
+          "playerName": "Nordi Mukiele",
+          "eplTeam": "SUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05o8o",
+          "playerName": "Jayden Bogle",
+          "eplTeam": "LEE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "m2wdonermt15132j",
+      "teamName": "Kangte",
+      "players": [
+        {
+          "playerId": "06yxe",
+          "playerName": "Estevao",
+          "eplTeam": "CHE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "04lav",
+          "playerName": "Ethan Ampadu",
+          "eplTeam": "LEE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06rlj",
+          "playerName": "Patrick Dorgu",
+          "eplTeam": "MUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05uel",
+          "playerName": "Kristoffer Ajer",
+          "eplTeam": "BRF",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "061vk",
+          "playerName": "Jaidon Anthony",
+          "eplTeam": "BRF",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06v07",
+          "playerName": "Rayan Cherki",
+          "eplTeam": "MCI",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06zna",
+          "playerName": "Dan Ndoye",
+          "eplTeam": "NOT",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0700p",
+          "playerName": "Malick Thiaw",
+          "eplTeam": "NEW",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04p0d",
+          "playerName": "Dwight McNeil",
+          "eplTeam": "CRY",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06y9z",
+          "playerName": "Martin Zubimendi",
+          "eplTeam": "ARS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "07848",
+          "playerName": "Johan Manzambi",
+          "eplTeam": "AVL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "051k7",
+          "playerName": "Reece James",
+          "eplTeam": "CHE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05u1m",
+          "playerName": "Nathan Collins",
+          "eplTeam": "BRF",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06pe1",
+          "playerName": "Mateus Fernandes",
+          "eplTeam": "TOT",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "070cj",
+          "playerName": "Noah Okafor",
+          "eplTeam": "LEE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "045ob",
+          "playerName": "Caoimhin Kelleher",
+          "eplTeam": "BRF",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "s2bvo3ebmt14wjvp",
+      "teamName": "KurtZuna",
+      "players": [
+        {
+          "playerId": "06cms",
+          "playerName": "Sandro Tonali",
+          "eplTeam": "TOT",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04e1c",
+          "playerName": "Lewis Dunk",
+          "eplTeam": "BHA",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04sjv",
+          "playerName": "Ryan Giles",
+          "eplTeam": "HUL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05nt6",
+          "playerName": "Eberechi Eze",
+          "eplTeam": "ARS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06zbm",
+          "playerName": "Cristhian Mosquera",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06p6j",
+          "playerName": "Evanilson",
+          "eplTeam": "BOU",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05r34",
+          "playerName": "Amad Diallo",
+          "eplTeam": "MUN",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "03gu5",
+          "playerName": "Andrew Robertson",
+          "eplTeam": "TOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06y59",
+          "playerName": "Noah Sadiki",
+          "eplTeam": "SUN",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05uor",
+          "playerName": "Yoane Wissa",
+          "eplTeam": "NEW",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04hk9",
+          "playerName": "Mikel Merino",
+          "eplTeam": "ARS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05g2o",
+          "playerName": "Joao Pedro",
+          "eplTeam": "CHE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06r6s",
+          "playerName": "Antonin Kinsky",
+          "eplTeam": "TOT",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "050jq",
+          "playerName": "Marc Guehi",
+          "eplTeam": "MCI",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06ybp",
+          "playerName": "Thierno Barry",
+          "eplTeam": "EVE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05ylw",
+          "playerName": "Rodrigo Bentancur",
+          "eplTeam": "TOT",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "1sus3firmt070mdn",
+      "teamName": "Parapara123",
+      "players": [
+        {
+          "playerId": "062a9",
+          "playerName": "Sven Botman",
+          "eplTeam": "NEW",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05n07",
+          "playerName": "Pedro Porro",
+          "eplTeam": "TOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06cmm",
+          "playerName": "Dominik Szoboszlai",
+          "eplTeam": "LIV",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0639x",
+          "playerName": "Marcus Tavernier",
+          "eplTeam": "BOU",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "078mm",
+          "playerName": "Nobel Mendy",
+          "eplTeam": "HUL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0522h",
+          "playerName": "Alexis Mac Allister",
+          "eplTeam": "LIV",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06ab3",
+          "playerName": "Lewis Miley",
+          "eplTeam": "NEW",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05uox",
+          "playerName": "Christos Tzolis",
+          "eplTeam": "ARS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06uyc",
+          "playerName": "Adrien Truffert",
+          "eplTeam": "BOU",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "063e7",
+          "playerName": "Marcos Senesi",
+          "eplTeam": "TOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "04abn",
+          "playerName": "Harvey Barnes",
+          "eplTeam": "NEW",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0784p",
+          "playerName": "Hayden Hackney",
+          "eplTeam": "EVE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "070hl",
+          "playerName": "Senne Lammens",
+          "eplTeam": "MUN",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "03ybi",
+          "playerName": "Marcus Rashford",
+          "eplTeam": "MUN",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0635j",
+          "playerName": "Chris Richards",
+          "eplTeam": "CRY",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06zxy",
+          "playerName": "Benjamin Sesko",
+          "eplTeam": "MUN",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "wq6widptmt052is7",
+      "teamName": "SYnaldo",
+      "players": [
+        {
+          "playerId": "06v0p",
+          "playerName": "Enzo Le Fee",
+          "eplTeam": "SUN",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "067zv",
+          "playerName": "Kevin Schade",
+          "eplTeam": "BRF",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "076kc",
+          "playerName": "Jannik Schuster",
+          "eplTeam": "BRF",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05ylj",
+          "playerName": "Bruno Guimaraes",
+          "eplTeam": "ARS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "070f9",
+          "playerName": "Yeremy Pino",
+          "eplTeam": "CRY",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0788g",
+          "playerName": "Lukas Hornicek",
+          "eplTeam": "NEW",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0477b",
+          "playerName": "Oliver McBurnie",
+          "eplTeam": "HUL",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06zbx",
+          "playerName": "Anton Stach",
+          "eplTeam": "LEE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "02m5l",
+          "playerName": "John Egan",
+          "eplTeam": "HUL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06mpp",
+          "playerName": "Mats Wieffer",
+          "eplTeam": "BHA",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0427d",
+          "playerName": "James Tarkowski",
+          "eplTeam": "EVE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "067yz",
+          "playerName": "Matheus Cunha",
+          "eplTeam": "MUN",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "063q8",
+          "playerName": "Mikkel Damsgaard",
+          "eplTeam": "BRF",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "03mfe",
+          "playerName": "Matt Grimes",
+          "eplTeam": "COV",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05a6e",
+          "playerName": "Neco Williams",
+          "eplTeam": "NOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0521z",
+          "playerName": "James Justin",
+          "eplTeam": "LEE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "3k1hj6a4msx9e1y1",
+      "teamName": "Young FC",
+      "players": [
+        {
+          "playerId": "06onv",
+          "playerName": "Harrison Armstrong",
+          "eplTeam": "EVE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "062p3",
+          "playerName": "Keane Lewis-Potter",
+          "eplTeam": "BRF",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06nu7",
+          "playerName": "Riccardo Calafiori",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06v0y",
+          "playerName": "Luka Vuskovic",
+          "eplTeam": "BHA",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0793h",
+          "playerName": "Exequiel Palacios",
+          "eplTeam": "IPS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06cm1",
+          "playerName": "Nicolas Jackson",
+          "eplTeam": "AVL",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "076qg",
+          "playerName": "Victor Munoz",
+          "eplTeam": "LIV",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06dmj",
+          "playerName": "Jurrien Timber",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "068yc",
+          "playerName": "Yasin Ayari",
+          "eplTeam": "BHA",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "049tq",
+          "playerName": "Dominic Calvert-Lewin",
+          "eplTeam": "LEE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "066sd",
+          "playerName": "Myles Lewis-Skelly",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0784z",
+          "playerName": "Jeremy Jacquet",
+          "eplTeam": "LIV",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05nzu",
+          "playerName": "Gabriel Magalhaes",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06f8y",
+          "playerName": "Alex Scott",
+          "eplTeam": "BOU",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "032f9",
+          "playerName": "Jordan Pickford",
+          "eplTeam": "EVE",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "068ym",
+          "playerName": "Enzo Fernandez",
+          "eplTeam": "MCI",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "pje1yzfgmt04th4u",
+      "teamName": "eunho",
+      "players": [
+        {
+          "playerId": "02oq6",
+          "playerName": "Luke Shaw",
+          "eplTeam": "MUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0794d",
+          "playerName": "Chema Andres",
+          "eplTeam": "BHA",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "04sjt",
+          "playerName": "Alisson Becker",
+          "eplTeam": "LIV",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04agz",
+          "playerName": "Declan Rice",
+          "eplTeam": "ARS",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04e1e",
+          "playerName": "Ben White",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0794m",
+          "playerName": "Quinten Timber",
+          "eplTeam": "CRY",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "056iy",
+          "playerName": "Pedro Neto",
+          "eplTeam": "CHE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05omu",
+          "playerName": "Ruben Dias",
+          "eplTeam": "MCI",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05rb8",
+          "playerName": "Moises Caicedo",
+          "eplTeam": "CHE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "062pl",
+          "playerName": "Lisandro Martinez",
+          "eplTeam": "MUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0554g",
+          "playerName": "Calvin Bassey",
+          "eplTeam": "FUL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05uhs",
+          "playerName": "James Mcatee",
+          "eplTeam": "NOT",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0784w",
+          "playerName": "Emersonn",
+          "eplTeam": "IPS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06r5b",
+          "playerName": "Diego Gomez",
+          "eplTeam": "BHA",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06l4i",
+          "playerName": "Tyrique George",
+          "eplTeam": "EVE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0792s",
+          "playerName": "Ayyoub Bouaddi",
+          "eplTeam": "MCI",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "u4gyh7r5mt14pty3",
+      "teamName": "hwoojo",
+      "players": [
+        {
+          "playerId": "06ex4",
+          "playerName": "Josko Gvardiol",
+          "eplTeam": "MCI",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "02lz0",
+          "playerName": "Emiliano Martinez",
+          "eplTeam": "CHE",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05ye7",
+          "playerName": "Oscar Bobb",
+          "eplTeam": "FUL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "07877",
+          "playerName": "Mamadou Sangare",
+          "eplTeam": "BRF",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06fup",
+          "playerName": "Jeremy Doku",
+          "eplTeam": "MCI",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06jh3",
+          "playerName": "Joshua King",
+          "eplTeam": "FUL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06mgd",
+          "playerName": "Abdul Fatawu",
+          "eplTeam": "IPS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0689w",
+          "playerName": "Georginio Rutter",
+          "eplTeam": "BHA",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "068y0",
+          "playerName": "Antoine Semenyo",
+          "eplTeam": "MCI",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "061vb",
+          "playerName": "James Hill",
+          "eplTeam": "BOU",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04abb",
+          "playerName": "Phil Foden",
+          "eplTeam": "MCI",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04qfz",
+          "playerName": "Diogo Dalot",
+          "eplTeam": "MUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "078i7",
+          "playerName": "Ronald Araujo",
+          "eplTeam": "LIV",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "03gu4",
+          "playerName": "Harry Maguire",
+          "eplTeam": "MUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "070hq",
+          "playerName": "Piero Hincapie",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "04spw",
+          "playerName": "James Garner",
+          "eplTeam": "EVE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "ril8ciadmt04vx0l",
+      "teamName": "kms361657",
+      "players": [
+        {
+          "playerId": "067yv",
+          "playerName": "Cody Gakpo",
+          "eplTeam": "LIV",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06y26",
+          "playerName": "Olivier Boscagli",
+          "eplTeam": "BHA",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0666p",
+          "playerName": "Kobbie Mainoo",
+          "eplTeam": "MUN",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05opl",
+          "playerName": "Wesley Fofana",
+          "eplTeam": "CHE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "03vlj",
+          "playerName": "Virgil van Dijk",
+          "eplTeam": "LIV",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06fwi",
+          "playerName": "Carlos Baleba",
+          "eplTeam": "MUN",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "067x8",
+          "playerName": "Nico OReilly",
+          "eplTeam": "MCI",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06r2g",
+          "playerName": "Rio Ngumoha",
+          "eplTeam": "LIV",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05ogb",
+          "playerName": "Anthony Elanga",
+          "eplTeam": "NEW",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06fxe",
+          "playerName": "Ryan Gravenberch",
+          "eplTeam": "LIV",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06fwz",
+          "playerName": "Murillo",
+          "eplTeam": "NOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06yb9",
+          "playerName": "Reinildo",
+          "eplTeam": "SUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06zbz",
+          "playerName": "Hugo Ekitike",
+          "eplTeam": "LIV",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06uzy",
+          "playerName": "Ao Tanaka",
+          "eplTeam": "LEE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06cmu",
+          "playerName": "Bart Verbruggen",
+          "eplTeam": "BHA",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06v21",
+          "playerName": "Florian Wirtz",
+          "eplTeam": "LIV",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "oi40p2iymt059qby",
+      "teamName": "moonbape",
+      "players": [
+        {
+          "playerId": "05uhq",
+          "playerName": "Shea Charles",
+          "eplTeam": "FUL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0785g",
+          "playerName": "Xaver Schlager",
+          "eplTeam": "NOT",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06msb",
+          "playerName": "Malick Yalcouye",
+          "eplTeam": "BHA",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05l8q",
+          "playerName": "Cole Palmer",
+          "eplTeam": "CHE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "02lnx",
+          "playerName": "Danny Welbeck",
+          "eplTeam": "CHE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05o2p",
+          "playerName": "Regan Slater",
+          "eplTeam": "HUL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06pia",
+          "playerName": "Maxence Lacroix",
+          "eplTeam": "CHE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06xzd",
+          "playerName": "Charalampos Kostoulas",
+          "eplTeam": "BHA",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05uht",
+          "playerName": "Morgan Rogers",
+          "eplTeam": "CHE",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "02lk5",
+          "playerName": "Jordan Henderson",
+          "eplTeam": "CHE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05unu",
+          "playerName": "Romeo Lavia",
+          "eplTeam": "CHE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06ezb",
+          "playerName": "Micky van de Ven",
+          "eplTeam": "TOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06mow",
+          "playerName": "Jorgen Strand Larsen",
+          "eplTeam": "CRY",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "078az",
+          "playerName": "Konstantinos Tzolakis",
+          "eplTeam": "HUL",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06y9m",
+          "playerName": "Maxim De Cuyper",
+          "eplTeam": "BHA",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "078qg",
+          "playerName": "Anan Khalaili",
+          "eplTeam": "CRY",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "tuptxs8ymt1littl",
+      "teamName": "moonland",
+      "players": [
+        {
+          "playerId": "05ybq",
+          "playerName": "Vitalii Mykolenko",
+          "eplTeam": "EVE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "061vn",
+          "playerName": "Rodrigo Muniz",
+          "eplTeam": "FUL",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "062h7",
+          "playerName": "Tyler Adams",
+          "eplTeam": "BOU",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "070hs",
+          "playerName": "Gianluigi Donnarumma",
+          "eplTeam": "MCI",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "03rec",
+          "playerName": "Tyrone Mings",
+          "eplTeam": "AVL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "02lm7",
+          "playerName": "Jack Grealish",
+          "eplTeam": "EVE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "061vq",
+          "playerName": "Erling Haaland",
+          "eplTeam": "MCI",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "051kl",
+          "playerName": "Emiliano Buendia",
+          "eplTeam": "AVL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "03ksl",
+          "playerName": "Semi Ajayi",
+          "eplTeam": "HUL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "051k0",
+          "playerName": "John McGinn",
+          "eplTeam": "AVL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06ygm",
+          "playerName": "Jair Cunha",
+          "eplTeam": "NOT",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06do9",
+          "playerName": "Milos Kerkez",
+          "eplTeam": "LIV",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06clt",
+          "playerName": "Justin Kluivert",
+          "eplTeam": "BOU",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "038ze",
+          "playerName": "Alex Iwobi",
+          "eplTeam": "FUL",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04ge6",
+          "playerName": "Joe Willock",
+          "eplTeam": "NEW",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "070hc",
+          "playerName": "Brian Brobbey",
+          "eplTeam": "SUN",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "5r1c15nxmt05egzg",
+      "teamName": "soundwave134",
+      "players": [
+        {
+          "playerId": "04qor",
+          "playerName": "Bernd Leno",
+          "eplTeam": "FUL",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "0784y",
+          "playerName": "Tarik Muharemovic",
+          "eplTeam": "LEE",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06p4k",
+          "playerName": "Matthijs de Ligt",
+          "eplTeam": "MUN",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05os8",
+          "playerName": "Joachim Andersen",
+          "eplTeam": "FUL",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "072zs",
+          "playerName": "Nilson Angulo",
+          "eplTeam": "SUN",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06mn0",
+          "playerName": "Igor Thiago",
+          "eplTeam": "BRF",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "076dq",
+          "playerName": "Mohamed Belloumi",
+          "eplTeam": "HUL",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04fk1",
+          "playerName": "Pascal Gross",
+          "eplTeam": "BHA",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04gpx",
+          "playerName": "Dara OShea",
+          "eplTeam": "IPS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06fv8",
+          "playerName": "Mohammed Kudus",
+          "eplTeam": "TOT",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "052h5",
+          "playerName": "Gabriel Martinelli",
+          "eplTeam": "ARS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05l2z",
+          "playerName": "Bobby Thomas",
+          "eplTeam": "COV",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "04y92",
+          "playerName": "Bukayo Saka",
+          "eplTeam": "ARS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "045c8",
+          "playerName": "Gabriel Jesus",
+          "eplTeam": "ARS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "072wq",
+          "playerName": "Rayan",
+          "eplTeam": "BOU",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "07898",
+          "playerName": "Gonzalo Garcia",
+          "eplTeam": "FUL",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        }
+      ]
+    },
+    {
+      "period": 6,
+      "snapshot_time": "2026-10-26T02:28:20+00:00",
+      "teamId": "6x7ow4qcmt0zjt4n",
+      "teamName": "yeseong",
+      "players": [
+        {
+          "playerId": "0787y",
+          "playerName": "Antonio Silva",
+          "eplTeam": "BOU",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04qr9",
+          "playerName": "Morgan Gibbs-White",
+          "eplTeam": "NOT",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06j20",
+          "playerName": "Valentin Barco",
+          "eplTeam": "CHE",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06rf9",
+          "playerName": "Omar Marmoush",
+          "eplTeam": "TOT",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06mnc",
+          "playerName": "Daichi Kamada",
+          "eplTeam": "CRY",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05y9n",
+          "playerName": "Lewis Hall",
+          "eplTeam": "NEW",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05oz3",
+          "playerName": "James Trafford",
+          "eplTeam": "LEE",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "06rm7",
+          "playerName": "Nico Gonzalez",
+          "eplTeam": "NEW",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04tsb",
+          "playerName": "Viktor Gyokeres",
+          "eplTeam": "ARS",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "04yme",
+          "playerName": "Robert Sanchez",
+          "eplTeam": "CHE",
+          "primaryPosition": "G",
+          "eligiblePositions": [
+            "G"
+          ],
+          "slotPosition": "G",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "052ca",
+          "playerName": "Ezri Konsa",
+          "eplTeam": "ARS",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "068yd",
+          "playerName": "Joao Gomes",
+          "eplTeam": "AVL",
+          "primaryPosition": "M",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "05akv",
+          "playerName": "Tyrick Mitchell",
+          "eplTeam": "CRY",
+          "primaryPosition": "D",
+          "eligiblePositions": [
+            "D"
+          ],
+          "slotPosition": "D",
+          "fantasyStatus": "RESERVE"
+        },
+        {
+          "playerId": "0646f",
+          "playerName": "Alexander Isak",
+          "eplTeam": "LIV",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "F"
+          ],
+          "slotPosition": "F",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "06mvz",
+          "playerName": "Savio",
+          "eplTeam": "TOT",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        },
+        {
+          "playerId": "05r94",
+          "playerName": "Iliman Ndiaye",
+          "eplTeam": "MCI",
+          "primaryPosition": "F",
+          "eligiblePositions": [
+            "M"
+          ],
+          "slotPosition": "M",
+          "fantasyStatus": "ACTIVE"
+        }
+      ]
+    }
+  ]
+}

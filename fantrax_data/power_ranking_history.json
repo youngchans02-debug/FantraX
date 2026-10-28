@@ -1,0 +1,202 @@
+{
+  "7": [
+    {
+      "teamId": "a20htiwamt05ikfr",
+      "teamName": "GloryMang",
+      "rank": 1,
+      "power_score": 96.54277772058066,
+      "rank_change": 0
+    },
+    {
+      "teamId": "3k1hj6a4msx9e1y1",
+      "teamName": "Young FC",
+      "rank": 2,
+      "power_score": 90.44766003958341,
+      "rank_change": 1
+    },
+    {
+      "teamId": "oi40p2iymt059qby",
+      "teamName": "moonbape",
+      "rank": 3,
+      "power_score": 88.19308109037145,
+      "rank_change": -1
+    },
+    {
+      "teamId": "wq6widptmt052is7",
+      "teamName": "SYnaldo",
+      "rank": 4,
+      "power_score": 80.70134909395838,
+      "rank_change": 0
+    },
+    {
+      "teamId": "ct1s1zwcmt19vbyl",
+      "teamName": "DJSoccerKing",
+      "rank": 5,
+      "power_score": 73.84741126122452,
+      "rank_change": 0
+    },
+    {
+      "teamId": "pje1yzfgmt04th4u",
+      "teamName": "eunho",
+      "rank": 6,
+      "power_score": 72.68250621803404,
+      "rank_change": 2
+    },
+    {
+      "teamId": "u4gyh7r5mt14pty3",
+      "teamName": "hwoojo",
+      "rank": 7,
+      "power_score": 70.14954210464171,
+      "rank_change": 0
+    },
+    {
+      "teamId": "tuptxs8ymt1littl",
+      "teamName": "moonland",
+      "rank": 8,
+      "power_score": 69.38209078563116,
+      "rank_change": -2
+    },
+    {
+      "teamId": "5r1c15nxmt05egzg",
+      "teamName": "soundwave134",
+      "rank": 9,
+      "power_score": 44.54828364328971,
+      "rank_change": 0
+    },
+    {
+      "teamId": "m2wdonermt15132j",
+      "teamName": "Kangte",
+      "rank": 10,
+      "power_score": 37.66530551370052,
+      "rank_change": 0
+    },
+    {
+      "teamId": "1sus3firmt070mdn",
+      "teamName": "Parapara123",
+      "rank": 11,
+      "power_score": 34.400866321148854,
+      "rank_change": 0
+    },
+    {
+      "teamId": "s2bvo3ebmt14wjvp",
+      "teamName": "KurtZuna",
+      "rank": 12,
+      "power_score": 31.876746152252643,
+      "rank_change": 1
+    },
+    {
+      "teamId": "6x7ow4qcmt0zjt4n",
+      "teamName": "yeseong",
+      "rank": 13,
+      "power_score": 30.088752299161033,
+      "rank_change": -1
+    },
+    {
+      "teamId": "ril8ciadmt04vx0l",
+      "teamName": "kms361657",
+      "rank": 14,
+      "power_score": 0.0,
+      "rank_change": 0
+    }
+  ],
+  "8": [
+    {
+      "teamId": "a20htiwamt05ikfr",
+      "teamName": "GloryMang",
+      "rank": 1,
+      "power_score": 92.33736616288509,
+      "rank_change": 0
+    },
+    {
+      "teamId": "pje1yzfgmt04th4u",
+      "teamName": "eunho",
+      "rank": 2,
+      "power_score": 82.90227842101699,
+      "rank_change": 4
+    },
+    {
+      "teamId": "oi40p2iymt059qby",
+      "teamName": "moonbape",
+      "rank": 3,
+      "power_score": 70.66245461307018,
+      "rank_change": 0
+    },
+    {
+      "teamId": "u4gyh7r5mt14pty3",
+      "teamName": "hwoojo",
+      "rank": 4,
+      "power_score": 70.44180654259378,
+      "rank_change": 3
+    },
+    {
+      "teamId": "3k1hj6a4msx9e1y1",
+      "teamName": "Young FC",
+      "rank": 5,
+      "power_score": 69.04962228754053,
+      "rank_change": -3
+    },
+    {
+      "teamId": "ct1s1zwcmt19vbyl",
+      "teamName": "DJSoccerKing",
+      "rank": 6,
+      "power_score": 66.40600863963039,
+      "rank_change": -1
+    },
+    {
+      "teamId": "wq6widptmt052is7",
+      "teamName": "SYnaldo",
+      "rank": 7,
+      "power_score": 65.83593347498258,
+      "rank_change": -3
+    },
+    {
+      "teamId": "tuptxs8ymt1littl",
+      "teamName": "moonland",
+      "rank": 8,
+      "power_score": 60.895658370896115,
+      "rank_change": 0
+    },
+    {
+      "teamId": "5r1c15nxmt05egzg",
+      "teamName": "soundwave134",
+      "rank": 9,
+      "power_score": 40.950329595372395,
+      "rank_change": 0
+    },
+    {
+      "teamId": "6x7ow4qcmt0zjt4n",
+      "teamName": "yeseong",
+      "rank": 10,
+      "power_score": 38.82599724547276,
+      "rank_change": 3
+    },
+    {
+      "teamId": "s2bvo3ebmt14wjvp",
+      "teamName": "KurtZuna",
+      "rank": 11,
+      "power_score": 31.254246620822816,
+      "rank_change": 1
+    },
+    {
+      "teamId": "1sus3firmt070mdn",
+      "teamName": "Parapara123",
+      "rank": 12,
+      "power_score": 24.236154473086234,
+      "rank_change": -1
+    },
+    {
+      "teamId": "ril8ciadmt04vx0l",
+      "teamName": "kms361657",
+      "rank": 13,
+      "power_score": 11.099638591473083,
+      "rank_change": 1
+    },
+    {
+      "teamId": "m2wdonermt15132j",
+      "teamName": "Kangte",
+      "rank": 14,
+      "power_score": 9.88218565915091,
+      "rank_change": -4
+    }
+  ]
+}

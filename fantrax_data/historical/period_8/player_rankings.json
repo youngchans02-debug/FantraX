@@ -1,0 +1,2054 @@
+{
+  "period": 8,
+  "dataSource": "historical/period_8/players_stats.json",
+  "fetchedAt": "2026-10-28T02:18:32+00:00",
+  "playerCount": 707,
+  "source": {
+    "dataSource": "historical/period_8/players_stats.json",
+    "statsPath": "/Users/youngchansong/Documents/FantraX/fantrax_data/historical/period_8/players_stats.json",
+    "rosterSource": "historical/period_8/rosters.json",
+    "period": 8,
+    "fetchedAt": "2026-10-28T02:18:32+00:00",
+    "playerCount": 707,
+    "rosteredCount": 233,
+    "faCount": 474,
+    "topN": 10,
+    "sort": [
+      "gwPoints DESC",
+      "playerName ASC"
+    ],
+    "rankMethod": "sequential after sort; name breaks ties so ranks are unique",
+    "includesReserve": true,
+    "includesFA": true
+  },
+  "allPlayersRanking": {
+    "G": [
+      {
+        "playerId": "078wl",
+        "playerName": "Zion Suzuki",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.56,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "0788g",
+        "playerName": "Lukas Hornícek",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": "SYnaldo",
+        "fantasyTeamId": "wq6widptmt052is7",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.39,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "05oz3",
+        "playerName": "James Trafford",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "LEE",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 21.2,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "078az",
+        "playerName": "Konstantinos Tzolakis",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 20.11,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "06r6s",
+        "playerName": "Antonin Kinsky",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 19.54,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "06znb",
+        "playerName": "Robin Roefs",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "SUN",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 18.05,
+        "rostered": false,
+        "rank": 6
+      },
+      {
+        "playerId": "06fuw",
+        "playerName": "Djordje Petrovic",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 15.83,
+        "rostered": false,
+        "rank": 7
+      },
+      {
+        "playerId": "04qor",
+        "playerName": "Bernd Leno",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "FUL",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 15.79,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "05tqx",
+        "playerName": "David Raya",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "DJSoccerKing",
+        "fantasyTeamId": "ct1s1zwcmt19vbyl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 15.44,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "04fjz",
+        "playerName": "Christian Walton",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 12.45,
+        "rostered": false,
+        "rank": 10
+      }
+    ],
+    "D": [
+      {
+        "playerId": "04e1e",
+        "playerName": "Ben White",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 31.55,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05nzu",
+        "playerName": "Gabriel Magalhaes",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.59,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "05oh0",
+        "playerName": "Jan-Paul van Hecke",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 29.0,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "061vb",
+        "playerName": "James Hill",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 27.09,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "0787y",
+        "playerName": "Antonio Silva",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 25.7,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "078i7",
+        "playerName": "Ronald Araujo",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 24.29,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "078ud",
+        "playerName": "Amar Dedic",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 23.98,
+        "rostered": false,
+        "rank": 7
+      },
+      {
+        "playerId": "05uhq",
+        "playerName": "Shea Charles",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "FUL",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.25,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "052ca",
+        "playerName": "Ezri Konsa",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 22.04,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "06v0m",
+        "playerName": "Luke O'Nien",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "SUN",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 21.9,
+        "rostered": false,
+        "rank": 10
+      }
+    ],
+    "M": [
+      {
+        "playerId": "07877",
+        "playerName": "Mamadou Sangaré",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BRF",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 39.34,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05uhs",
+        "playerName": "James Mcatee",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 37.19,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "076dq",
+        "playerName": "Mohamed Belloumi",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 33.11,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "0639x",
+        "playerName": "Marcus Tavernier",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "Parapara123",
+        "fantasyTeamId": "1sus3firmt070mdn",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.77,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "061xs",
+        "playerName": "Julio Enciso",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.37,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "06rm7",
+        "playerName": "Nico González",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.34,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "0793h",
+        "playerName": "Exequiel Palacios",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.18,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "05opj",
+        "playerName": "Elliot Anderson",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "MCI",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 29.8,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "06pe1",
+        "playerName": "Mateus Fernandes",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "Kangte",
+        "fantasyTeamId": "m2wdonermt15132j",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 29.39,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "0785g",
+        "playerName": "Xaver Schlager",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.97,
+        "rostered": true,
+        "rank": 10
+      }
+    ],
+    "F": [
+      {
+        "playerId": "06cm1",
+        "playerName": "Nicolas Jackson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 47.16,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "06rm8",
+        "playerName": "Mathys Tel",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "moonbape",
+        "fantasyTeamId": "oi40p2iymt059qby",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 38.14,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "06p6j",
+        "playerName": "Evanilson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.79,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "0477b",
+        "playerName": "Oliver McBurnie",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "SYnaldo",
+        "fantasyTeamId": "wq6widptmt052is7",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 28.75,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "061vq",
+        "playerName": "Erling Haaland",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "MCI",
+        "fantasyTeam": "moonland",
+        "fantasyTeamId": "tuptxs8ymt1littl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 27.22,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "0793q",
+        "playerName": "Bradley Barcola",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "DJSoccerKing",
+        "fantasyTeamId": "ct1s1zwcmt19vbyl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.7,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "072wq",
+        "playerName": "Rayan",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.05,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "0646f",
+        "playerName": "Alexander Isak",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 24.97,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "067yv",
+        "playerName": "Cody Gakpo",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "kms361657",
+        "fantasyTeamId": "ril8ciadmt04vx0l",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 24.59,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "056iy",
+        "playerName": "Pedro Neto",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "CHE",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 21.01,
+        "rostered": true,
+        "rank": 10
+      }
+    ]
+  },
+  "rosteredPlayersRanking": {
+    "G": [
+      {
+        "playerId": "078wl",
+        "playerName": "Zion Suzuki",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.56,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "0788g",
+        "playerName": "Lukas Hornícek",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": "SYnaldo",
+        "fantasyTeamId": "wq6widptmt052is7",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.39,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "05oz3",
+        "playerName": "James Trafford",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "LEE",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 21.2,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "078az",
+        "playerName": "Konstantinos Tzolakis",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 20.11,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "06r6s",
+        "playerName": "Antonin Kinsky",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 19.54,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "04qor",
+        "playerName": "Bernd Leno",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "FUL",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 15.79,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "05tqx",
+        "playerName": "David Raya",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "DJSoccerKing",
+        "fantasyTeamId": "ct1s1zwcmt19vbyl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 15.44,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "06cmu",
+        "playerName": "Bart Verbruggen",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "BHA",
+        "fantasyTeam": "kms361657",
+        "fantasyTeamId": "ril8ciadmt04vx0l",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 10.82,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "04sjt",
+        "playerName": "Alisson Becker",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 10.14,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "04f6h",
+        "playerName": "Matz Sels",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 6.76,
+        "rostered": true,
+        "rank": 10
+      }
+    ],
+    "D": [
+      {
+        "playerId": "04e1e",
+        "playerName": "Ben White",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 31.55,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05nzu",
+        "playerName": "Gabriel Magalhaes",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.59,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "05oh0",
+        "playerName": "Jan-Paul van Hecke",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 29.0,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "061vb",
+        "playerName": "James Hill",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 27.09,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "0787y",
+        "playerName": "Antonio Silva",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 25.7,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "078i7",
+        "playerName": "Ronald Araujo",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 24.29,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "05uhq",
+        "playerName": "Shea Charles",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "FUL",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.25,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "052ca",
+        "playerName": "Ezri Konsa",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 22.04,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "0784y",
+        "playerName": "Tarik Muharemovic",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "LEE",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 21.78,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "06uyc",
+        "playerName": "Adrien Truffert",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "Parapara123",
+        "fantasyTeamId": "1sus3firmt070mdn",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 20.81,
+        "rostered": true,
+        "rank": 10
+      }
+    ],
+    "M": [
+      {
+        "playerId": "07877",
+        "playerName": "Mamadou Sangaré",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BRF",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 39.34,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05uhs",
+        "playerName": "James Mcatee",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 37.19,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "076dq",
+        "playerName": "Mohamed Belloumi",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 33.11,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "0639x",
+        "playerName": "Marcus Tavernier",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "Parapara123",
+        "fantasyTeamId": "1sus3firmt070mdn",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.77,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "061xs",
+        "playerName": "Julio Enciso",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.37,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "06rm7",
+        "playerName": "Nico González",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.34,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "0793h",
+        "playerName": "Exequiel Palacios",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.18,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "05opj",
+        "playerName": "Elliot Anderson",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "MCI",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 29.8,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "06pe1",
+        "playerName": "Mateus Fernandes",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "Kangte",
+        "fantasyTeamId": "m2wdonermt15132j",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 29.39,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "0785g",
+        "playerName": "Xaver Schlager",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.97,
+        "rostered": true,
+        "rank": 10
+      }
+    ],
+    "F": [
+      {
+        "playerId": "06cm1",
+        "playerName": "Nicolas Jackson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 47.16,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "06rm8",
+        "playerName": "Mathys Tel",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "moonbape",
+        "fantasyTeamId": "oi40p2iymt059qby",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 38.14,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "06p6j",
+        "playerName": "Evanilson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.79,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "0477b",
+        "playerName": "Oliver McBurnie",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "SYnaldo",
+        "fantasyTeamId": "wq6widptmt052is7",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 28.75,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "061vq",
+        "playerName": "Erling Haaland",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "MCI",
+        "fantasyTeam": "moonland",
+        "fantasyTeamId": "tuptxs8ymt1littl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 27.22,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "0793q",
+        "playerName": "Bradley Barcola",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "DJSoccerKing",
+        "fantasyTeamId": "ct1s1zwcmt19vbyl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.7,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "072wq",
+        "playerName": "Rayan",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.05,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "0646f",
+        "playerName": "Alexander Isak",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 24.97,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "067yv",
+        "playerName": "Cody Gakpo",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "kms361657",
+        "fantasyTeamId": "ril8ciadmt04vx0l",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 24.59,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "056iy",
+        "playerName": "Pedro Neto",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "CHE",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 21.01,
+        "rostered": true,
+        "rank": 10
+      }
+    ]
+  },
+  "topPlayersByPosition": {
+    "G": [
+      {
+        "playerId": "078wl",
+        "playerName": "Zion Suzuki",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.56,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "0788g",
+        "playerName": "Lukas Hornícek",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": "SYnaldo",
+        "fantasyTeamId": "wq6widptmt052is7",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.39,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "05oz3",
+        "playerName": "James Trafford",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "LEE",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 21.2,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "078az",
+        "playerName": "Konstantinos Tzolakis",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 20.11,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "06r6s",
+        "playerName": "Antonin Kinsky",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 19.54,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "06znb",
+        "playerName": "Robin Roefs",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "SUN",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 18.05,
+        "rostered": false,
+        "rank": 6
+      },
+      {
+        "playerId": "06fuw",
+        "playerName": "Djordje Petrovic",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 15.83,
+        "rostered": false,
+        "rank": 7
+      },
+      {
+        "playerId": "04qor",
+        "playerName": "Bernd Leno",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "FUL",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 15.79,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "05tqx",
+        "playerName": "David Raya",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "DJSoccerKing",
+        "fantasyTeamId": "ct1s1zwcmt19vbyl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 15.44,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "04fjz",
+        "playerName": "Christian Walton",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 12.45,
+        "rostered": false,
+        "rank": 10
+      }
+    ],
+    "D": [
+      {
+        "playerId": "04e1e",
+        "playerName": "Ben White",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 31.55,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05nzu",
+        "playerName": "Gabriel Magalhaes",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.59,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "05oh0",
+        "playerName": "Jan-Paul van Hecke",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 29.0,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "061vb",
+        "playerName": "James Hill",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 27.09,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "0787y",
+        "playerName": "Antonio Silva",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 25.7,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "078i7",
+        "playerName": "Ronald Araujo",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 24.29,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "078ud",
+        "playerName": "Amar Dedic",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 23.98,
+        "rostered": false,
+        "rank": 7
+      },
+      {
+        "playerId": "05uhq",
+        "playerName": "Shea Charles",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "FUL",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.25,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "052ca",
+        "playerName": "Ezri Konsa",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 22.04,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "06v0m",
+        "playerName": "Luke O'Nien",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "SUN",
+        "fantasyTeam": null,
+        "fantasyTeamId": null,
+        "fantasyStatus": "FA",
+        "gwPoints": 21.9,
+        "rostered": false,
+        "rank": 10
+      }
+    ],
+    "M": [
+      {
+        "playerId": "07877",
+        "playerName": "Mamadou Sangaré",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BRF",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 39.34,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05uhs",
+        "playerName": "James Mcatee",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 37.19,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "076dq",
+        "playerName": "Mohamed Belloumi",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 33.11,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "0639x",
+        "playerName": "Marcus Tavernier",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "Parapara123",
+        "fantasyTeamId": "1sus3firmt070mdn",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.77,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "061xs",
+        "playerName": "Julio Enciso",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.37,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "06rm7",
+        "playerName": "Nico González",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NEW",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.34,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "0793h",
+        "playerName": "Exequiel Palacios",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "IPS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.18,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "05opj",
+        "playerName": "Elliot Anderson",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "MCI",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 29.8,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "06pe1",
+        "playerName": "Mateus Fernandes",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "Kangte",
+        "fantasyTeamId": "m2wdonermt15132j",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 29.39,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "0785g",
+        "playerName": "Xaver Schlager",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.97,
+        "rostered": true,
+        "rank": 10
+      }
+    ],
+    "F": [
+      {
+        "playerId": "06cm1",
+        "playerName": "Nicolas Jackson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 47.16,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "06rm8",
+        "playerName": "Mathys Tel",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "TOT",
+        "fantasyTeam": "moonbape",
+        "fantasyTeamId": "oi40p2iymt059qby",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 38.14,
+        "rostered": true,
+        "rank": 2
+      },
+      {
+        "playerId": "06p6j",
+        "playerName": "Evanilson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "KurtZuna",
+        "fantasyTeamId": "s2bvo3ebmt14wjvp",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.79,
+        "rostered": true,
+        "rank": 3
+      },
+      {
+        "playerId": "0477b",
+        "playerName": "Oliver McBurnie",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "HUL",
+        "fantasyTeam": "SYnaldo",
+        "fantasyTeamId": "wq6widptmt052is7",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 28.75,
+        "rostered": true,
+        "rank": 4
+      },
+      {
+        "playerId": "061vq",
+        "playerName": "Erling Haaland",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "MCI",
+        "fantasyTeam": "moonland",
+        "fantasyTeamId": "tuptxs8ymt1littl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 27.22,
+        "rostered": true,
+        "rank": 5
+      },
+      {
+        "playerId": "0793q",
+        "playerName": "Bradley Barcola",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "DJSoccerKing",
+        "fantasyTeamId": "ct1s1zwcmt19vbyl",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.7,
+        "rostered": true,
+        "rank": 6
+      },
+      {
+        "playerId": "072wq",
+        "playerName": "Rayan",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "BOU",
+        "fantasyTeam": "soundwave134",
+        "fantasyTeamId": "5r1c15nxmt05egzg",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 26.05,
+        "rostered": true,
+        "rank": 7
+      },
+      {
+        "playerId": "0646f",
+        "playerName": "Alexander Isak",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "yeseong",
+        "fantasyTeamId": "6x7ow4qcmt0zjt4n",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 24.97,
+        "rostered": true,
+        "rank": 8
+      },
+      {
+        "playerId": "067yv",
+        "playerName": "Cody Gakpo",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "LIV",
+        "fantasyTeam": "kms361657",
+        "fantasyTeamId": "ril8ciadmt04vx0l",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 24.59,
+        "rostered": true,
+        "rank": 9
+      },
+      {
+        "playerId": "056iy",
+        "playerName": "Pedro Neto",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "CHE",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 21.01,
+        "rostered": true,
+        "rank": 10
+      }
+    ]
+  },
+  "bestVI": {
+    "G": [
+      {
+        "playerId": "078wl",
+        "playerName": "Zion Suzuki",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.56,
+        "rostered": true,
+        "rank": 1
+      }
+    ],
+    "D": [
+      {
+        "playerId": "04e1e",
+        "playerName": "Ben White",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 31.55,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05nzu",
+        "playerName": "Gabriel Magalhaes",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.59,
+        "rostered": true,
+        "rank": 2
+      }
+    ],
+    "M": [
+      {
+        "playerId": "07877",
+        "playerName": "Mamadou Sangaré",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BRF",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 39.34,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05uhs",
+        "playerName": "James Mcatee",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 37.19,
+        "rostered": true,
+        "rank": 2
+      }
+    ],
+    "F": [
+      {
+        "playerId": "06cm1",
+        "playerName": "Nicolas Jackson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 47.16,
+        "rostered": true,
+        "rank": 1
+      }
+    ]
+  },
+  "rosteredBestVI": {
+    "G": [
+      {
+        "playerId": "078wl",
+        "playerName": "Zion Suzuki",
+        "position": "G",
+        "eligiblePositions": [
+          "G"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "GloryMang",
+        "fantasyTeamId": "a20htiwamt05ikfr",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 22.56,
+        "rostered": true,
+        "rank": 1
+      }
+    ],
+    "D": [
+      {
+        "playerId": "04e1e",
+        "playerName": "Ben White",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 31.55,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05nzu",
+        "playerName": "Gabriel Magalhaes",
+        "position": "D",
+        "eligiblePositions": [
+          "D"
+        ],
+        "eplTeam": "ARS",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 30.59,
+        "rostered": true,
+        "rank": 2
+      }
+    ],
+    "M": [
+      {
+        "playerId": "07877",
+        "playerName": "Mamadou Sangaré",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "BRF",
+        "fantasyTeam": "hwoojo",
+        "fantasyTeamId": "u4gyh7r5mt14pty3",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 39.34,
+        "rostered": true,
+        "rank": 1
+      },
+      {
+        "playerId": "05uhs",
+        "playerName": "James Mcatee",
+        "position": "M",
+        "eligiblePositions": [
+          "M"
+        ],
+        "eplTeam": "NOT",
+        "fantasyTeam": "eunho",
+        "fantasyTeamId": "pje1yzfgmt04th4u",
+        "fantasyStatus": "ACTIVE",
+        "gwPoints": 37.19,
+        "rostered": true,
+        "rank": 2
+      }
+    ],
+    "F": [
+      {
+        "playerId": "06cm1",
+        "playerName": "Nicolas Jackson",
+        "position": "F",
+        "eligiblePositions": [
+          "F"
+        ],
+        "eplTeam": "AVL",
+        "fantasyTeam": "Young FC",
+        "fantasyTeamId": "3k1hj6a4msx9e1y1",
+        "fantasyStatus": "RESERVE",
+        "gwPoints": 47.16,
+        "rostered": true,
+        "rank": 1
+      }
+    ]
+  }
+}
