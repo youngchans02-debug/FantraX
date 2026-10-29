@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>명예의 전당</title>
+  <link rel="stylesheet" href="fp90.css">
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <div class="wrap">
+    <nav class="site-nav">
+      <a href="index.html">선수</a>
+      <a href="records.html">기록</a>
+      <a href="hof.html" class="active">명예의 전당</a>
+    </nav>
+    <h1>명예의 전당</h1>
+    <div class="sub" id="updated">마지막 업데이트: —</div>
+    <div class="note" id="note">
+      자동 칸의 승·승률·FP는 2026/27 잠정입니다. 진행 중인 GW는 제외합니다. 투표 명패와 시즌 종료 타이틀은 접혀 있습니다.
+    </div>
+    <div class="record-filters">
+      <span class="status" id="status"></span>
+    </div>
+    <h2 class="section-title">자동</h2>
+    <div class="record-grid" id="automatic"></div>
+    <div id="automatic-empty"></div>
+    <h2 class="section-title">투표</h2>
+    <div class="record-grid" id="voted"></div>
+    <div id="voted-empty"></div>
+  </div>
+  <script src="hof.js"></script>
+</body>
+</html>

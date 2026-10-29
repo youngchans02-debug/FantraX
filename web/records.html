@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PBTT 기록</title>
+  <link rel="stylesheet" href="fp90.css">
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <div class="wrap">
+    <nav class="site-nav">
+      <a href="index.html">선수</a>
+      <a href="records.html" class="active">기록</a>
+      <a href="hof.html">명예의 전당</a>
+    </nav>
+    <h1>PBTT 기록</h1>
+    <div class="sub" id="updated">마지막 업데이트: —</div>
+    <div class="note" id="note">
+      완료된 게임위크만 사용합니다. 진행 중인 GW는 제외합니다. 구단명은 프랜차이즈명입니다.
+    </div>
+    <div class="record-filters">
+      <span class="status" id="status"></span>
+    </div>
+    <h2 class="section-title">팀 기록</h2>
+    <div class="record-grid" id="team"></div>
+    <div id="team-empty"></div>
+    <h2 class="section-title">선수 기록</h2>
+    <div class="record-grid" id="player"></div>
+    <div id="player-empty"></div>
+    <h2 class="section-title">거래 기록</h2>
+    <div class="record-grid" id="transaction"></div>
+    <div id="transaction-empty"></div>
+  </div>
+  <script src="records.js"></script>
+</body>
+</html>

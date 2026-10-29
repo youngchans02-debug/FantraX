@@ -38,7 +38,7 @@
   }
 
   function fmtUpdated(iso) {
-    if (!iso) return "unknown";
+    if (!iso) return "알 수 없음";
     const date = new Date(iso);
     if (Number.isNaN(date.getTime())) return iso;
     return date.toLocaleString();
@@ -98,8 +98,8 @@
     const highlightPool = rows.filter((row) => row.fp90 !== null && !isLowMinutes(row));
     const topCutoff = highlightPool.slice(0, 10).map((r) => r.fp90);
     const topSet = new Set(topCutoff);
-    el.count.textContent = rows.length + " players";
-    el.updated.textContent = "Last updated: " + fmtUpdated(state.lastUpdated);
+    el.count.textContent = rows.length + "명";
+    el.updated.textContent = "마지막 업데이트: " + fmtUpdated(state.lastUpdated);
     el.tbody.innerHTML = rows
       .map((row) => {
         const low = isLowMinutes(row);
@@ -218,8 +218,8 @@
     state.rows = data.rows || [];
     state.lastUpdated = data.lastUpdated;
     el.status.textContent = data.missingMinutes
-      ? "Loaded " + data.count + " players (" + data.missingMinutes + " missing minutes)"
-      : "Loaded " + data.count + " players";
+      ? data.count + "명 불러옴 (출전분 없음 " + data.missingMinutes + ")"
+      : data.count + "명 불러옴";
     render();
   }
 
@@ -235,9 +235,9 @@
     try {
       data = await res.json();
     } catch (err) {
-      throw new Error("data unavailable");
+      throw new Error("데이터 없음");
     }
-    if (!res.ok || data.ok === false) throw new Error((data && data.error) || "data unavailable");
+    if (!res.ok || data.ok === false) throw new Error((data && data.error) || "데이터 없음");
     return data;
   }
 
@@ -245,7 +245,7 @@
     const localHost =
       location.hostname === "127.0.0.1" || location.hostname === "localhost";
     if (localHost) {
-      el.status.textContent = "Loading cached data…";
+      el.status.textContent = "캐시 불러오는 중…";
       try {
         const data = await readJson("/api/fp90");
         setAdminMode(true);
@@ -257,26 +257,26 @@
     } else {
       setAdminMode(false);
     }
-    el.status.textContent = "Loading snapshot…";
+    el.status.textContent = "스냅샷 불러오는 중…";
     applyPayload(await readJson("fp90.json"));
   }
 
   async function refresh() {
     if (!state.isLocalAdmin) return;
     el.refresh.disabled = true;
-    el.status.textContent = "Refreshing from Fantrax…";
+    el.status.textContent = "Fantrax에서 새로고침 중…";
     try {
       const res = await fetch("/api/refresh", { method: "POST", cache: "no-store" });
       let data;
       try {
         data = await res.json();
       } catch (err) {
-        throw new Error("Refresh failed");
+        throw new Error("새로고침 실패");
       }
-      if (!res.ok || data.ok === false) throw new Error(data.error || "Refresh failed");
+      if (!res.ok || data.ok === false) throw new Error(data.error || "새로고침 실패");
       applyPayload(data);
     } catch (err) {
-      el.status.textContent = "Refresh failed: " + err.message;
+      el.status.textContent = "새로고침 실패: " + err.message;
     } finally {
       el.refresh.disabled = false;
     }
@@ -312,9 +312,9 @@
   });
 
   loadData().catch((err) => {
-    el.status.textContent = "data unavailable";
-    if (err && err.message && err.message !== "data unavailable") {
-      el.status.textContent = "data unavailable (" + err.message + ")";
+    el.status.textContent = "데이터 없음";
+    if (err && err.message && err.message !== "데이터 없음") {
+      el.status.textContent = "데이터 없음 (" + err.message + ")";
     }
   });
 })();

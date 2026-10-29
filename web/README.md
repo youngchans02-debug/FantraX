@@ -1,11 +1,13 @@
-# FP/90 공유 페이지
+# FP/90 · 기록 · 명예의 전당
 
 리그 14명은 **고정 URL만** 엽니다. Fantrax Refresh는 로컬에서만 합니다.
 
-- 당신: `python3 fp90_server.py` → Refresh → `web/fp90.json` 커밋/푸시
+- 당신: `python3 fp90_server.py` → Refresh → `web/` 스냅샷 커밋/푸시
 - 친구: GitHub Pages 링크만 연다 (Refresh 버튼 없음)
 
-실시간은 아닙니다. FA가 된 선수는 **당신이 Refresh한 뒤 푸시**해야 Available로 보입니다.
+실시간은 아닙니다. FA·웨이버·점수는 **당신이 Refresh한 뒤 푸시**해야 반영됩니다.
+
+기록/명전은 **완료된 GW만** 씁니다. 진행 중인 GW는 제외됩니다.
 
 ## 1. GitHub Pages 켜기 (한 번)
 
@@ -25,7 +27,12 @@ python3 fp90_server.py
 ```
 
 브라우저에서 http://127.0.0.1:8765/ 를 열고 **Refresh**.  
-끝나면 `web/fp90.json` 이 덮어써진다.
+끝나면 아래 파일이 덮어써진다.
+
+- `web/fp90.json` — 선수 FP/90
+- `web/records.json` — 기록
+- `web/hof.json` — 명예의 전당
+- `fantrax_data/current/transactions.json` — 웨이버/드랍/트레이드 원본
 
 서버 없이 스냅샷만 쓰려면:
 
@@ -33,11 +40,17 @@ python3 fp90_server.py
 python3 fp90_server.py --export
 ```
 
+거래만 다시 받고 기록을 다시 쓰려면:
+
+```bash
+python3 records_hub.py
+```
+
 그다음:
 
 ```bash
-git add web/fp90.json
-git commit -m "Update FP/90 snapshot"
+git add web/fp90.json web/records.json web/hof.json
+git commit -m "Update league snapshots"
 git push
 ```
 
@@ -45,9 +58,9 @@ git push
 
 ## 3. 친구 화면
 
-공개 페이지는 `fp90.json` 만 GET 한다. `POST /api/refresh` 가 없다.
+공개 페이지는 JSON만 GET 한다. `POST /api/refresh` 가 없다.
 
-데이터가 없거나 JSON이 깨지면 화면에 `data unavailable` 이 뜬다. 추측하지 않는다.
+데이터가 없거나 JSON이 깨지면 화면에 `데이터 없음` 이 뜬다. 추측하지 않는다.
 
 ## 하지 말 것
 

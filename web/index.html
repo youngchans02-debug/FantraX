@@ -1,46 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Fantrax FP/90</title>
+  <title>FP/90</title>
   <link rel="stylesheet" href="fp90.css">
+  <link rel="stylesheet" href="site.css">
 </head>
 <body>
   <div class="wrap">
-    <h1>Fantrax FP/90</h1>
-    <div class="sub" id="updated">Last updated: —</div>
+    <nav class="site-nav">
+      <a href="index.html" class="active">선수</a>
+      <a href="records.html">기록</a>
+      <a href="hof.html">명예의 전당</a>
+    </nav>
+    <h1>FP/90</h1>
+    <div class="sub" id="updated">마지막 업데이트: —</div>
     <div class="note">
-      FP/90 = Fantasy Points ÷ Minutes Played × 90. Low-minute players may have inflated values.
-      This uses the league’s custom FPts, not Fantrax Pt/90. Default view is 180+ minutes.
+      리그 커스텀 FPts 기준입니다. FP/90 = FPts ÷ 출전분 × 90. 출전이 적으면 값이 부풀 수 있습니다.
+      Fantrax Pt/90이 아닙니다. 기본 필터는 180분 이상입니다.
     </div>
     <div class="toolbar">
-      <input id="search" type="search" placeholder="Search player (Saka, Pedro, João…)">
-      <button id="refresh" class="admin-only" type="button">Refresh</button>
+      <input id="search" type="search" placeholder="선수 검색 (Saka, Pedro, João…)">
+      <button id="refresh" class="admin-only" type="button">새로고침</button>
       <button id="csv" type="button">CSV</button>
       <span class="status" id="status"></span>
       <span class="status" id="count"></span>
     </div>
     <div class="filters">
-      <label>Position
+      <label>포지션
         <select id="position">
-          <option value="">All</option>
+          <option value="">전체</option>
           <option value="G">G</option>
           <option value="D">D</option>
           <option value="M">M</option>
           <option value="F">F</option>
         </select>
       </label>
-      <label>Roster
+      <label>로스터
         <select id="roster">
-          <option value="">All</option>
-          <option value="Rostered">Rostered</option>
-          <option value="Available">Available</option>
+          <option value="">전체</option>
+          <option value="Rostered">보유</option>
+          <option value="Available">미보유</option>
         </select>
       </label>
-      <label>Min minutes
+      <label>최소 출전분
         <select id="minutes">
-          <option value="0">All</option>
+          <option value="0">전체</option>
           <option value="90">90+</option>
           <option value="180" selected>180+</option>
           <option value="300">300+</option>
@@ -48,18 +54,18 @@
           <option value="600">600+</option>
         </select>
       </label>
-      <label>Min GP
+      <label>최소 경기
         <select id="gp">
-          <option value="0">All</option>
+          <option value="0">전체</option>
           <option value="1">1+</option>
           <option value="3">3+</option>
           <option value="5">5+</option>
           <option value="8">8+</option>
         </select>
       </label>
-      <label>Min source
+      <label>출전분 출처
         <select id="source">
-          <option value="">All</option>
+          <option value="">전체</option>
           <option value="Fantrax">Fantrax</option>
           <option value="FPL">FPL</option>
         </select>
@@ -69,17 +75,17 @@
       <table>
         <thead>
           <tr>
-            <th data-key="player" class="player">Player</th>
-            <th data-key="position">Pos</th>
+            <th data-key="player" class="player">선수</th>
+            <th data-key="position">포지션</th>
             <th data-key="eplTeam">EPL</th>
             <th data-key="fpts" class="num">FPts</th>
             <th data-key="fpG" class="num">FP/G</th>
-            <th data-key="minutes" class="num">Min</th>
-            <th data-key="gp" class="num">GP</th>
+            <th data-key="minutes" class="num">분</th>
+            <th data-key="gp" class="num">경기</th>
             <th data-key="fp90" class="num">FP/90</th>
-            <th data-key="minutesSource">Min src</th>
-            <th data-key="rosterStatus">Roster</th>
-            <th data-key="ownerTeamName">Owner</th>
+            <th data-key="minutesSource">출전분 출처</th>
+            <th data-key="rosterStatus">로스터</th>
+            <th data-key="ownerTeamName">구단</th>
           </tr>
         </thead>
         <tbody id="tbody"></tbody>
