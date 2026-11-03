@@ -111,7 +111,7 @@
 
 .rest li {
   display: grid;
-  grid-template-columns: 28px minmax(0, 1fr) auto;
+  grid-template-columns: auto minmax(0, 1fr) auto;
   gap: 8px;
   align-items: start;
   margin: 0;
@@ -140,6 +140,7 @@
   color: var(--muted);
   letter-spacing: 0.02em;
   padding-top: 2px;
+  white-space: nowrap;
 }
 
 .rest-second .rest-rank,

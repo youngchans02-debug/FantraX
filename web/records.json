@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-29T02:38:44+00:00",
+  "generatedAt": "2026-11-03T10:08:20+00:00",
   "season": "2026-27",
   "seasons": [
     "2026-27"
   ],
-  "completedThrough": 7,
-  "gameCount": 49,
+  "completedThrough": 9,
+  "gameCount": 63,
   "records": [
     {
       "id": 1,
@@ -15,6 +15,21 @@
       "status": "ready",
       "reason": null,
       "entries": [
+        {
+          "season": "2026-27",
+          "period": 9,
+          "date": "2026-11-06",
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "opponentId": "5r1c15nxmt05egzg",
+          "opponentName": "soundwave134",
+          "score": 287.62,
+          "opponentScore": 149.58,
+          "result": "W",
+          "imageUrl": null,
+          "rank": 1,
+          "tied": false
+        },
         {
           "season": "2026-27",
           "period": 6,
@@ -27,7 +42,8 @@
           "opponentScore": 97.82,
           "result": "W",
           "imageUrl": null,
-          "rank": 1
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -41,7 +57,23 @@
           "opponentScore": 109.56,
           "result": "W",
           "imageUrl": null,
-          "rank": 2
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "period": 8,
+          "date": "2026-10-30",
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "opponentId": "ct1s1zwcmt19vbyl",
+          "opponentName": "DJSoccerKing",
+          "score": 220.25,
+          "opponentScore": 154.15,
+          "result": "W",
+          "imageUrl": null,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -55,35 +87,8 @@
           "opponentScore": 98.83,
           "result": "W",
           "imageUrl": null,
-          "rank": 3
-        },
-        {
-          "season": "2026-27",
-          "period": 6,
-          "date": "2026-10-16",
-          "teamId": "oi40p2iymt059qby",
-          "teamName": "moonbape",
-          "opponentId": "3k1hj6a4msx9e1y1",
-          "opponentName": "Young FC",
-          "score": 201.48,
-          "opponentScore": 155.87,
-          "result": "W",
-          "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "period": 1,
-          "date": "2026-08-28",
-          "teamId": "a20htiwamt05ikfr",
-          "teamName": "GloryMang",
-          "opponentId": "ril8ciadmt04vx0l",
-          "opponentName": "kms361657",
-          "score": 199.91,
-          "opponentScore": 132.74,
-          "result": "W",
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -109,7 +114,8 @@
           "opponentScore": 140.0,
           "result": "L",
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -123,7 +129,8 @@
           "opponentScore": 198.31,
           "result": "L",
           "imageUrl": null,
-          "rank": 2
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -137,7 +144,23 @@
           "opponentScore": 168.1,
           "result": "L",
           "imageUrl": null,
-          "rank": 3
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "period": 8,
+          "date": "2026-10-30",
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "opponentId": "1sus3firmt070mdn",
+          "opponentName": "Parapara123",
+          "score": 80.92,
+          "opponentScore": 128.65,
+          "result": "L",
+          "imageUrl": null,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -151,21 +174,8 @@
           "opponentScore": 127.39,
           "result": "L",
           "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "period": 1,
-          "date": "2026-08-28",
-          "teamId": "m2wdonermt15132j",
-          "teamName": "Kangte",
-          "opponentId": "5r1c15nxmt05egzg",
-          "opponentName": "soundwave134",
-          "score": 81.35,
-          "opponentScore": 117.01,
-          "result": "L",
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -179,6 +189,28 @@
       "status": "ready",
       "reason": null,
       "entries": [
+        {
+          "season": "2026-27",
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "periodFrom": 6,
+          "periodTo": 9,
+          "period": 9,
+          "date": "2026-11-06",
+          "length": 4,
+          "score": null,
+          "opponentName": "DJSoccerKing",
+          "opponents": [
+            "hwoojo",
+            "GloryMang",
+            "SYnaldo",
+            "DJSoccerKing"
+          ],
+          "opponentSummary": "hwoojo, GloryMang, SYnaldo, DJSoccerKing",
+          "imageUrl": null,
+          "rank": 1,
+          "tied": true
+        },
         {
           "season": "2026-27",
           "teamId": "tuptxs8ymt1littl",
@@ -198,7 +230,8 @@
           ],
           "opponentSummary": "kms361657, eunho, soundwave134, moonbape",
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": true
         },
         {
           "season": "2026-27",
@@ -219,7 +252,8 @@
           ],
           "opponentSummary": "SYnaldo, kms361657, Kangte, Parapara123",
           "imageUrl": null,
-          "rank": 2
+          "rank": 1,
+          "tied": true
         },
         {
           "season": "2026-27",
@@ -240,7 +274,8 @@
           ],
           "opponentSummary": "DJSoccerKing, Kangte, Parapara123, yeseong",
           "imageUrl": null,
-          "rank": 3
+          "rank": 1,
+          "tied": true
         },
         {
           "season": "2026-27",
@@ -261,27 +296,8 @@
           ],
           "opponentSummary": "kms361657, moonland, eunho, soundwave134",
           "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "teamId": "wq6widptmt052is7",
-          "teamName": "SYnaldo",
-          "periodFrom": 5,
-          "periodTo": 7,
-          "period": 7,
-          "date": "2026-10-23",
-          "length": 3,
-          "score": null,
-          "opponentName": "yeseong",
-          "opponents": [
-            "Kangte",
-            "Parapara123",
-            "yeseong"
-          ],
-          "opponentSummary": "Kangte, Parapara123, yeseong",
-          "imageUrl": null,
-          "rank": 5
+          "rank": 1,
+          "tied": true
         }
       ],
       "imageUrl": null,
@@ -300,12 +316,12 @@
           "teamId": "m2wdonermt15132j",
           "teamName": "Kangte",
           "periodFrom": 1,
-          "periodTo": 7,
-          "period": 7,
-          "date": "2026-10-23",
-          "length": 7,
+          "periodTo": 8,
+          "period": 8,
+          "date": "2026-10-30",
+          "length": 8,
           "score": null,
-          "opponentName": "kms361657",
+          "opponentName": "Parapara123",
           "opponents": [
             "soundwave134",
             "moonbape",
@@ -313,11 +329,13 @@
             "GloryMang",
             "SYnaldo",
             "DJSoccerKing",
-            "kms361657"
+            "kms361657",
+            "Parapara123"
           ],
-          "opponentSummary": "soundwave134, moonbape, hwoojo, GloryMang, SYnaldo, DJSoccerKing, kms361657",
+          "opponentSummary": "soundwave134, moonbape, hwoojo, GloryMang, SYnaldo, DJSoccerKing, kms361657, Parapara123",
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -338,7 +356,8 @@
           ],
           "opponentSummary": "moonbape, hwoojo, GloryMang, SYnaldo",
           "imageUrl": null,
-          "rank": 2
+          "rank": 2,
+          "tied": true
         },
         {
           "season": "2026-27",
@@ -359,7 +378,8 @@
           ],
           "opponentSummary": "hwoojo, GloryMang, SYnaldo, DJSoccerKing",
           "imageUrl": null,
-          "rank": 3
+          "rank": 2,
+          "tied": true
         },
         {
           "season": "2026-27",
@@ -379,7 +399,8 @@
           ],
           "opponentSummary": "Young FC, moonland, eunho",
           "imageUrl": null,
-          "rank": 4
+          "rank": 4,
+          "tied": true
         },
         {
           "season": "2026-27",
@@ -399,7 +420,8 @@
           ],
           "opponentSummary": "moonland, DJSoccerKing, eunho",
           "imageUrl": null,
-          "rank": 5
+          "rank": 4,
+          "tied": true
         }
       ],
       "imageUrl": null,
@@ -415,6 +437,22 @@
       "entries": [
         {
           "season": "2026-27",
+          "period": 9,
+          "date": "2026-11-06",
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "opponentId": "5r1c15nxmt05egzg",
+          "opponentName": "soundwave134",
+          "score": 287.62,
+          "opponentScore": 149.58,
+          "result": "W",
+          "imageUrl": null,
+          "margin": 138.04,
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
           "period": 6,
           "date": "2026-10-16",
           "teamId": "a20htiwamt05ikfr",
@@ -426,7 +464,8 @@
           "result": "W",
           "imageUrl": null,
           "margin": 137.33,
-          "rank": 1
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -441,7 +480,8 @@
           "result": "W",
           "imageUrl": null,
           "margin": 124.78,
-          "rank": 2
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -456,7 +496,8 @@
           "result": "W",
           "imageUrl": null,
           "margin": 122.9,
-          "rank": 3
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -471,22 +512,8 @@
           "result": "W",
           "imageUrl": null,
           "margin": 120.38,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "period": 4,
-          "date": "2026-09-18",
-          "teamId": "5r1c15nxmt05egzg",
-          "teamName": "soundwave134",
-          "opponentId": "s2bvo3ebmt14wjvp",
-          "opponentName": "KurtZuna",
-          "score": 168.1,
-          "opponentScore": 78.27,
-          "result": "W",
-          "imageUrl": null,
-          "margin": 89.83,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -502,6 +529,22 @@
       "entries": [
         {
           "season": "2026-27",
+          "period": 9,
+          "date": "2026-11-06",
+          "teamId": "s2bvo3ebmt14wjvp",
+          "teamName": "KurtZuna",
+          "opponentId": "ct1s1zwcmt19vbyl",
+          "opponentName": "DJSoccerKing",
+          "score": 159.1,
+          "opponentScore": 158.62,
+          "result": "W",
+          "imageUrl": null,
+          "margin": 0.48,
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
           "period": 1,
           "date": "2026-08-28",
           "teamId": "s2bvo3ebmt14wjvp",
@@ -513,7 +556,8 @@
           "result": "W",
           "imageUrl": null,
           "margin": 4.97,
-          "rank": 1
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -528,7 +572,24 @@
           "result": "W",
           "imageUrl": null,
           "margin": 5.18,
-          "rank": 2
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "period": 8,
+          "date": "2026-10-30",
+          "teamId": "5r1c15nxmt05egzg",
+          "teamName": "soundwave134",
+          "opponentId": "ril8ciadmt04vx0l",
+          "opponentName": "kms361657",
+          "score": 173.41,
+          "opponentScore": 166.8,
+          "result": "W",
+          "imageUrl": null,
+          "margin": 6.61,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -543,37 +604,8 @@
           "result": "W",
           "imageUrl": null,
           "margin": 6.96,
-          "rank": 3
-        },
-        {
-          "season": "2026-27",
-          "period": 2,
-          "date": "2026-09-04",
-          "teamId": "1sus3firmt070mdn",
-          "teamName": "Parapara123",
-          "opponentId": "5r1c15nxmt05egzg",
-          "opponentName": "soundwave134",
-          "score": 142.88,
-          "opponentScore": 133.45,
-          "result": "W",
-          "imageUrl": null,
-          "margin": 9.43,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "period": 6,
-          "date": "2026-10-16",
-          "teamId": "ct1s1zwcmt19vbyl",
-          "teamName": "DJSoccerKing",
-          "opponentId": "m2wdonermt15132j",
-          "opponentName": "Kangte",
-          "score": 172.33,
-          "opponentScore": 161.2,
-          "result": "W",
-          "imageUrl": null,
-          "margin": 11.13,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -599,7 +631,23 @@
           "opponentScore": 196.21,
           "result": "L",
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "period": 9,
+          "date": "2026-11-06",
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "opponentId": "a20htiwamt05ikfr",
+          "opponentName": "GloryMang",
+          "score": 183.15,
+          "opponentScore": 218.87,
+          "result": "L",
+          "imageUrl": null,
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -613,7 +661,23 @@
           "opponentScore": 199.9,
           "result": "L",
           "imageUrl": null,
-          "rank": 2
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "period": 8,
+          "date": "2026-10-30",
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "opponentId": "u4gyh7r5mt14pty3",
+          "opponentName": "hwoojo",
+          "score": 175.61,
+          "opponentScore": 197.51,
+          "result": "L",
+          "imageUrl": null,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -627,35 +691,8 @@
           "opponentScore": 178.37,
           "result": "L",
           "imageUrl": null,
-          "rank": 3
-        },
-        {
-          "season": "2026-27",
-          "period": 3,
-          "date": "2026-09-11",
-          "teamId": "oi40p2iymt059qby",
-          "teamName": "moonbape",
-          "opponentId": "1sus3firmt070mdn",
-          "opponentName": "Parapara123",
-          "score": 161.7,
-          "opponentScore": 189.37,
-          "result": "L",
-          "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "period": 6,
-          "date": "2026-10-16",
-          "teamId": "m2wdonermt15132j",
-          "teamName": "Kangte",
-          "opponentId": "ct1s1zwcmt19vbyl",
-          "opponentName": "DJSoccerKing",
-          "score": 161.2,
-          "opponentScore": 172.33,
-          "result": "L",
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -681,7 +718,8 @@
           "opponentScore": 81.35,
           "result": "W",
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -695,7 +733,8 @@
           "opponentScore": 103.2,
           "result": "W",
           "imageUrl": null,
-          "rank": 2
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -709,7 +748,8 @@
           "opponentScore": 117.72,
           "result": "W",
           "imageUrl": null,
-          "rank": 3
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -723,7 +763,8 @@
           "opponentScore": 81.33,
           "result": "W",
           "imageUrl": null,
-          "rank": 4
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -737,7 +778,8 @@
           "opponentScore": 97.72,
           "result": "W",
           "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -753,6 +795,38 @@
       "entries": [
         {
           "season": "2026-27",
+          "period": 9,
+          "date": "2026-11-06",
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "score": 287.62,
+          "opponentId": "5r1c15nxmt05egzg",
+          "opponentName": "soundwave134",
+          "opponentScore": 149.58,
+          "combined": 437.2,
+          "margin": 138.04,
+          "imageUrl": null,
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "period": 9,
+          "date": "2026-11-06",
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "score": 218.87,
+          "opponentId": "tuptxs8ymt1littl",
+          "opponentName": "moonland",
+          "opponentScore": 183.15,
+          "combined": 402.02,
+          "margin": 35.72,
+          "imageUrl": null,
+          "rank": 2,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
           "period": 7,
           "date": "2026-10-23",
           "teamId": "3k1hj6a4msx9e1y1",
@@ -764,7 +838,8 @@
           "combined": 387.24,
           "margin": 5.18,
           "imageUrl": null,
-          "rank": 1
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -779,52 +854,24 @@
           "combined": 380.02,
           "margin": 19.78,
           "imageUrl": null,
-          "rank": 2
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
-          "period": 6,
-          "date": "2026-10-16",
-          "teamId": "oi40p2iymt059qby",
-          "teamName": "moonbape",
-          "score": 201.48,
-          "opponentId": "3k1hj6a4msx9e1y1",
-          "opponentName": "Young FC",
-          "opponentScore": 155.87,
-          "combined": 357.35,
-          "margin": 45.61,
+          "period": 8,
+          "date": "2026-10-30",
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "score": 220.25,
+          "opponentId": "ct1s1zwcmt19vbyl",
+          "opponentName": "DJSoccerKing",
+          "opponentScore": 154.15,
+          "combined": 374.4,
+          "margin": 66.1,
           "imageUrl": null,
-          "rank": 3
-        },
-        {
-          "season": "2026-27",
-          "period": 5,
-          "date": "2026-10-09",
-          "teamId": "3k1hj6a4msx9e1y1",
-          "teamName": "Young FC",
-          "score": 197.29,
-          "opponentId": "5r1c15nxmt05egzg",
-          "opponentName": "soundwave134",
-          "opponentScore": 160.02,
-          "combined": 357.31,
-          "margin": 37.27,
-          "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "period": 3,
-          "date": "2026-09-11",
-          "teamId": "1sus3firmt070mdn",
-          "teamName": "Parapara123",
-          "score": 189.37,
-          "opponentId": "oi40p2iymt059qby",
-          "opponentName": "moonbape",
-          "opponentScore": 161.7,
-          "combined": 351.07,
-          "margin": 27.67,
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -851,7 +898,8 @@
           "combined": 198.36,
           "margin": 35.66,
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -866,7 +914,24 @@
           "combined": 208.72,
           "margin": 46.06,
           "imageUrl": null,
-          "rank": 2
+          "rank": 2,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "period": 8,
+          "date": "2026-10-30",
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "score": 128.65,
+          "opponentId": "m2wdonermt15132j",
+          "opponentName": "Kangte",
+          "opponentScore": 80.92,
+          "combined": 209.57,
+          "margin": 47.73,
+          "imageUrl": null,
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -881,7 +946,8 @@
           "combined": 215.35,
           "margin": 64.65,
           "imageUrl": null,
-          "rank": 3
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -896,22 +962,8 @@
           "combined": 220.21,
           "margin": 13.81,
           "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "period": 7,
-          "date": "2026-10-23",
-          "teamId": "ril8ciadmt04vx0l",
-          "teamName": "kms361657",
-          "score": 127.91,
-          "opponentId": "m2wdonermt15132j",
-          "opponentName": "Kangte",
-          "opponentScore": 97.72,
-          "combined": 225.63,
-          "margin": 30.19,
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -931,14 +983,15 @@
           "playerName": "Granit Xhaka",
           "position": "M",
           "eplTeam": "SUN",
-          "score": 240.58,
+          "score": 276.49,
           "teamId": "ct1s1zwcmt19vbyl",
           "teamName": "DJSoccerKing",
           "period": null,
           "date": null,
           "imageUrl": null,
-          "fpG": 30.07,
-          "rank": 1
+          "fpG": 30.72,
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -946,29 +999,31 @@
           "playerName": "Elliot Anderson",
           "position": "M",
           "eplTeam": "MCI",
-          "score": 200.31,
+          "score": 233.2,
           "teamId": "a20htiwamt05ikfr",
           "teamName": "GloryMang",
           "period": null,
           "date": null,
           "imageUrl": null,
-          "fpG": 25.04,
-          "rank": 2
+          "fpG": 25.91,
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
-          "playerId": "061vq",
-          "playerName": "Erling Haaland",
-          "position": "F",
-          "eplTeam": "MCI",
-          "score": 198.06,
-          "teamId": "tuptxs8ymt1littl",
-          "teamName": "moonland",
+          "playerId": "05uht",
+          "playerName": "Morgan Rogers",
+          "position": "M",
+          "eplTeam": "CHE",
+          "score": 231.38,
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
           "period": null,
           "date": null,
           "imageUrl": null,
-          "fpG": 24.76,
-          "rank": 3
+          "fpG": 25.71,
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -976,14 +1031,15 @@
           "playerName": "Declan Rice",
           "position": "M",
           "eplTeam": "ARS",
-          "score": 191.37,
+          "score": 219.35,
           "teamId": "pje1yzfgmt04th4u",
           "teamName": "eunho",
           "period": null,
           "date": null,
           "imageUrl": null,
-          "fpG": 23.92,
-          "rank": 4
+          "fpG": 24.37,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -991,14 +1047,15 @@
           "playerName": "James Mcatee",
           "position": "M",
           "eplTeam": "NOT",
-          "score": 190.73,
+          "score": 215.41,
           "teamId": "pje1yzfgmt04th4u",
           "teamName": "eunho",
           "period": null,
           "date": null,
           "imageUrl": null,
-          "fpG": 23.84,
-          "rank": 5
+          "fpG": 23.93,
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1014,6 +1071,42 @@
       "entries": [
         {
           "season": "2026-27",
+          "playerId": "06fup",
+          "playerName": "Jeremy Doku",
+          "position": "M",
+          "eplTeam": "MCI",
+          "score": 30.9,
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "period": null,
+          "date": null,
+          "imageUrl": null,
+          "fpG": 30.9,
+          "fpts": 154.51,
+          "gp": 5.0,
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "0435m",
+          "playerName": "Granit Xhaka",
+          "position": "M",
+          "eplTeam": "SUN",
+          "score": 30.72,
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "period": null,
+          "date": null,
+          "imageUrl": null,
+          "fpG": 30.72,
+          "fpts": 276.49,
+          "gp": 9.0,
+          "rank": 2,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
           "playerId": "06f8y",
           "playerName": "Alex Scott",
           "position": "M",
@@ -1027,24 +1120,8 @@
           "fpG": 30.66,
           "fpts": 153.28,
           "gp": 5.0,
-          "rank": 1
-        },
-        {
-          "season": "2026-27",
-          "playerId": "0435m",
-          "playerName": "Granit Xhaka",
-          "position": "M",
-          "eplTeam": "SUN",
-          "score": 30.07,
-          "teamId": "ct1s1zwcmt19vbyl",
-          "teamName": "DJSoccerKing",
-          "period": null,
-          "date": null,
-          "imageUrl": null,
-          "fpG": 30.07,
-          "fpts": 240.58,
-          "gp": 8.0,
-          "rank": 2
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1061,41 +1138,26 @@
           "fpG": 28.64,
           "fpts": 171.86,
           "gp": 6.0,
-          "rank": 3
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
-          "playerId": "0666p",
-          "playerName": "Kobbie Mainoo",
+          "playerId": "06mvz",
+          "playerName": "Savio",
           "position": "M",
-          "eplTeam": "MUN",
-          "score": 25.82,
-          "teamId": "ril8ciadmt04vx0l",
-          "teamName": "kms361657",
+          "eplTeam": "TOT",
+          "score": 26.03,
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
           "period": null,
           "date": null,
           "imageUrl": null,
-          "fpG": 25.82,
-          "fpts": 154.91,
-          "gp": 6.0,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "05opj",
-          "playerName": "Elliot Anderson",
-          "position": "M",
-          "eplTeam": "MCI",
-          "score": 25.04,
-          "teamId": "a20htiwamt05ikfr",
-          "teamName": "GloryMang",
-          "period": null,
-          "date": null,
-          "imageUrl": null,
-          "fpG": 25.04,
-          "fpts": 200.31,
-          "gp": 8.0,
-          "rank": 5
+          "fpG": 26.03,
+          "fpts": 104.12,
+          "gp": 4.0,
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1111,54 +1173,75 @@
       "entries": [
         {
           "season": "2026-27",
-          "playerId": "05ylj",
-          "playerName": "Bruno Guimaraes",
-          "position": "M",
-          "eplTeam": "ARS",
-          "score": 37.23,
-          "teamId": "wq6widptmt052is7",
-          "teamName": "SYnaldo",
-          "period": null,
-          "date": null,
-          "imageUrl": null,
-          "fp90": 37.23,
-          "fpts": 98.03,
-          "minutes": 237.0,
-          "rank": 1
-        },
-        {
-          "season": "2026-27",
           "playerId": "06fup",
           "playerName": "Jeremy Doku",
           "position": "M",
           "eplTeam": "MCI",
-          "score": 31.76,
+          "score": 45.59,
           "teamId": "u4gyh7r5mt14pty3",
           "teamName": "hwoojo",
           "period": null,
           "date": null,
           "imageUrl": null,
-          "fp90": 31.76,
-          "fpts": 75.88,
-          "minutes": 215.0,
-          "rank": 2
+          "fp90": 45.59,
+          "fpts": 154.51,
+          "minutes": 305.0,
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
-          "playerId": "0666p",
-          "playerName": "Kobbie Mainoo",
+          "playerId": "05ylj",
+          "playerName": "Bruno Guimaraes",
           "position": "M",
-          "eplTeam": "MUN",
+          "eplTeam": "ARS",
+          "score": 32.9,
+          "teamId": "wq6widptmt052is7",
+          "teamName": "SYnaldo",
+          "period": null,
+          "date": null,
+          "imageUrl": null,
+          "fp90": 32.9,
+          "fpts": 108.92,
+          "minutes": 298.0,
+          "rank": 2,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "061ve",
+          "playerName": "Ryan Christie",
+          "position": "M",
+          "eplTeam": "BOU",
+          "score": 32.1,
+          "teamId": "1sus3firmt070mdn",
+          "teamName": "Parapara123",
+          "period": null,
+          "date": null,
+          "imageUrl": null,
+          "fp90": 32.1,
+          "fpts": 123.41,
+          "minutes": 346.0,
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05unu",
+          "playerName": "Romeo Lavia",
+          "position": "M",
+          "eplTeam": "CHE",
           "score": 31.4,
-          "teamId": "ril8ciadmt04vx0l",
-          "teamName": "kms361657",
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
           "period": null,
           "date": null,
           "imageUrl": null,
           "fp90": 31.4,
-          "fpts": 154.91,
-          "minutes": 444.0,
-          "rank": 3
+          "fpts": 128.05,
+          "minutes": 367.0,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1175,24 +1258,8 @@
           "fp90": 31.07,
           "fpts": 153.28,
           "minutes": 444.0,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "0435m",
-          "playerName": "Granit Xhaka",
-          "position": "M",
-          "eplTeam": "SUN",
-          "score": 30.07,
-          "teamId": "ct1s1zwcmt19vbyl",
-          "teamName": "DJSoccerKing",
-          "period": null,
-          "date": null,
-          "imageUrl": null,
-          "fp90": 30.07,
-          "fpts": 240.58,
-          "minutes": 720.0,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1218,7 +1285,8 @@
           "period": 5,
           "date": null,
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1232,7 +1300,8 @@
           "period": 2,
           "date": null,
           "imageUrl": null,
-          "rank": 2
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1246,7 +1315,23 @@
           "period": 7,
           "date": null,
           "imageUrl": null,
-          "rank": 3
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05unu",
+          "playerName": "Romeo Lavia",
+          "position": "M",
+          "eplTeam": "CHE",
+          "score": 53.74,
+          "teamId": null,
+          "teamName": "FA",
+          "period": 9,
+          "date": null,
+          "imageUrl": null,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1260,21 +1345,8 @@
           "period": 6,
           "date": null,
           "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "05l8q",
-          "playerName": "Cole Palmer",
-          "position": "M",
-          "eplTeam": "CHE",
-          "score": 47.67,
-          "teamId": "oi40p2iymt059qby",
-          "teamName": "moonbape",
-          "period": 1,
-          "date": null,
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1300,7 +1372,23 @@
           "period": 4,
           "date": null,
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "06cmu",
+          "playerName": "Bart Verbruggen",
+          "position": "G",
+          "eplTeam": "BHA",
+          "score": 31.32,
+          "teamId": "ril8ciadmt04vx0l",
+          "teamName": "kms361657",
+          "period": 9,
+          "date": null,
+          "imageUrl": null,
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1314,7 +1402,8 @@
           "period": 1,
           "date": null,
           "imageUrl": null,
-          "rank": 2
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1328,7 +1417,8 @@
           "period": 4,
           "date": null,
           "imageUrl": null,
-          "rank": 3
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1342,21 +1432,8 @@
           "period": 3,
           "date": null,
           "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "02lz0",
-          "playerName": "Emiliano Martinez",
-          "position": "G",
-          "eplTeam": "CHE",
-          "score": 25.38,
-          "teamId": "u4gyh7r5mt14pty3",
-          "teamName": "hwoojo",
-          "period": 7,
-          "date": null,
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1382,7 +1459,38 @@
           "period": 7,
           "date": null,
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05oh0",
+          "playerName": "Jan-Paul van Hecke",
+          "position": "D",
+          "eplTeam": "TOT",
+          "score": 38.35,
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "period": 9,
+          "date": null,
+          "imageUrl": null,
+          "rank": 2,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05l27",
+          "playerName": "Jarrad Branthwaite",
+          "position": "D",
+          "eplTeam": "EVE",
+          "score": 37.54,
+          "teamId": "ct1s1zwcmt19vbyl",
+          "teamName": "DJSoccerKing",
+          "period": 9,
+          "date": null,
+          "imageUrl": null,
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1396,7 +1504,8 @@
           "period": 5,
           "date": null,
           "imageUrl": null,
-          "rank": 2
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1410,35 +1519,8 @@
           "period": 7,
           "date": null,
           "imageUrl": null,
-          "rank": 3
-        },
-        {
-          "season": "2026-27",
-          "playerId": "04qfz",
-          "playerName": "Diogo Dalot",
-          "position": "D",
-          "eplTeam": "MUN",
-          "score": 34.11,
-          "teamId": "u4gyh7r5mt14pty3",
-          "teamName": "hwoojo",
-          "period": 7,
-          "date": null,
-          "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "0703c",
-          "playerName": "Nordi Mukiele",
-          "position": "D",
-          "eplTeam": "SUN",
-          "score": 32.82,
-          "teamId": "a20htiwamt05ikfr",
-          "teamName": "GloryMang",
-          "period": 6,
-          "date": null,
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1464,7 +1546,23 @@
           "period": 2,
           "date": null,
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05unu",
+          "playerName": "Romeo Lavia",
+          "position": "M",
+          "eplTeam": "CHE",
+          "score": 53.74,
+          "teamId": null,
+          "teamName": "FA",
+          "period": 9,
+          "date": null,
+          "imageUrl": null,
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1478,7 +1576,8 @@
           "period": 6,
           "date": null,
           "imageUrl": null,
-          "rank": 2
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1492,7 +1591,8 @@
           "period": 1,
           "date": null,
           "imageUrl": null,
-          "rank": 3
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1506,21 +1606,8 @@
           "period": 4,
           "date": null,
           "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "07877",
-          "playerName": "Mamadou Sangaré",
-          "position": "M",
-          "eplTeam": "BRF",
-          "score": 41.94,
-          "teamId": "u4gyh7r5mt14pty3",
-          "teamName": "hwoojo",
-          "period": 1,
-          "date": null,
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1546,7 +1633,8 @@
           "period": 5,
           "date": null,
           "imageUrl": null,
-          "rank": 1
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1560,7 +1648,23 @@
           "period": 7,
           "date": null,
           "imageUrl": null,
-          "rank": 2
+          "rank": 2,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "06cm1",
+          "playerName": "Nicolas Jackson",
+          "position": "F",
+          "eplTeam": "AVL",
+          "score": 47.16,
+          "teamId": "3k1hj6a4msx9e1y1",
+          "teamName": "Young FC",
+          "period": 8,
+          "date": null,
+          "imageUrl": null,
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1574,7 +1678,8 @@
           "period": 7,
           "date": null,
           "imageUrl": null,
-          "rank": 3
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1588,21 +1693,8 @@
           "period": 5,
           "date": null,
           "imageUrl": null,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "061vq",
-          "playerName": "Erling Haaland",
-          "position": "F",
-          "eplTeam": "MCI",
-          "score": 44.87,
-          "teamId": "tuptxs8ymt1littl",
-          "teamName": "moonland",
-          "period": 7,
-          "date": null,
-          "imageUrl": null,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1618,28 +1710,11 @@
       "entries": [
         {
           "season": "2026-27",
-          "playerId": "05tre",
-          "playerName": "Vitaly Janelt",
-          "position": "M",
-          "eplTeam": "BRF",
-          "score": 119.67,
-          "teamId": "a20htiwamt05ikfr",
-          "teamName": "GloryMang",
-          "period": 2,
-          "date": "Tue Aug 25, 2026, 10:00AM",
-          "imageUrl": null,
-          "bid": 5.0,
-          "claimType": "WW",
-          "games": 6,
-          "rank": 1
-        },
-        {
-          "season": "2026-27",
           "playerId": "06cm1",
           "playerName": "Nicolas Jackson",
           "position": "F",
           "eplTeam": "AVL",
-          "score": 76.94,
+          "score": 159.04,
           "teamId": "3k1hj6a4msx9e1y1",
           "teamName": "Young FC",
           "period": 3,
@@ -1647,25 +1722,27 @@
           "imageUrl": null,
           "bid": 0.0,
           "claimType": "WW",
-          "games": 5,
-          "rank": 2
+          "games": 7,
+          "rank": 1,
+          "tied": false
         },
         {
           "season": "2026-27",
-          "playerId": "05uel",
-          "playerName": "Kristoffer Ajer",
-          "position": "D",
+          "playerId": "05tre",
+          "playerName": "Vitaly Janelt",
+          "position": "M",
           "eplTeam": "BRF",
-          "score": 74.45,
-          "teamId": "m2wdonermt15132j",
-          "teamName": "Kangte",
-          "period": 3,
-          "date": "Tue Sep 1, 2026, 10:00AM",
+          "score": 144.08,
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
+          "period": 2,
+          "date": "Tue Aug 25, 2026, 10:00AM",
           "imageUrl": null,
-          "bid": 2.0,
+          "bid": 5.0,
           "claimType": "WW",
-          "games": 5,
-          "rank": 3
+          "games": 8,
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1673,7 +1750,7 @@
           "playerName": "Exequiel Palacios",
           "position": "M",
           "eplTeam": "IPS",
-          "score": 68.87,
+          "score": 123.53,
           "teamId": "3k1hj6a4msx9e1y1",
           "teamName": "Young FC",
           "period": 4,
@@ -1681,25 +1758,45 @@
           "imageUrl": null,
           "bid": 0.0,
           "claimType": "WW",
-          "games": 4,
-          "rank": 4
+          "games": 6,
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
-          "playerId": "0793q",
-          "playerName": "Bradley Barcola",
-          "position": "F",
-          "eplTeam": "LIV",
-          "score": 58.19,
-          "teamId": "ct1s1zwcmt19vbyl",
-          "teamName": "DJSoccerKing",
+          "playerId": "061xs",
+          "playerName": "Julio Enciso",
+          "position": "M",
+          "eplTeam": "IPS",
+          "score": 109.19,
+          "teamId": "a20htiwamt05ikfr",
+          "teamName": "GloryMang",
           "period": 3,
           "date": "Tue Sep 1, 2026, 10:00AM",
           "imageUrl": null,
-          "bid": 100.0,
+          "bid": 4.0,
           "claimType": "WW",
-          "games": 5,
-          "rank": 5
+          "games": 7,
+          "rank": 4,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05uel",
+          "playerName": "Kristoffer Ajer",
+          "position": "D",
+          "eplTeam": "BRF",
+          "score": 99.83,
+          "teamId": "m2wdonermt15132j",
+          "teamName": "Kangte",
+          "period": 3,
+          "date": "Tue Sep 1, 2026, 10:00AM",
+          "imageUrl": null,
+          "bid": 2.0,
+          "claimType": "WW",
+          "games": 7,
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1717,7 +1814,7 @@
           "season": "2026-27",
           "playerId": "0793q",
           "playerName": "Bradley Barcola",
-          "position": "F",
+          "position": "M,F",
           "eplTeam": "LIV",
           "score": 100.0,
           "teamId": "ct1s1zwcmt19vbyl",
@@ -1727,9 +1824,29 @@
           "imageUrl": null,
           "bid": 100.0,
           "claimType": "WW",
-          "fpts": 58.19,
-          "games": 5,
-          "rank": 1
+          "fpts": 94.92,
+          "games": 7,
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "0414o",
+          "playerName": "James Maddison",
+          "position": "M",
+          "eplTeam": "TOT",
+          "score": 55.0,
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "period": 8,
+          "date": "Fri Oct 23, 2026, 10:00AM",
+          "imageUrl": null,
+          "bid": 55.0,
+          "claimType": "WW",
+          "fpts": 6.68,
+          "games": 2,
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1745,9 +1862,10 @@
           "imageUrl": null,
           "bid": 35.0,
           "claimType": "WW",
-          "fpts": 35.22,
-          "games": 6,
-          "rank": 2
+          "fpts": 39.84,
+          "games": 8,
+          "rank": 3,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1765,43 +1883,27 @@
           "claimType": "WW",
           "fpts": 7.45,
           "games": 3,
-          "rank": 3
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
-          "playerId": "03rxs",
-          "playerName": "Harry Wilson",
-          "position": "M",
-          "eplTeam": "LEE",
+          "playerId": "03m3q",
+          "playerName": "Ainsley Maitland-Niles",
+          "position": "D,M",
+          "eplTeam": "EVE",
           "score": 10.0,
-          "teamId": "a20htiwamt05ikfr",
-          "teamName": "GloryMang",
-          "period": 2,
-          "date": "Tue Aug 25, 2026, 10:00AM",
+          "teamId": "6x7ow4qcmt0zjt4n",
+          "teamName": "yeseong",
+          "period": 8,
+          "date": "Tue Oct 20, 2026, 10:00AM",
           "imageUrl": null,
           "bid": 10.0,
           "claimType": "WW",
-          "fpts": 17.34,
-          "games": 4,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "066sd",
-          "playerName": "Myles Lewis-Skelly",
-          "position": "M",
-          "eplTeam": "ARS",
-          "score": 5.0,
-          "teamId": "3k1hj6a4msx9e1y1",
-          "teamName": "Young FC",
-          "period": 6,
-          "date": "Fri Sep 25, 2026, 10:00AM",
-          "imageUrl": null,
-          "bid": 5.0,
-          "claimType": "WW",
-          "fpts": 11.31,
+          "fpts": 0.0,
           "games": 2,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,
@@ -1817,20 +1919,39 @@
       "entries": [
         {
           "season": "2026-27",
-          "playerId": "05unu",
-          "playerName": "Romeo Lavia",
-          "position": "M",
-          "eplTeam": "CHE",
-          "score": 6.0,
+          "playerId": "0784w",
+          "playerName": "Emersonn",
+          "position": "F",
+          "eplTeam": "IPS",
+          "score": 8.0,
           "teamId": null,
           "teamName": null,
           "period": null,
           "date": null,
           "imageUrl": null,
-          "claims": 3,
+          "claims": 4,
+          "drops": 4,
+          "games": 8,
+          "rank": 1,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05unu",
+          "playerName": "Romeo Lavia",
+          "position": "M",
+          "eplTeam": "CHE",
+          "score": 7.0,
+          "teamId": null,
+          "teamName": null,
+          "period": null,
+          "date": null,
+          "imageUrl": null,
+          "claims": 4,
           "drops": 3,
-          "games": 6,
-          "rank": 1
+          "games": 7,
+          "rank": 2,
+          "tied": false
         },
         {
           "season": "2026-27",
@@ -1847,13 +1968,32 @@
           "claims": 3,
           "drops": 2,
           "games": 5,
-          "rank": 2
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "02lnx",
+          "playerName": "Danny Welbeck",
+          "position": "F",
+          "eplTeam": "CHE",
+          "score": 5.0,
+          "teamId": null,
+          "teamName": null,
+          "period": null,
+          "date": null,
+          "imageUrl": null,
+          "claims": 2,
+          "drops": 3,
+          "games": 5,
+          "rank": 4,
+          "tied": false
         },
         {
           "season": "2026-27",
           "playerId": "070f9",
           "playerName": "Yeremy Pino",
-          "position": "M",
+          "position": "M,F",
           "eplTeam": "CRY",
           "score": 4.0,
           "teamId": null,
@@ -1864,41 +2004,8 @@
           "claims": 2,
           "drops": 2,
           "games": 4,
-          "rank": 3
-        },
-        {
-          "season": "2026-27",
-          "playerId": "06c6g",
-          "playerName": "Yankuba Minteh",
-          "position": "M",
-          "eplTeam": "BHA",
-          "score": 4.0,
-          "teamId": null,
-          "teamName": null,
-          "period": null,
-          "date": null,
-          "imageUrl": null,
-          "claims": 2,
-          "drops": 2,
-          "games": 4,
-          "rank": 4
-        },
-        {
-          "season": "2026-27",
-          "playerId": "06pia",
-          "playerName": "Maxence Lacroix",
-          "position": "D",
-          "eplTeam": "CHE",
-          "score": 4.0,
-          "teamId": null,
-          "teamName": null,
-          "period": null,
-          "date": null,
-          "imageUrl": null,
-          "claims": 2,
-          "drops": 2,
-          "games": 4,
-          "rank": 5
+          "rank": 5,
+          "tied": false
         }
       ],
       "imageUrl": null,

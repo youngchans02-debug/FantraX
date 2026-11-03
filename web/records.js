@@ -89,6 +89,12 @@
     return record.status === "ready" && (record.entries || []).length;
   }
 
+  function formatRank(entry) {
+    const rank = entry.rank || 1;
+    if (entry.tied) return "공동 " + rank + "위";
+    return "#" + rank;
+  }
+
   function card(record) {
     const entries = record.entries || [];
     let body;
@@ -97,7 +103,9 @@
       const rest = entries.slice(1);
       body =
         "<div class='leader'>" +
-        "<div class='leader-rank'>#1</div>" +
+        "<div class='leader-rank'>" +
+        escapeHtml(formatRank(leader)) +
+        "</div>" +
         "<div class='leader-name'>" +
         escapeHtml(displayName(record, leader)) +
         "</div>" +
@@ -112,14 +120,15 @@
         body +=
           "<ol class='rest'>" +
           rest
-            .map(function (entry, index) {
+            .map(function (entry) {
               const extra = entryMeta(record, entry);
+              const second = entry.rank === 2 && !entry.tied;
               return (
                 "<li" +
-                (index === 0 ? " class='rest-second'" : "") +
+                (second ? " class='rest-second'" : "") +
                 ">" +
-                "<span class='rest-rank'>#" +
-                (index + 2) +
+                "<span class='rest-rank'>" +
+                escapeHtml(formatRank(entry)) +
                 "</span>" +
                 "<div class='rest-main'>" +
                 "<div class='rest-name'>" +
