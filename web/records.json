@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-03T10:08:20+00:00",
+  "generatedAt": "2026-11-03T15:03:38+00:00",
   "season": "2026-27",
   "seasons": [
     "2026-27"
@@ -1325,8 +1325,8 @@
           "position": "M",
           "eplTeam": "CHE",
           "score": 53.74,
-          "teamId": null,
-          "teamName": "FA",
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
           "period": 9,
           "date": null,
           "imageUrl": null,
@@ -1339,7 +1339,7 @@
           "playerName": "Kiernan Dewsbury-Hall",
           "position": "M",
           "eplTeam": "EVE",
-          "score": 48.23,
+          "score": 48.24,
           "teamId": "a20htiwamt05ikfr",
           "teamName": "GloryMang",
           "period": 6,
@@ -1351,7 +1351,7 @@
       ],
       "imageUrl": null,
       "unit": "FP",
-      "blurb": "완료 GW 단일 라운드"
+      "blurb": "완료 GW 매치업 슬롯 · ACTIVE만"
     },
     {
       "id": 15,
@@ -1366,43 +1366,13 @@
           "playerName": "Bart Verbruggen",
           "position": "G",
           "eplTeam": "BHA",
-          "score": 32.21,
-          "teamId": null,
-          "teamName": "FA",
-          "period": 4,
-          "date": null,
-          "imageUrl": null,
-          "rank": 1,
-          "tied": false
-        },
-        {
-          "season": "2026-27",
-          "playerId": "06cmu",
-          "playerName": "Bart Verbruggen",
-          "position": "G",
-          "eplTeam": "BHA",
-          "score": 31.32,
+          "score": 31.33,
           "teamId": "ril8ciadmt04vx0l",
           "teamName": "kms361657",
           "period": 9,
           "date": null,
           "imageUrl": null,
-          "rank": 2,
-          "tied": false
-        },
-        {
-          "season": "2026-27",
-          "playerId": "078az",
-          "playerName": "Konstantinos Tzolakis",
-          "position": "G",
-          "eplTeam": "HUL",
-          "score": 29.18,
-          "teamId": null,
-          "teamName": "FA",
-          "period": 1,
-          "date": null,
-          "imageUrl": null,
-          "rank": 3,
+          "rank": 1,
           "tied": false
         },
         {
@@ -1417,7 +1387,7 @@
           "period": 4,
           "date": null,
           "imageUrl": null,
-          "rank": 4,
+          "rank": 2,
           "tied": false
         },
         {
@@ -1432,13 +1402,43 @@
           "period": 3,
           "date": null,
           "imageUrl": null,
+          "rank": 3,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "02lz0",
+          "playerName": "Emiliano Martinez",
+          "position": "G",
+          "eplTeam": "CHE",
+          "score": 25.38,
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "period": 7,
+          "date": null,
+          "imageUrl": null,
+          "rank": 4,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "070hs",
+          "playerName": "Gianluigi Donnarumma",
+          "position": "G",
+          "eplTeam": "MCI",
+          "score": 25.18,
+          "teamId": "tuptxs8ymt1littl",
+          "teamName": "moonland",
+          "period": 6,
+          "date": null,
+          "imageUrl": null,
           "rank": 5,
           "tied": false
         }
       ],
       "imageUrl": null,
       "unit": "FP",
-      "blurb": "완료 GW · GK"
+      "blurb": "완료 GW 매치업 슬롯 · GK"
     },
     {
       "id": 16,
@@ -1479,21 +1479,6 @@
         },
         {
           "season": "2026-27",
-          "playerId": "05l27",
-          "playerName": "Jarrad Branthwaite",
-          "position": "D",
-          "eplTeam": "EVE",
-          "score": 37.54,
-          "teamId": "ct1s1zwcmt19vbyl",
-          "teamName": "DJSoccerKing",
-          "period": 9,
-          "date": null,
-          "imageUrl": null,
-          "rank": 3,
-          "tied": false
-        },
-        {
-          "season": "2026-27",
           "playerId": "0427d",
           "playerName": "James Tarkowski",
           "position": "D",
@@ -1504,7 +1489,7 @@
           "period": 5,
           "date": null,
           "imageUrl": null,
-          "rank": 4,
+          "rank": 3,
           "tied": false
         },
         {
@@ -1513,7 +1498,22 @@
           "playerName": "James Hill",
           "position": "D",
           "eplTeam": "BOU",
-          "score": 35.62,
+          "score": 35.63,
+          "teamId": "u4gyh7r5mt14pty3",
+          "teamName": "hwoojo",
+          "period": 7,
+          "date": null,
+          "imageUrl": null,
+          "rank": 4,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "04qfz",
+          "playerName": "Diogo Dalot",
+          "position": "D",
+          "eplTeam": "MUN",
+          "score": 34.11,
           "teamId": "u4gyh7r5mt14pty3",
           "teamName": "hwoojo",
           "period": 7,
@@ -1525,7 +1525,7 @@
       ],
       "imageUrl": null,
       "unit": "FP",
-      "blurb": "완료 GW · DEF"
+      "blurb": "완료 GW 매치업 슬롯 · DEF"
     },
     {
       "id": 17,
@@ -1556,8 +1556,8 @@
           "position": "M",
           "eplTeam": "CHE",
           "score": 53.74,
-          "teamId": null,
-          "teamName": "FA",
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
           "period": 9,
           "date": null,
           "imageUrl": null,
@@ -1570,7 +1570,7 @@
           "playerName": "Kiernan Dewsbury-Hall",
           "position": "M",
           "eplTeam": "EVE",
-          "score": 48.23,
+          "score": 48.24,
           "teamId": "a20htiwamt05ikfr",
           "teamName": "GloryMang",
           "period": 6,
@@ -1612,7 +1612,7 @@
       ],
       "imageUrl": null,
       "unit": "FP",
-      "blurb": "완료 GW · MID"
+      "blurb": "완료 GW 매치업 슬롯 · MID"
     },
     {
       "id": 18,
@@ -1653,21 +1653,6 @@
         },
         {
           "season": "2026-27",
-          "playerId": "06cm1",
-          "playerName": "Nicolas Jackson",
-          "position": "F",
-          "eplTeam": "AVL",
-          "score": 47.16,
-          "teamId": "3k1hj6a4msx9e1y1",
-          "teamName": "Young FC",
-          "period": 8,
-          "date": null,
-          "imageUrl": null,
-          "rank": 3,
-          "tied": false
-        },
-        {
-          "season": "2026-27",
           "playerId": "06p6j",
           "playerName": "Evanilson",
           "position": "F",
@@ -1678,7 +1663,7 @@
           "period": 7,
           "date": null,
           "imageUrl": null,
-          "rank": 4,
+          "rank": 3,
           "tied": false
         },
         {
@@ -1693,13 +1678,28 @@
           "period": 5,
           "date": null,
           "imageUrl": null,
+          "rank": 4,
+          "tied": false
+        },
+        {
+          "season": "2026-27",
+          "playerId": "05l8q",
+          "playerName": "Cole Palmer",
+          "position": "F",
+          "eplTeam": "CHE",
+          "score": 45.24,
+          "teamId": "oi40p2iymt059qby",
+          "teamName": "moonbape",
+          "period": 9,
+          "date": null,
+          "imageUrl": null,
           "rank": 5,
           "tied": false
         }
       ],
       "imageUrl": null,
       "unit": "FP",
-      "blurb": "완료 GW · FWD"
+      "blurb": "완료 GW 매치업 슬롯 · FWD"
     },
     {
       "id": 19,
